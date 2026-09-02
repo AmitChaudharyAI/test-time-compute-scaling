@@ -1,0 +1,52 @@
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Hugging Face, dataset, and runtime caches
+.cache/
+.hf_cache/
+huggingface/
+datasets_cache/
+transformers_cache/
+hub/
+
+# Model weights and large runtime checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.gguf
+*.h5
+checkpoints/
+models/
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+tmp/
+temp/
+logs/
+*.log
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/

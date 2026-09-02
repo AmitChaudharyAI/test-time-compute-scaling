@@ -1,0 +1,501 @@
+question_index,reference_answer,selected_answer_n1,vote_key_n1,tie_n1,correct_n1,selected_answer_n2,vote_key_n2,tie_n2,correct_n2,selected_answer_n4,vote_key_n4,tie_n4,correct_n4,selected_answer_n8,vote_key_n8,tie_n8,correct_n8,selected_answer_n16,vote_key_n16,tie_n16,correct_n16,category
+0,"\left( 3, \frac{\pi}{2} \right)","\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",False,True,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",False,True,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",False,True,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",False,True,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",False,True,stable_correct
+1,p - q,p - q,sympy:p - q,False,True,p - q,sympy:p - q,False,True,p - q,sympy:p - q,False,True,p - q,sympy:p - q,False,True,p - q,sympy:p - q,False,True,stable_correct
+2,\frac{14}{3},\frac{14}{3},sympy:14/3,False,True,\frac{14}{3},sympy:14/3,False,True,\frac{14}{3},sympy:14/3,False,True,\frac{14}{3},sympy:14/3,False,True,\frac{14}{3},sympy:14/3,False,True,stable_correct
+3,9,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,stable_correct
+4,\text{Evelyn},Evelyn,sympy:E*e*l*n*v*y,False,True,Evelyn,sympy:E*e*l*n*v*y,False,True,Evelyn,sympy:E*e*l*n*v*y,False,True,Evelyn,sympy:E*e*l*n*v*y,False,True,Evelyn,sympy:E*e*l*n*v*y,False,True,stable_correct
+5,42,42,sympy:42,False,True,42,sympy:42,False,True,42,sympy:42,False,True,42,sympy:42,False,True,42,sympy:42,False,True,stable_correct
+6,27,27,sympy:27,False,True,27,sympy:27,False,True,27,sympy:27,False,True,27,sympy:27,False,True,27,sympy:27,False,True,stable_correct
+7,90^\circ,74,sympy:74,False,False,74,sympy:74,True,False,74,sympy:74,True,False,90,sympy:90,False,True,90,sympy:90,False,True,recovered
+8,3\sqrt{13},3\sqrt{13},sympy:3*sqrt(13),False,True,3\sqrt{13},sympy:3*sqrt(13),False,True,3\sqrt{13},sympy:3*sqrt(13),False,True,3\sqrt{13},sympy:3*sqrt(13),False,True,3\sqrt{13},sympy:3*sqrt(13),False,True,stable_correct
+9,4,5,sympy:5,False,False,5,sympy:5,True,False,1,sympy:1,False,False,4,sympy:4,True,True,1,sympy:1,False,False,regressed_or_unstable
+10,2220,2220,sympy:2220,False,True,2220,sympy:2220,False,True,2220,sympy:2220,False,True,2220,sympy:2220,False,True,2220,sympy:2220,False,True,stable_correct
+11,\frac{3}{56},,,False,False,\frac{8}{63},sympy:8/63,False,False,\frac{8}{63},sympy:8/63,True,False,\frac{8}{63},sympy:8/63,True,False,\frac{8}{63},sympy:8/63,True,False,stable_wrong
+12,284,284,sympy:284,False,True,284,sympy:284,False,True,284,sympy:284,False,True,284,sympy:284,False,True,284,sympy:284,False,True,stable_correct
+13,5,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,stable_correct
+14,\sqrt{51},10,sympy:10,False,False,10,sympy:10,True,False,10,sympy:10,False,False,10,sympy:10,False,False,10,sympy:10,False,False,stable_wrong
+15,6 - 5i,6 - 5i,sympy:-1*5*i + 6,False,True,6 - 5i,sympy:-1*5*i + 6,False,True,6 - 5i,sympy:-1*5*i + 6,False,True,6 - 5i,sympy:-1*5*i + 6,False,True,6 - 5i,sympy:-1*5*i + 6,False,True,stable_correct
+16,-50,-50,sympy:-50,False,True,-50,sympy:-50,False,True,-50,sympy:-50,False,True,-50,sympy:-50,False,True,-50,sympy:-50,False,True,stable_correct
+17,\pi,\frac{\pi}{2},sympy:pi/2,False,False,\frac{\pi}{2},sympy:pi/2,True,False,\pi,sympy:pi,False,True,\frac{\pi}{2},sympy:pi/2,True,False,\frac{\pi}{2},sympy:pi/2,False,False,regressed_or_unstable
+18,28,28,sympy:28,False,True,28,sympy:28,False,True,28,sympy:28,True,True,56,sympy:56,False,False,56,sympy:56,False,False,regressed_or_unstable
+19,3,\boxed{3},sympy:3,False,True,\boxed{3},sympy:3,False,True,\boxed{3},sympy:3,False,True,\boxed{3},sympy:3,False,True,\boxed{3},sympy:3,False,True,stable_correct
+20,6+9i,6+9i,sympy:9*i + 6,False,True,6+9i,sympy:9*i + 6,False,True,6+9i,sympy:9*i + 6,False,True,6+9i,sympy:9*i + 6,False,True,6+9i,sympy:9*i + 6,False,True,stable_correct
+21,13535,6768,sympy:6768,False,False,6768,sympy:6768,True,False,6768,sympy:6768,True,False,13535,sympy:13535,False,True,13535,sympy:13535,False,True,recovered
+22,5,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,stable_correct
+23,x=5,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,stable_correct
+24,10,10,sympy:10,False,True,10,sympy:10,True,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,stable_correct
+25,"1,-2",,,False,False,\text{No solution},sympy:i*l*n*n*o*o*o*s*t*u,False,False,\text{No solution},sympy:i*l*n*n*o*o*o*s*t*u,True,False,"0, 1","sympy:{0, 1}",False,False,"0, 1","sympy:{0, 1}",True,False,stable_wrong
+26,144,576,sympy:576,False,False,576,sympy:576,True,False,576,sympy:576,True,False,576,sympy:576,False,False,576,sympy:576,False,False,stable_wrong
+27,78,78,sympy:78,False,True,78,sympy:78,False,True,78,sympy:78,False,True,78,sympy:78,False,True,78,sympy:78,False,True,stable_correct
+28,-2 + 7i,-2 + 7i,sympy:7*i - 2,False,True,-2 + 7i,sympy:7*i - 2,False,True,-2 + 7i,sympy:7*i - 2,False,True,-2 + 7i,sympy:7*i - 2,False,True,-2 + 7i,sympy:7*i - 2,False,True,stable_correct
+29,225,225,sympy:225,False,True,225,sympy:225,False,True,225,sympy:225,False,True,225,sympy:225,False,True,225,sympy:225,False,True,stable_correct
+30,52_8,52,sympy:52,False,True,52,sympy:52,False,True,52,sympy:52,False,True,52,sympy:52,False,True,52,sympy:52,False,True,stable_correct
+31,11\sqrt2,11\sqrt{2},sympy:11*sqrt(2),False,True,11\sqrt{2},sympy:11*sqrt(2),False,True,11\sqrt{2},sympy:11*sqrt(2),False,True,11\sqrt{2},sympy:11*sqrt(2),False,True,11\sqrt{2},sympy:11*sqrt(2),False,True,stable_correct
+32,720,720,sympy:720,False,True,720,sympy:720,False,True,720,sympy:720,False,True,720,sympy:720,False,True,720,sympy:720,False,True,stable_correct
+33,\frac{243}{625},\frac{27}{70},sympy:27/70,False,False,\frac{27}{70},sympy:27/70,True,False,\frac{9}{25},sympy:9/25,False,False,\frac{9}{25},sympy:9/25,False,False,\frac{81}{205},sympy:81/205,False,False,stable_wrong
+34,-125,-125,sympy:-125,False,True,-125,sympy:-125,False,True,-125,sympy:-125,False,True,-125,sympy:-125,False,True,-125,sympy:-125,False,True,stable_correct
+35,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+36,"3, 5, 7",5,sympy:5,False,False,5,sympy:5,True,False,"3, 5, 7","sympy:{3, 5, 7}",False,True,"3, 5, 7","sympy:{3, 5, 7}",False,True,"3, 5, 7","sympy:{3, 5, 7}",False,True,recovered
+37,72,72,sympy:72,False,True,72,sympy:72,False,True,72,sympy:72,False,True,72,sympy:72,False,True,72,sympy:72,False,True,stable_correct
+38,2000,2000,sympy:2000,False,True,2000,sympy:2000,False,True,2000,sympy:2000,False,True,2000,sympy:2000,False,True,2000,sympy:2000,False,True,stable_correct
+39,23,23,sympy:23,False,True,23,sympy:23,False,True,23,sympy:23,False,True,23,sympy:23,False,True,23,sympy:23,False,True,stable_correct
+40,12,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,stable_correct
+41,17,17,sympy:17,False,True,17,sympy:17,True,True,17,sympy:17,False,True,17,sympy:17,True,True,5,sympy:5,False,False,regressed_or_unstable
+42,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+43,70 \sqrt{2},20\sqrt{5} + 80,sympy:20*sqrt(5) + 80,False,False,20\sqrt{5} + 80,sympy:20*sqrt(5) + 80,True,False,20\sqrt{5} + 10\sqrt{34},sympy:20*sqrt(5) + 10*sqrt(34),False,False,20\sqrt{5} + 10\sqrt{34},sympy:20*sqrt(5) + 10*sqrt(34),False,False,20\sqrt{5} + 10\sqrt{34},sympy:20*sqrt(5) + 10*sqrt(34),False,False,stable_wrong
+44,1.25,1.25,sympy:1.25000000000000,False,True,1.25,sympy:1.25000000000000,False,True,1.25,sympy:1.25000000000000,False,True,1.25,sympy:1.25000000000000,False,True,1.25,sympy:1.25000000000000,False,True,stable_correct
+45,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+46,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+47,5,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,stable_correct
+48,\frac{3}{2},\frac{3}{2},sympy:3/2,False,True,\frac{3}{2},sympy:3/2,False,True,\frac{3}{2},sympy:3/2,False,True,\frac{3}{2},sympy:3/2,False,True,\frac{3}{2},sympy:3/2,False,True,stable_correct
+49,83,83,sympy:83,False,True,83,sympy:83,False,True,83,sympy:83,False,True,83,sympy:83,False,True,83,sympy:83,False,True,stable_correct
+50,203,29,sympy:29,False,False,29,sympy:29,True,False,256,sympy:256,False,False,203,sympy:203,False,True,203,sympy:203,False,True,recovered
+51,x^5 - x^4 + x^3 - x^2 + x - 1,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,False,True,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,False,True,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,False,True,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,False,True,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,False,True,stable_correct
+52,12,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,stable_correct
+53,-\frac{\pi}{6},-\frac{\pi}{6},sympy:-1*pi/6,False,True,-\frac{\pi}{6},sympy:-1*pi/6,False,True,-\frac{\pi}{6},sympy:-1*pi/6,False,True,-\frac{\pi}{6},sympy:-1*pi/6,False,True,-\frac{\pi}{6},sympy:-1*pi/6,False,True,stable_correct
+54,0.15,0.15,sympy:0.150000000000000,False,True,0.15,sympy:0.150000000000000,False,True,0.15,sympy:0.150000000000000,False,True,0.15,sympy:0.150000000000000,False,True,0.15,sympy:0.150000000000000,False,True,stable_correct
+55,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+56,11,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,stable_correct
+57,16,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,stable_correct
+58,9901,9901,sympy:9901,False,True,9901,sympy:9901,False,True,9901,sympy:9901,False,True,9901,sympy:9901,False,True,9901,sympy:9901,False,True,stable_correct
+59,5,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,stable_correct
+60,"(6,31,-1)",,,False,False,,,False,False,"(0, -280, -244)","sympy:(0, -280, -244)",False,False,"(-3, 3, -1)","sympy:(-3, 3, -1)",False,False,"(-3, 3, -1)","sympy:(-3, 3, -1)",False,False,stable_wrong
+61,-256,-256,sympy:-256,False,True,-256,sympy:-256,False,True,-256,sympy:-256,False,True,-256,sympy:-256,False,True,-256,sympy:-256,False,True,stable_correct
+62,4,\sqrt{\frac{17 + \sqrt{129}}{2}},sympy:sqrt((sqrt(129) + 17)/2),False,False,\sqrt{\frac{17 + \sqrt{129}}{2}},sympy:sqrt((sqrt(129) + 17)/2),True,False,\sqrt{\frac{17 + \sqrt{129}}{2}},sympy:sqrt((sqrt(129) + 17)/2),True,False,4,sympy:4,False,True,\sqrt{\frac{17 + \sqrt{177}}{2}},sympy:sqrt((sqrt(177) + 17)/2),False,False,regressed_or_unstable
+63,10,7,sympy:7,False,False,7,sympy:7,True,False,9,sympy:9,False,False,9,sympy:9,False,False,9,sympy:9,False,False,stable_wrong
+64,\frac{35}{64},,,False,False,\frac{1}{16},sympy:1/16,False,False,\frac{1}{16},sympy:1/16,True,False,\frac{35}{64},sympy:35/64,False,True,\frac{35}{64},sympy:35/64,False,True,recovered
+65,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+66,x^3+3x-6,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,False,True,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,False,True,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,False,True,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,False,True,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,False,True,stable_correct
+67,10,10,sympy:10,False,True,10,sympy:10,True,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,stable_correct
+68,46,46,sympy:46,False,True,46,sympy:46,False,True,46,sympy:46,False,True,46,sympy:46,False,True,46,sympy:46,False,True,stable_correct
+69,-1,-1,sympy:-1,False,True,-1,sympy:-1,False,True,-1,sympy:-1,False,True,-1,sympy:-1,False,True,-1,sympy:-1,False,True,stable_correct
+70,40_9,40_9,sympy:40,False,True,40_9,sympy:40,False,True,40_9,sympy:40,False,True,40_9,sympy:40,False,True,40_9,sympy:40,False,True,stable_correct
+71,2516_8,1234,sympy:1234,False,False,1234,sympy:1234,True,False,2516,sympy:2516,False,True,2516,sympy:2516,False,True,2516,sympy:2516,False,True,recovered
+72,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+73,\frac{3\sqrt{3}}{4},\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,False,True,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,False,True,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,False,True,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,False,True,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,False,True,stable_correct
+74,\cot x,\cot x,sympy:cot(x),False,True,\cot x,sympy:cot(x),False,True,\cot x,sympy:cot(x),False,True,\cot x,sympy:cot(x),False,True,\cot x,sympy:cot(x),False,True,stable_correct
+75,\frac{11}{36},\frac{11}{36},sympy:11/36,False,True,\frac{11}{36},sympy:11/36,False,True,\frac{11}{36},sympy:11/36,False,True,\frac{11}{36},sympy:11/36,False,True,\frac{11}{36},sympy:11/36,False,True,stable_correct
+76,0,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,stable_correct
+77,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+78,"(-2,1)","(-2, 1)","sympy:Interval.open(-2, 1)",False,True,"(-2, 1)","sympy:Interval.open(-2, 1)",False,True,"(-2, 1)","sympy:Interval.open(-2, 1)",False,True,"(-2, 1)","sympy:Interval.open(-2, 1)",False,True,"(-2, 1)","sympy:Interval.open(-2, 1)",False,True,stable_correct
+79,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+80,501,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,stable_wrong
+81,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+82,\frac{3}{2},\frac{3}{4},sympy:3/4,False,False,\frac{3}{4},sympy:3/4,True,False,\frac{3}{4},sympy:3/4,True,False,\frac{3}{2},sympy:3/2,False,True,\frac{3}{2},sympy:3/2,False,True,recovered
+83,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+84,-1,-1,sympy:-1,False,True,-1,sympy:-1,False,True,-1,sympy:-1,False,True,-1,sympy:-1,False,True,-1,sympy:-1,False,True,stable_correct
+85,\sqrt{5},\sqrt{5},sympy:sqrt(5),False,True,\sqrt{5},sympy:sqrt(5),False,True,\sqrt{5},sympy:sqrt(5),False,True,\sqrt{5},sympy:sqrt(5),False,True,\sqrt{5},sympy:sqrt(5),False,True,stable_correct
+86,240,240,sympy:240,False,True,240,sympy:240,False,True,240,sympy:240,False,True,240,sympy:240,False,True,240,sympy:240,False,True,stable_correct
+87,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+88,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+89,21,3,sympy:3,False,False,3,sympy:3,True,False,21,sympy:21,False,True,21,sympy:21,False,True,21,sympy:21,False,True,recovered
+90,\frac{3}{2},15,sympy:15,False,False,15,sympy:15,False,False,15,sympy:15,False,False,15,sympy:15,False,False,15,sympy:15,False,False,stable_wrong
+91,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,True,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+92,\frac{448}{15625},\frac{2240}{78125},sympy:448/15625,False,True,\frac{2240}{78125},sympy:448/15625,False,True,\frac{2240}{78125},sympy:448/15625,False,True,\frac{2240}{78125},sympy:448/15625,False,True,\frac{2240}{78125},sympy:448/15625,False,True,stable_correct
+93,33,33,sympy:33,False,True,33,sympy:33,False,True,33,sympy:33,False,True,33,sympy:33,False,True,33,sympy:33,False,True,stable_correct
+94,80,,,False,False,70,sympy:70,False,False,70,sympy:70,False,False,70,sympy:70,True,False,70,sympy:70,False,False,stable_wrong
+95,-4,-4,sympy:-4,False,True,-4,sympy:-4,False,True,-4,sympy:-4,False,True,-4,sympy:-4,False,True,-4,sympy:-4,False,True,stable_correct
+96,1 \pm \sqrt{19},"-1, 7","sympy:{-1, 7}",False,False,"-1, 7","sympy:{-1, 7}",False,False,"-1, 7","sympy:{-1, 7}",False,False,"-1, 7","sympy:{-1, 7}",True,False,2,sympy:2,False,False,stable_wrong
+97,\text{east},east,sympy:E*a*s*t,False,True,east,sympy:E*a*s*t,False,True,east,sympy:E*a*s*t,False,True,east,sympy:E*a*s*t,False,True,east,sympy:E*a*s*t,False,True,stable_correct
+98,2k+2,2k + 2,sympy:2*k + 2,False,True,2k + 2,sympy:2*k + 2,False,True,2k + 2,sympy:2*k + 2,False,True,2k + 2,sympy:2*k + 2,False,True,2k + 2,sympy:2*k + 2,False,True,stable_correct
+99,\begin{pmatrix} -1/3 \\ 2/3 \\ 5/3 \end{pmatrix},,,False,False,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",False,False,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",False,False,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",False,False,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",False,False,stable_wrong
+100,145^\circ,15,sympy:15,False,False,15,sympy:15,True,False,15,sympy:15,True,False,155^\circ,sympy:155,False,False,155^\circ,sympy:155,True,False,stable_wrong
+101,850,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,True,False,1,sympy:1,True,False,stable_wrong
+102,(a+5)(b+2),(a+5)(b+2),sympy:(a + 5)*(b + 2),False,True,(a+5)(b+2),sympy:(a + 5)*(b + 2),False,True,(a+5)(b+2),sympy:(a + 5)*(b + 2),False,True,(a+5)(b+2),sympy:(a + 5)*(b + 2),False,True,(a+5)(b+2),sympy:(a + 5)*(b + 2),False,True,stable_correct
+103,"(3,4]",,,False,False,2,sympy:2,False,False,2,sympy:2,False,False,2,sympy:2,False,False,"(1, 4)","sympy:Interval.open(1, 4)",False,False,stable_wrong
+104,40,36,sympy:36,False,False,36,sympy:36,False,False,36,sympy:36,False,False,36,sympy:36,False,False,36,sympy:36,False,False,stable_wrong
+105,29,15,sympy:15,False,False,15,sympy:15,True,False,15,sympy:15,True,False,15.5,sympy:15.5000000000000,False,False,15.5,sympy:15.5000000000000,False,False,stable_wrong
+106,\frac43,\frac{4}{3},sympy:4/3,False,True,\frac{4}{3},sympy:4/3,False,True,\frac{4}{3},sympy:4/3,False,True,\frac{4}{3},sympy:4/3,False,True,\frac{4}{3},sympy:4/3,False,True,stable_correct
+107,9,9,sympy:9,False,True,9,sympy:9,True,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,stable_correct
+108,2,2,sympy:2,False,True,2,sympy:2,True,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+109,120^\circ,,,False,False,,,False,False,,,False,False,65,sympy:65,True,False,65,sympy:65,True,False,stable_wrong
+110,504,,,False,False,,,False,False,3,sympy:3,False,False,3,sympy:3,False,False,3,sympy:3,False,False,stable_wrong
+111,210,210,sympy:210,False,True,210,sympy:210,False,True,210,sympy:210,False,True,210,sympy:210,False,True,210,sympy:210,False,True,stable_correct
+112,13,12,sympy:12,False,False,12,sympy:12,True,False,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,recovered
+113,8000,8000,sympy:8000,False,True,8000,sympy:8000,False,True,8000,sympy:8000,False,True,8000,sympy:8000,False,True,8000,sympy:8000,False,True,stable_correct
+114,-5,-5,sympy:-5,False,True,-5,sympy:-5,False,True,-5,sympy:-5,False,True,-5,sympy:-5,False,True,-5,sympy:-5,False,True,stable_correct
+115,1260,30240,sympy:30240,False,False,30240,sympy:30240,True,False,30240,sympy:30240,True,False,30240,sympy:30240,False,False,30240,sympy:30240,False,False,stable_wrong
+116,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+117,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+118,81,,,False,False,81,sympy:81,False,True,81,sympy:81,False,True,81,sympy:81,False,True,81,sympy:81,False,True,recovered
+119,-9,-9,sympy:-9,False,True,-9,sympy:-9,True,True,-9,sympy:-9,True,True,-9,sympy:-9,False,True,-9,sympy:-9,False,True,stable_correct
+120,\text{even},\text{odd},sympy:dd*o,False,False,\text{odd},sympy:dd*o,True,False,\text{odd},sympy:dd*o,False,False,\text{odd},sympy:dd*o,False,False,\text{odd},sympy:dd*o,False,False,stable_wrong
+121,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+122,9,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,stable_correct
+123,8,,,False,False,8,sympy:8,False,True,8,sympy:8,True,True,6,sympy:6,False,False,6,sympy:6,False,False,regressed_or_unstable
+124,\frac{11}{2},\frac{11}{2},sympy:11/2,False,True,\frac{11}{2},sympy:11/2,False,True,\frac{11}{2},sympy:11/2,False,True,\frac{11}{2},sympy:11/2,False,True,\frac{11}{2},sympy:11/2,False,True,stable_correct
+125,-3,-3,sympy:-3,False,True,-3,sympy:-3,False,True,-3,sympy:-3,False,True,-3,sympy:-3,False,True,-3,sympy:-3,False,True,stable_correct
+126,1+274i,1 + 2i,sympy:2*i + 1,False,False,1 + 2i,sympy:2*i + 1,False,False,1 + 2i,sympy:2*i + 1,False,False,1 + 2i,sympy:2*i + 1,False,False,1 + 2i,sympy:2*i + 1,True,False,stable_wrong
+127,4210_{5},4210,sympy:4210,False,True,4210,sympy:4210,False,True,4210,sympy:4210,False,True,4210,sympy:4210,False,True,4210,sympy:4210,False,True,stable_correct
+128,36,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,stable_correct
+129,\frac{3840}{289},\frac{480}{17},sympy:480/17,False,False,\frac{480}{17},sympy:480/17,True,False,\frac{3840}{289},sympy:3840/289,False,True,\frac{3840}{289},sympy:3840/289,False,True,\frac{3840}{289},sympy:3840/289,False,True,recovered
+130,13,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,stable_correct
+131,8,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,stable_correct
+132,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+133,120,120,sympy:120,False,True,120,sympy:120,False,True,120,sympy:120,False,True,120,sympy:120,False,True,120,sympy:120,False,True,stable_correct
+134,16,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,stable_correct
+135,9,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,stable_correct
+136,64,,,False,False,,,False,False,,,False,False,64,sympy:64,False,True,64,sympy:64,False,True,recovered
+137,204_5,204_5,sympy:204,False,True,204_5,sympy:204,False,True,204_5,sympy:204,False,True,204_5,sympy:204,False,True,204_5,sympy:204,False,True,stable_correct
+138,\frac{1}{3},,,False,False,1,sympy:1,False,False,1,sympy:1,True,False,0,sympy:0,False,False,\frac{1}{5},sympy:1/5,False,False,stable_wrong
+139,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+140,13,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,stable_correct
+141,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+142,28800,28800,sympy:28800,False,True,28800,sympy:28800,True,True,28800,sympy:28800,False,True,28800,sympy:28800,True,True,28800,sympy:28800,True,True,stable_correct
+143,3 \sqrt{5},3\sqrt{5},sympy:3*sqrt(5),False,True,3\sqrt{5},sympy:3*sqrt(5),False,True,3\sqrt{5},sympy:3*sqrt(5),False,True,3\sqrt{5},sympy:3*sqrt(5),False,True,3\sqrt{5},sympy:3*sqrt(5),False,True,stable_correct
+144,"(15,-29)","(15, -29)","sympy:(15, -29)",False,True,"(15, -29)","sympy:(15, -29)",False,True,"(15, -29)","sympy:(15, -29)",False,True,"(15, -29)","sympy:(15, -29)",False,True,"(15, -29)","sympy:(15, -29)",False,True,stable_correct
+145,-2,-2,sympy:-2,False,True,-2,sympy:-2,True,True,-2,sympy:-2,False,True,-2,sympy:-2,True,True,-2,sympy:-2,False,True,stable_correct
+146,\frac{\sqrt{3}}{3},\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,stable_correct
+147,16,16,sympy:16,False,True,16,sympy:16,True,True,12,sympy:12,False,False,16,sympy:16,True,True,12,sympy:12,False,False,regressed_or_unstable
+148,11,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,stable_correct
+149,49,49,sympy:49,False,True,49,sympy:49,False,True,49,sympy:49,False,True,49,sympy:49,False,True,49,sympy:49,False,True,stable_correct
+150,1,,,False,False,,,False,False,3,sympy:3,False,False,3,sympy:3,False,False,3,sympy:3,False,False,stable_wrong
+151,144,144,sympy:144,False,True,144,sympy:144,False,True,144,sympy:144,False,True,144,sympy:144,False,True,144,sympy:144,False,True,stable_correct
+152,8,8,sympy:8,False,True,8,sympy:8,True,True,16,sympy:16,False,False,16,sympy:16,False,False,16,sympy:16,False,False,regressed_or_unstable
+153,\frac{2}{21},\frac{2}{21},sympy:2/21,False,True,\frac{2}{21},sympy:2/21,False,True,\frac{2}{21},sympy:2/21,False,True,\frac{2}{21},sympy:2/21,False,True,\frac{2}{21},sympy:2/21,False,True,stable_correct
+154,2\sqrt{113},2\sqrt{34},sympy:2*sqrt(34),False,False,2\sqrt{34},sympy:2*sqrt(34),True,False,2\sqrt{34},sympy:2*sqrt(34),True,False,2\sqrt{34},sympy:2*sqrt(34),True,False,2\sqrt{34},sympy:2*sqrt(34),False,False,stable_wrong
+155,\frac{1}{4},\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,stable_correct
+156,30^\circ,90,sympy:90,False,False,90,sympy:90,False,False,90,sympy:90,False,False,90,sympy:90,False,False,90,sympy:90,False,False,stable_wrong
+157,\frac65,\frac{6}{5},sympy:6/5,False,True,\frac{6}{5},sympy:6/5,False,True,\frac{6}{5},sympy:6/5,False,True,\frac{6}{5},sympy:6/5,False,True,\frac{6}{5},sympy:6/5,False,True,stable_correct
+158,2107,2107,sympy:2107,False,True,2107,sympy:2107,False,True,2107,sympy:2107,False,True,2107,sympy:2107,False,True,2107,sympy:2107,False,True,stable_correct
+159,3.21,3.21,sympy:3.21000000000000,False,True,3.21,sympy:3.21000000000000,False,True,3.21,sympy:3.21000000000000,False,True,3.21,sympy:3.21000000000000,False,True,3.21,sympy:3.21000000000000,False,True,stable_correct
+160,18,18,sympy:18,False,True,18,sympy:18,False,True,18,sympy:18,False,True,18,sympy:18,False,True,18,sympy:18,False,True,stable_correct
+161,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+162,\dfrac{17}{50},\frac{17}{50},sympy:17/50,False,True,\frac{17}{50},sympy:17/50,False,True,\frac{17}{50},sympy:17/50,False,True,\frac{17}{50},sympy:17/50,False,True,\frac{17}{50},sympy:17/50,False,True,stable_correct
+163,-\frac{35}{9},-\frac{35}{9},sympy:-35/9,False,True,-\frac{35}{9},sympy:-35/9,False,True,-\frac{35}{9},sympy:-35/9,False,True,-\frac{35}{9},sympy:-35/9,False,True,-\frac{35}{9},sympy:-35/9,False,True,stable_correct
+164,-\sqrt{3},\sqrt{3},sympy:sqrt(3),False,False,\sqrt{3},sympy:sqrt(3),False,False,\sqrt{3},sympy:sqrt(3),False,False,-\sqrt{3},sympy:-sqrt(3),False,True,\sqrt{3},sympy:sqrt(3),False,False,regressed_or_unstable
+165,\frac{4}{9},\frac{4}{9},sympy:4/9,False,True,\frac{4}{9},sympy:4/9,False,True,\frac{4}{9},sympy:4/9,False,True,\frac{4}{9},sympy:4/9,False,True,\frac{4}{9},sympy:4/9,False,True,stable_correct
+166,\frac{270}7\text{ degrees},\frac{180}{7},sympy:180/7,False,False,\frac{180}{7},sympy:180/7,True,False,\frac{180}{7},sympy:180/7,True,False,\frac{270}{7},sympy:270/7,False,True,\frac{270}{7},sympy:270/7,False,True,recovered
+167,65,65,sympy:65,False,True,65,sympy:65,False,True,65,sympy:65,False,True,65,sympy:65,False,True,65,sympy:65,False,True,stable_correct
+168,19,12,sympy:12,False,False,12,sympy:12,False,False,12,sympy:12,False,False,12,sympy:12,False,False,12,sympy:12,False,False,stable_wrong
+169,12,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,stable_correct
+170,1736,20,sympy:20,False,False,20,sympy:20,False,False,20,sympy:20,False,False,20,sympy:20,False,False,20,sympy:20,False,False,stable_wrong
+171,\frac{13}{15},\frac{13}{15},sympy:13/15,False,True,\frac{13}{15},sympy:13/15,False,True,\frac{13}{15},sympy:13/15,False,True,\frac{13}{15},sympy:13/15,False,True,\frac{13}{15},sympy:13/15,False,True,stable_correct
+172,350,350,sympy:350,False,True,350,sympy:350,False,True,350,sympy:350,False,True,350,sympy:350,False,True,350,sympy:350,False,True,stable_correct
+173,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+174,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+175,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+176,.0000672,0.0000672,sympy:6.72000000000000e-5,False,True,0.0000672,sympy:6.72000000000000e-5,True,True,0.0000672,sympy:6.72000000000000e-5,False,True,0.0000672,sympy:6.72000000000000e-5,False,True,0.0000672,sympy:6.72000000000000e-5,False,True,stable_correct
+177,30^\circ,60,sympy:60,False,False,60,sympy:60,False,False,60,sympy:60,False,False,60,sympy:60,False,False,60,sympy:60,False,False,stable_wrong
+178,60,60,sympy:60,False,True,60,sympy:60,False,True,60,sympy:60,False,True,60,sympy:60,False,True,60,sympy:60,False,True,stable_correct
+179,5x - 7y + 11z + 4 = 0,5x - 7y + 11z + 4 = 0,"sympy:Eq(5*x - 1*7*y + 11*z + 4, 0)",False,True,5x - 7y + 11z + 4 = 0,"sympy:Eq(5*x - 1*7*y + 11*z + 4, 0)",False,True,5x - 7y + 11z + 4 = 0,"sympy:Eq(5*x - 1*7*y + 11*z + 4, 0)",False,True,5x - 7y + 11z + 4 = 0,"sympy:Eq(5*x - 1*7*y + 11*z + 4, 0)",False,True,5x - 7y + 11z + 4 = 0,"sympy:Eq(5*x - 1*7*y + 11*z + 4, 0)",False,True,stable_correct
+180,3,3,sympy:3,False,True,3,sympy:3,True,True,3,sympy:3,True,True,2,sympy:2,False,False,3,sympy:3,False,True,regressed_or_unstable
+181,\frac{\sqrt{3}}{3},\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,False,True,stable_correct
+182,1251,1251,sympy:1251,False,True,1251,sympy:1251,False,True,1251,sympy:1251,False,True,1251,sympy:1251,False,True,1251,sympy:1251,False,True,stable_correct
+183,23,23,sympy:23,False,True,23,sympy:23,False,True,23,sympy:23,False,True,23,sympy:23,False,True,23,sympy:23,False,True,stable_correct
+184,"(2,\infty)","[2, \infty)","sympy:Interval(2, oo)",False,False,"[2, \infty)","sympy:Interval(2, oo)",True,False,"[3, \infty)","sympy:Interval(3, oo)",False,False,"[3, \infty)","sympy:Interval(3, oo)",False,False,"[3, \infty)","sympy:Interval(3, oo)",False,False,stable_wrong
+185,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+186,7,7,sympy:7,False,True,7,sympy:7,False,True,7,sympy:7,False,True,7,sympy:7,False,True,7,sympy:7,False,True,stable_correct
+187,7,7,sympy:7,False,True,7,sympy:7,False,True,7,sympy:7,False,True,7,sympy:7,False,True,7,sympy:7,False,True,stable_correct
+188,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+189,160,80,sympy:80,False,False,80,sympy:80,True,False,20,sympy:20,False,False,20,sympy:20,False,False,160,sympy:160,False,True,recovered
+190,\frac{13}{18},\frac{13}{18},sympy:13/18,False,True,\frac{13}{18},sympy:13/18,True,True,\frac{13}{18},sympy:13/18,False,True,\frac{13}{18},sympy:13/18,True,True,\frac{25}{36},sympy:25/36,False,False,regressed_or_unstable
+191,0,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,stable_correct
+192,30,30,sympy:30,False,True,30,sympy:30,False,True,30,sympy:30,False,True,30,sympy:30,False,True,30,sympy:30,False,True,stable_correct
+193,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+194,\frac{1}{4},\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,stable_correct
+195,24,24,sympy:24,False,True,24,sympy:24,False,True,24,sympy:24,False,True,24,sympy:24,False,True,24,sympy:24,False,True,stable_correct
+196,1600,1600,sympy:1600,False,True,1600,sympy:1600,False,True,1600,sympy:1600,False,True,1600,sympy:1600,False,True,1600,sympy:1600,False,True,stable_correct
+197,6,6,sympy:6,False,True,6,sympy:6,True,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+198,"10,\!080",10080,sympy:10080,False,True,10080,sympy:10080,False,True,10080,sympy:10080,False,True,10080,sympy:10080,False,True,10080,sympy:10080,False,True,stable_correct
+199,17,17,sympy:17,False,True,17,sympy:17,False,True,17,sympy:17,False,True,17,sympy:17,False,True,17,sympy:17,False,True,stable_correct
+200,40,40,sympy:40,False,True,40,sympy:40,False,True,40,sympy:40,False,True,40,sympy:40,False,True,40,sympy:40,False,True,stable_correct
+201,66,66,sympy:66,False,True,66,sympy:66,False,True,66,sympy:66,False,True,66,sympy:66,False,True,66,sympy:66,False,True,stable_correct
+202,\frac{2}{3},\frac{2}{3},sympy:2/3,False,True,\frac{2}{3},sympy:2/3,False,True,\frac{2}{3},sympy:2/3,False,True,\frac{2}{3},sympy:2/3,False,True,\frac{2}{3},sympy:2/3,False,True,stable_correct
+203,12,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,stable_correct
+204,0,256,sympy:256,False,False,256,sympy:256,True,False,256,sympy:256,False,False,256,sympy:256,False,False,16,sympy:16,False,False,stable_wrong
+205,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,False,True,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,False,True,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,False,True,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,False,True,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,False,True,stable_correct
+206,"\left( \frac{3}{2}, -13 \right)","\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",False,True,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",False,True,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",False,True,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",False,True,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",False,True,stable_correct
+207,28,28,sympy:28,False,True,28,sympy:28,False,True,28,sympy:28,False,True,28,sympy:28,False,True,28,sympy:28,False,True,stable_correct
+208,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+209,16,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,stable_correct
+210,10,10,sympy:10,False,True,10,sympy:10,True,True,10,sympy:10,True,True,10,sympy:10,False,True,10,sympy:10,False,True,stable_correct
+211,5,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,stable_correct
+212,56,56,sympy:56,False,True,56,sympy:56,True,True,56,sympy:56,False,True,56,sympy:56,False,True,56,sympy:56,False,True,stable_correct
+213,2,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,stable_wrong
+214,110,65,sympy:65,False,False,65,sympy:65,True,False,100,sympy:100,False,False,100,sympy:100,False,False,100,sympy:100,False,False,stable_wrong
+215,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+216,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+217,"11,\! 111,\! 111,\! 100",11111111100,sympy:11111111100,False,False,11111111100,sympy:11111111100,False,False,11111111100,sympy:11111111100,False,False,11111111100,sympy:11111111100,False,False,11111111100,sympy:11111111100,False,False,stable_wrong
+218,"(-1,6)","(-1, 6)","sympy:Interval.open(-1, 6)",False,True,"(-1, 6)","sympy:Interval.open(-1, 6)",False,True,"(-1, 6)","sympy:Interval.open(-1, 6)",False,True,"(-1, 6)","sympy:Interval.open(-1, 6)",False,True,"(-1, 6)","sympy:Interval.open(-1, 6)",False,True,stable_correct
+219,\frac{1}{2},\frac{1}{2},sympy:1/2,False,True,\frac{1}{2},sympy:1/2,True,True,\frac{1}{2},sympy:1/2,True,True,\frac{1}{2},sympy:1/2,False,True,\frac{1}{2},sympy:1/2,True,True,stable_correct
+220,\frac{16}{27},\frac{2}{27},sympy:2/27,False,False,\frac{2}{27},sympy:2/27,False,False,\frac{2}{27},sympy:2/27,False,False,\frac{2}{27},sympy:2/27,False,False,\frac{2}{27},sympy:2/27,False,False,stable_wrong
+221,900,900,sympy:900,False,True,900,sympy:900,False,True,900,sympy:900,False,True,900,sympy:900,False,True,900,sympy:900,False,True,stable_correct
+222,54,\frac{6}{25},sympy:6/25,False,False,\frac{6}{25},sympy:6/25,True,False,150,sympy:150,False,False,150,sympy:150,False,False,150,sympy:150,False,False,stable_wrong
+223,14,14,sympy:14,False,True,14,sympy:14,False,True,14,sympy:14,False,True,14,sympy:14,False,True,14,sympy:14,False,True,stable_correct
+224,\frac{9}{256},\frac{1}{16},sympy:1/16,False,False,\frac{1}{16},sympy:1/16,False,False,\frac{1}{16},sympy:1/16,False,False,\frac{1}{16},sympy:1/16,False,False,\frac{1}{16},sympy:1/16,False,False,stable_wrong
+225,11,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,stable_correct
+226,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+227,\text{(C)},\text{C},sympy:c,False,True,\text{C},sympy:c,False,True,\text{C},sympy:c,False,True,\text{C},sympy:c,False,True,\text{C},sympy:c,False,True,stable_correct
+228,288 \pi,36,sympy:36,False,False,36,sympy:36,True,False,288\pi,sympy:288*pi,False,True,288\pi,sympy:288*pi,False,True,288\pi,sympy:288*pi,False,True,recovered
+229,90,90,sympy:90,False,True,90,sympy:90,False,True,90,sympy:90,False,True,90,sympy:90,False,True,90,sympy:90,False,True,stable_correct
+230,\frac{16}{5},\frac{16}{5},sympy:16/5,False,True,\frac{16}{5},sympy:16/5,False,True,\frac{16}{5},sympy:16/5,False,True,\frac{16}{5},sympy:16/5,False,True,\frac{16}{5},sympy:16/5,False,True,stable_correct
+231,10,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,stable_correct
+232,\frac{1997}{2},998,sympy:998,False,False,998,sympy:998,True,False,\frac{1997}{2},sympy:1997/2,False,True,\frac{1997}{2},sympy:1997/2,False,True,\frac{1997}{2},sympy:1997/2,False,True,recovered
+233,30^\circ,30,sympy:30,False,True,30,sympy:30,False,True,30,sympy:30,False,True,30,sympy:30,False,True,30,sympy:30,False,True,stable_correct
+234,34,49,sympy:49,False,False,49,sympy:49,False,False,49,sympy:49,True,False,34,sympy:34,False,True,34,sympy:34,False,True,recovered
+235,\frac 59,\frac{5}{9},sympy:5/9,False,True,\frac{5}{9},sympy:5/9,False,True,\frac{5}{9},sympy:5/9,False,True,\frac{5}{9},sympy:5/9,False,True,\frac{5}{9},sympy:5/9,False,True,stable_correct
+236,12,24,sympy:24,False,False,24,sympy:24,True,False,24,sympy:24,True,False,24,sympy:24,True,False,15,sympy:15,True,False,stable_wrong
+237,22,22,sympy:22,False,True,22,sympy:22,False,True,22,sympy:22,False,True,22,sympy:22,False,True,22,sympy:22,False,True,stable_correct
+238,-4,-4,sympy:-4,False,True,-4,sympy:-4,False,True,-4,sympy:-4,False,True,-4,sympy:-4,False,True,-4,sympy:-4,False,True,stable_correct
+239,16,,,False,False,,,False,False,,,False,False,,,False,False,,,False,False,stable_wrong
+240,116,68,sympy:68,False,False,68,sympy:68,True,False,68,sympy:68,True,False,52,sympy:52,False,False,52,sympy:52,False,False,stable_wrong
+241,17,17,sympy:17,False,True,17,sympy:17,False,True,17,sympy:17,False,True,17,sympy:17,False,True,17,sympy:17,False,True,stable_correct
+242,"\$32,\!348",27879,sympy:27879,False,False,27879,sympy:27879,True,False,32349,sympy:32349,False,False,32349,sympy:32349,False,False,32349,sympy:32349,False,False,stable_wrong
+243,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+244,8,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,stable_correct
+245,-13x+3,-9x + 2,sympy:-1*9*x + 2,False,False,-9x + 2,sympy:-1*9*x + 2,True,False,-9x + 2,sympy:-1*9*x + 2,True,False,-9x + 2,sympy:-1*9*x + 2,True,False,-10x,sympy:-1*10*x,False,False,stable_wrong
+246,8,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,stable_correct
+247,\frac{10}{11},\frac{10}{11},sympy:10/11,False,True,\frac{10}{11},sympy:10/11,False,True,\frac{10}{11},sympy:10/11,False,True,\frac{10}{11},sympy:10/11,False,True,\frac{10}{11},sympy:10/11,False,True,stable_correct
+248,\begin{pmatrix} -1 & 0 \\ 0 & -1 \end{pmatrix},,,False,False,,,False,False,,,False,False,,,False,False,,,False,False,stable_wrong
+249,17,14,sympy:14,False,False,14,sympy:14,False,False,11,sympy:11,False,False,11,sympy:11,False,False,11,sympy:11,True,False,stable_wrong
+250,13,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,13,sympy:13,False,True,stable_correct
+251,540,540,sympy:540,False,True,540,sympy:540,False,True,540,sympy:540,False,True,540,sympy:540,False,True,540,sympy:540,False,True,stable_correct
+252,81,81,sympy:81,False,True,81,sympy:81,False,True,81,sympy:81,False,True,81,sympy:81,False,True,81,sympy:81,False,True,stable_correct
+253,\frac{1}{8},\frac{1}{8},sympy:1/8,False,True,\frac{1}{8},sympy:1/8,False,True,\frac{1}{8},sympy:1/8,False,True,\frac{1}{8},sympy:1/8,False,True,\frac{1}{8},sympy:1/8,False,True,stable_correct
+254,28,28,sympy:28,False,True,28,sympy:28,False,True,28,sympy:28,False,True,28,sympy:28,False,True,28,sympy:28,False,True,stable_correct
+255,\text{(E)},E,sympy:e,False,True,E,sympy:e,False,True,E,sympy:e,False,True,E,sympy:e,False,True,E,sympy:e,False,True,stable_correct
+256,\frac{8}{21},\frac{8}{21},sympy:8/21,False,True,\frac{8}{21},sympy:8/21,False,True,\frac{8}{21},sympy:8/21,False,True,\frac{8}{21},sympy:8/21,False,True,\frac{8}{21},sympy:8/21,False,True,stable_correct
+257,864 \mbox{ inches}^2,864,sympy:864,False,True,864,sympy:864,False,True,864,sympy:864,False,True,864,sympy:864,False,True,864,sympy:864,False,True,stable_correct
+258,16,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,stable_correct
+259,22,22,sympy:22,False,True,22,sympy:22,False,True,22,sympy:22,False,True,22,sympy:22,False,True,22,sympy:22,False,True,stable_correct
+260,120^\circ,120,sympy:120,False,True,120,sympy:120,False,True,120,sympy:120,False,True,120,sympy:120,False,True,120,sympy:120,False,True,stable_correct
+261,76^\circ,76,sympy:76,False,True,76,sympy:76,False,True,76,sympy:76,False,True,76,sympy:76,False,True,76,sympy:76,False,True,stable_correct
+262,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+263,15,15,sympy:15,False,True,15,sympy:15,False,True,15,sympy:15,False,True,15,sympy:15,False,True,15,sympy:15,False,True,stable_correct
+264,1\frac{4}{5},5,sympy:5,False,False,5,sympy:5,False,False,5,sympy:5,False,False,5,sympy:5,False,False,5,sympy:5,False,False,stable_wrong
+265,4005,4005,sympy:4005,False,True,4005,sympy:4005,False,True,4005,sympy:4005,False,True,4005,sympy:4005,False,True,4005,sympy:4005,False,True,stable_correct
+266,\dfrac{33}{100},**,parsed:**,False,False,**,parsed:**,False,False,**,parsed:**,True,False,\frac{33}{100},sympy:33/100,False,True,\frac{33}{100},sympy:33/100,False,True,recovered
+267,180^\circ,90,sympy:90,False,False,90,sympy:90,True,False,90,sympy:90,False,False,180,sympy:180,False,True,180,sympy:180,False,True,recovered
+268,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+269,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+270,10,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,stable_correct
+271,333,333,sympy:333,False,True,333,sympy:333,False,True,333,sympy:333,False,True,333,sympy:333,False,True,333,sympy:333,False,True,stable_correct
+272,1030,1030,sympy:1030,False,True,1030,sympy:1030,False,True,1030,sympy:1030,False,True,92,sympy:92,False,False,1030,sympy:1030,False,True,regressed_or_unstable
+273,1250,1250,sympy:1250,False,True,1250,sympy:1250,False,True,1250,sympy:1250,False,True,1250,sympy:1250,False,True,1250,sympy:1250,False,True,stable_correct
+274,18+2\pi,18,sympy:18,False,False,18,sympy:18,True,False,18,sympy:18,True,False,36,sympy:36,False,False,36,sympy:36,False,False,stable_wrong
+275,7,7,sympy:7,False,True,7,sympy:7,False,True,7,sympy:7,False,True,7,sympy:7,False,True,7,sympy:7,False,True,stable_correct
+276,11,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,stable_correct
+277,\sqrt{53},\sqrt{53},sympy:sqrt(53),False,True,\sqrt{53},sympy:sqrt(53),False,True,\sqrt{53},sympy:sqrt(53),False,True,\sqrt{53},sympy:sqrt(53),False,True,\sqrt{53},sympy:sqrt(53),False,True,stable_correct
+278,255,255,sympy:255,False,True,255,sympy:255,False,True,255,sympy:255,False,True,255,sympy:255,False,True,255,sympy:255,False,True,stable_correct
+279,7\pi,4\pi,sympy:4*pi,False,False,4\pi,sympy:4*pi,False,False,4\pi,sympy:4*pi,False,False,7\pi,sympy:7*pi,False,True,7\pi,sympy:7*pi,False,True,recovered
+280,8,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,stable_correct
+281,36^\circ,72^\circ,sympy:72,False,False,72^\circ,sympy:72,True,False,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,recovered
+282,129,497,sympy:497,False,False,497,sympy:497,False,False,497,sympy:497,False,False,497,sympy:497,False,False,497,sympy:497,False,False,stable_wrong
+283,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+284,3 \pm 2 \sqrt{2},"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",False,True,"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",False,True,"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",False,True,"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",True,True,\text{No solution},sympy:i*l*n*n*o*o*o*s*t*u,False,False,regressed_or_unstable
+285,440,,,False,False,,,False,False,280,sympy:280,False,False,280,sympy:280,True,False,280,sympy:280,True,False,stable_wrong
+286,\frac{17}{21},,,False,False,\frac{1}{2},sympy:1/2,False,False,\frac{1}{2},sympy:1/2,True,False,\frac{1}{2},sympy:1/2,True,False,\frac{1}{2},sympy:1/2,False,False,stable_wrong
+287,36,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,stable_correct
+288,7,\sqrt{89},sympy:sqrt(89),False,False,\sqrt{89},sympy:sqrt(89),False,False,\sqrt{89},sympy:sqrt(89),False,False,\sqrt{89},sympy:sqrt(89),False,False,\sqrt{89},sympy:sqrt(89),True,False,stable_wrong
+289,16,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,16,sympy:16,False,True,stable_correct
+290,4,4,sympy:4,False,True,4,sympy:4,True,True,4,sympy:4,True,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+291,63,63,sympy:63,False,True,63,sympy:63,True,True,56,sympy:56,False,False,63,sympy:63,False,True,63,sympy:63,False,True,regressed_or_unstable
+292,898,1260,sympy:1260,False,False,1260,sympy:1260,False,False,1260,sympy:1260,False,False,1260,sympy:1260,False,False,1260,sympy:1260,True,False,stable_wrong
+293,"\left(\frac{3}{5},\frac{8}{3}\right]","\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",False,True,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",False,True,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",False,True,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",False,True,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",False,True,stable_correct
+294,58,71,sympy:71,False,False,71,sympy:71,True,False,58,sympy:58,False,True,58,sympy:58,False,True,58,sympy:58,False,True,recovered
+295,11,4,sympy:4,False,False,4,sympy:4,True,False,4,sympy:4,False,False,4,sympy:4,False,False,4,sympy:4,True,False,stable_wrong
+296,\text{(B)},\text{C},sympy:c,False,False,\text{C},sympy:c,False,False,\text{C},sympy:c,False,False,\text{C},sympy:c,False,False,\text{C},sympy:c,False,False,stable_wrong
+297,103,103,sympy:103,False,True,103,sympy:103,False,True,103,sympy:103,False,True,103,sympy:103,False,True,103,sympy:103,False,True,stable_correct
+298,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},\begin{pmatrix} 6 \\ -77 \\ 108 \end{pmatrix},sympy:6,False,False,\begin{pmatrix} 6 \\ -77 \\ 108 \end{pmatrix},sympy:6,False,False,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},sympy:-18,False,True,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},sympy:-18,False,True,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},sympy:-18,False,True,recovered
+299,63,63,sympy:63,False,True,63,sympy:63,False,True,63,sympy:63,False,True,63,sympy:63,False,True,63,sympy:63,False,True,stable_correct
+300,12,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,stable_correct
+301,5.4 \text{ cents},5.5,sympy:5.50000000000000,False,False,5.5,sympy:5.50000000000000,False,False,5.5,sympy:5.50000000000000,False,False,5.5,sympy:5.50000000000000,False,False,5.5,sympy:5.50000000000000,False,False,stable_wrong
+302,5,11110,sympy:11110,False,False,11110,sympy:11110,True,False,11110,sympy:11110,True,False,11110,sympy:11110,True,False,5,sympy:5,True,True,recovered
+303,28,21,sympy:21,False,False,21,sympy:21,False,False,21,sympy:21,False,False,21,sympy:21,False,False,21,sympy:21,False,False,stable_wrong
+304,9,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,stable_correct
+305,\frac9{19},\frac{9}{19},sympy:9/19,False,True,\frac{9}{19},sympy:9/19,False,True,\frac{9}{19},sympy:9/19,False,True,\frac{9}{19},sympy:9/19,False,True,\frac{9}{19},sympy:9/19,False,True,stable_correct
+306,6,\infty,sympy:oo,False,False,\infty,sympy:oo,True,False,\infty,sympy:oo,False,False,\infty,sympy:oo,True,False,2,sympy:2,False,False,stable_wrong
+307,"(-\infty, 0]","(-\infty, 0]","sympy:Interval(-oo, 0)",False,True,"(-\infty, 0]","sympy:Interval(-oo, 0)",False,True,"(-\infty, 0]","sympy:Interval(-oo, 0)",False,True,"(-\infty, 0]","sympy:Interval(-oo, 0)",False,True,"(-\infty, 0]","sympy:Interval(-oo, 0)",False,True,stable_correct
+308,1+2\sqrt{3},2\sqrt{3},sympy:2*sqrt(3),False,False,2\sqrt{3},sympy:2*sqrt(3),True,False,2\sqrt{3},sympy:2*sqrt(3),True,False,4\sqrt{3},sympy:4*sqrt(3),True,False,3\sqrt{3},sympy:3*sqrt(3),False,False,stable_wrong
+309,14,17,sympy:17,False,False,17,sympy:17,True,False,17,sympy:17,True,False,14,sympy:14,False,True,15,sympy:15,False,False,regressed_or_unstable
+310,49,49,sympy:49,False,True,49,sympy:49,False,True,49,sympy:49,False,True,49,sympy:49,False,True,49,sympy:49,False,True,stable_correct
+311,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+312,"(5,\infty)","(5, \infty)","sympy:Interval.open(5, oo)",False,True,"(5, \infty)","sympy:Interval.open(5, oo)",False,True,"(5, \infty)","sympy:Interval.open(5, oo)",False,True,"(5, \infty)","sympy:Interval.open(5, oo)",False,True,"(5, \infty)","sympy:Interval.open(5, oo)",False,True,stable_correct
+313,12\pi,12\pi,sympy:12*pi,False,True,12\pi,sympy:12*pi,False,True,12\pi,sympy:12*pi,False,True,12\pi,sympy:12*pi,False,True,12\pi,sympy:12*pi,False,True,stable_correct
+314,"(2,4)","(2,4)","sympy:Interval.open(2, 4)",False,True,"(2,4)","sympy:Interval.open(2, 4)",False,True,"(2,4)","sympy:Interval.open(2, 4)",False,True,"(2,4)","sympy:Interval.open(2, 4)",False,True,"(2,4)","sympy:Interval.open(2, 4)",False,True,stable_correct
+315,41,41,sympy:41,False,True,41,sympy:41,False,True,41,sympy:41,False,True,41,sympy:41,False,True,41,sympy:41,False,True,stable_correct
+316,12,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,stable_correct
+317,0,2,sympy:2,False,False,2,sympy:2,False,False,2,sympy:2,False,False,2,sympy:2,False,False,2,sympy:2,False,False,stable_wrong
+318,\frac{11+9a}{20},\frac{11 + 9a}{20},sympy:(9*a + 11)/20,False,True,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,False,True,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,False,True,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,False,True,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,False,True,stable_correct
+319,-128,-128,sympy:-128,False,True,-128,sympy:-128,False,True,-128,sympy:-128,False,True,-128,sympy:-128,False,True,-128,sympy:-128,False,True,stable_correct
+320,-\frac{24}{25},-\frac{24}{25},sympy:-24/25,False,True,-\frac{24}{25},sympy:-24/25,False,True,-\frac{24}{25},sympy:-24/25,False,True,-\frac{24}{25},sympy:-24/25,False,True,-\frac{24}{25},sympy:-24/25,False,True,stable_correct
+321,10,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,stable_correct
+322,-1,-1,sympy:-1,False,True,-1,sympy:-1,False,True,-1,sympy:-1,False,True,-1,sympy:-1,False,True,-1,sympy:-1,False,True,stable_correct
+323,\frac{1}{3},\frac{1}{3},sympy:1/3,False,True,\frac{1}{3},sympy:1/3,False,True,\frac{1}{3},sympy:1/3,False,True,\frac{1}{3},sympy:1/3,False,True,\frac{1}{3},sympy:1/3,False,True,stable_correct
+324,120,60,sympy:60,False,False,60,sympy:60,True,False,60,sympy:60,True,False,120,sympy:120,False,True,120,sympy:120,False,True,recovered
+325,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+326,\frac{9}{100},,,False,False,,,False,False,0.09,sympy:0.0900000000000000,False,True,0.09,sympy:0.0900000000000000,False,True,0.09,sympy:0.0900000000000000,False,True,recovered
+327,15,10,sympy:10,False,False,10,sympy:10,False,False,10,sympy:10,True,False,10,sympy:10,True,False,10,sympy:10,True,False,stable_wrong
+328,3,3,sympy:3,False,True,3,sympy:3,True,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+329,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+330,1940,1940,sympy:1940,False,True,1940,sympy:1940,False,True,1940,sympy:1940,False,True,1940,sympy:1940,False,True,1940,sympy:1940,False,True,stable_correct
+331,\frac{13}{6},\dfrac{13}{6},sympy:13/6,False,True,\dfrac{13}{6},sympy:13/6,False,True,\dfrac{13}{6},sympy:13/6,False,True,\dfrac{13}{6},sympy:13/6,False,True,\dfrac{13}{6},sympy:13/6,False,True,stable_correct
+332,2,2,sympy:2,False,True,2,sympy:2,True,True,\frac{4\sqrt{3}}{3},sympy:(4*sqrt(3))/3,False,False,\frac{4\sqrt{3}}{3},sympy:(4*sqrt(3))/3,False,False,2,sympy:2,False,True,regressed_or_unstable
+333,3,,,False,False,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,recovered
+334,-120,-120,sympy:-120,False,True,-120,sympy:-120,False,True,-120,sympy:-120,False,True,-120,sympy:-120,False,True,-120,sympy:-120,False,True,stable_correct
+335,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+336,26000,26000,sympy:26000,False,True,26000,sympy:26000,False,True,26000,sympy:26000,False,True,26000,sympy:26000,False,True,26000,sympy:26000,False,True,stable_correct
+337,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+338,4343_6,4343,sympy:4343,False,True,4343,sympy:4343,False,True,4343,sympy:4343,False,True,4343,sympy:4343,False,True,4343,sympy:4343,False,True,stable_correct
+339,2k,2k,sympy:2*k,False,True,2k,sympy:2*k,True,True,2k,sympy:2*k,False,True,2k,sympy:2*k,False,True,2k,sympy:2*k,False,True,stable_correct
+340,55^\circ,,,False,False,,,False,False,,,False,False,,,False,False,,,False,False,stable_wrong
+341,-2,-2,sympy:-2,False,True,-2,sympy:-2,False,True,-2,sympy:-2,False,True,-2,sympy:-2,False,True,-2,sympy:-2,False,True,stable_correct
+342,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+343,"58,500",58500,sympy:58500,False,True,58500,sympy:58500,False,True,58500,sympy:58500,False,True,58500,sympy:58500,False,True,58500,sympy:58500,False,True,stable_correct
+344,5,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,5,sympy:5,False,True,stable_correct
+345,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+346,66,66,sympy:66,False,True,66,sympy:66,False,True,66,sympy:66,False,True,66,sympy:66,False,True,66,sympy:66,False,True,stable_correct
+347,6r^2-4r-24,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,False,True,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,False,True,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,False,True,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,False,True,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,False,True,stable_correct
+348,4495,4495,sympy:4495,False,True,4495,sympy:4495,False,True,4495,sympy:4495,False,True,4495,sympy:4495,False,True,4495,sympy:4495,False,True,stable_correct
+349,10080,5040,sympy:5040,False,False,5040,sympy:5040,False,False,5040,sympy:5040,False,False,5040,sympy:5040,False,False,5040,sympy:5040,False,False,stable_wrong
+350,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+351,\frac{1}{16},-\frac{1}{16},sympy:-1/16,False,False,-\frac{1}{16},sympy:-1/16,False,False,-\frac{1}{16},sympy:-1/16,False,False,-\frac{1}{16},sympy:-1/16,False,False,-\frac{1}{16},sympy:-1/16,False,False,stable_wrong
+352,11 \sqrt{5} + 11,42,sympy:42,False,False,42,sympy:42,False,False,42,sympy:42,False,False,44,sympy:44,False,False,44,sympy:44,False,False,stable_wrong
+353,480,480,sympy:480,False,True,480,sympy:480,False,True,480,sympy:480,False,True,480,sympy:480,False,True,480,sympy:480,False,True,stable_correct
+354,81,81,sympy:81,False,True,81,sympy:81,False,True,81,sympy:81,False,True,81,sympy:81,False,True,81,sympy:81,False,True,stable_correct
+355,100,48,sympy:48,False,False,48,sympy:48,True,False,48,sympy:48,True,False,48,sympy:48,True,False,120,sympy:120,False,False,stable_wrong
+356,"(-\sqrt{3}, \sqrt{3})","(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",False,True,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",False,True,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",False,True,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",False,True,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",False,True,stable_correct
+357,4,2,sympy:2,False,False,2,sympy:2,True,False,2,sympy:2,False,False,2,sympy:2,True,False,4,sympy:4,False,True,recovered
+358,\text{ellipse},\text{circle},sympy:E*c*c*i*l*r,False,False,\text{circle},sympy:E*c*c*i*l*r,True,False,\text{circle},sympy:E*c*c*i*l*r,True,False,\text{circle},sympy:E*c*c*i*l*r,False,False,\text{circle},sympy:E*c*c*i*l*r,False,False,stable_wrong
+359,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+360,\frac{7}{4},\frac{7}{4},sympy:7/4,False,True,\frac{7}{4},sympy:7/4,False,True,\frac{7}{4},sympy:7/4,False,True,\frac{7}{4},sympy:7/4,False,True,\frac{7}{4},sympy:7/4,False,True,stable_correct
+361,16 \sqrt{3},16\sqrt{3},sympy:16*sqrt(3),False,True,16\sqrt{3},sympy:16*sqrt(3),False,True,16\sqrt{3},sympy:16*sqrt(3),False,True,16\sqrt{3},sympy:16*sqrt(3),False,True,16\sqrt{3},sympy:16*sqrt(3),False,True,stable_correct
+362,\frac14,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,stable_correct
+363,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+364,"(1,-16,-4,43)","(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",False,True,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",False,True,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",False,True,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",False,True,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",False,True,stable_correct
+365,8,40,sympy:40,False,False,40,sympy:40,False,False,40,sympy:40,False,False,40,sympy:40,False,False,40,sympy:40,False,False,stable_wrong
+366,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+367,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+368,31,31,sympy:31,False,True,31,sympy:31,False,True,31,sympy:31,False,True,31,sympy:31,False,True,31,sympy:31,False,True,stable_correct
+369,21,36,sympy:36,False,False,36,sympy:36,False,False,36,sympy:36,True,False,144,sympy:144,False,False,144,sympy:144,False,False,stable_wrong
+370,-41,-41,sympy:-41,False,True,-41,sympy:-41,False,True,-41,sympy:-41,False,True,-41,sympy:-41,False,True,-41,sympy:-41,False,True,stable_correct
+371,17,9,sympy:9,False,False,9,sympy:9,True,False,9,sympy:9,True,False,17,sympy:17,False,True,17,sympy:17,False,True,recovered
+372,90^\circ,50,sympy:50,False,False,50,sympy:50,True,False,50,sympy:50,True,False,70,sympy:70,True,False,70,sympy:70,True,False,stable_wrong
+373,1+2i,1+2i,sympy:2*i + 1,False,True,1+2i,sympy:2*i + 1,False,True,1+2i,sympy:2*i + 1,False,True,1+2i,sympy:2*i + 1,False,True,1+2i,sympy:2*i + 1,False,True,stable_correct
+374,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+375,25,25,sympy:25,False,True,25,sympy:25,False,True,25,sympy:25,False,True,25,sympy:25,False,True,25,sympy:25,False,True,stable_correct
+376,"(8,-2)",,,False,False,"(8, -2)","sympy:(8, -2)",False,True,"(8, -2)","sympy:(8, -2)",False,True,"(8, -2)","sympy:(8, -2)",False,True,"(8, -2)","sympy:(8, -2)",False,True,recovered
+377,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+378,3,\boxed{3},sympy:3,False,True,\boxed{3},sympy:3,True,True,\boxed{3},sympy:3,False,True,\boxed{3},sympy:3,False,True,\boxed{3},sympy:3,False,True,stable_correct
+379,12,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,stable_correct
+380,"(0,9) \cup (9,36)","(0, 36)","sympy:Interval.open(0, 36)",False,False,"(0, 36)","sympy:Interval.open(0, 36)",False,False,"(0, 36)","sympy:Interval.open(0, 36)",True,False,"(0, 9) \cup (9, 36)","sympy:Union(Interval.open(0, 9), Interval.open(9, 36))",False,True,"(0, 9) \cup (9, 36)","sympy:Union(Interval.open(0, 9), Interval.open(9, 36))",False,True,recovered
+381,\frac{1}{2},\frac{1}{18},sympy:1/18,False,False,\frac{1}{18},sympy:1/18,True,False,\frac{1}{18},sympy:1/18,False,False,\frac{1}{18},sympy:1/18,False,False,\frac{1}{18},sympy:1/18,False,False,stable_wrong
+382,\frac{20000}{\pi},\frac{20000}{\pi},sympy:20000/pi,False,True,\frac{20000}{\pi},sympy:20000/pi,True,True,\frac{20000}{\pi},sympy:20000/pi,False,True,\frac{20000}{\pi},sympy:20000/pi,False,True,\frac{20000}{\pi},sympy:20000/pi,False,True,stable_correct
+383,"x \in [-2,7]","[-2, 7]","sympy:Interval(-2, 7)",False,True,"[-2, 7]","sympy:Interval(-2, 7)",False,True,"[-2, 7]","sympy:Interval(-2, 7)",False,True,"[-2, 7]","sympy:Interval(-2, 7)",False,True,"[-2, 7]","sympy:Interval(-2, 7)",False,True,stable_correct
+384,15x - 80,15x - 80,sympy:15*x - 80,False,True,15x - 80,sympy:15*x - 80,False,True,15x - 80,sympy:15*x - 80,False,True,15x - 80,sympy:15*x - 80,False,True,15x - 80,sympy:15*x - 80,False,True,stable_correct
+385,22,48,sympy:48,False,False,48,sympy:48,False,False,48,sympy:48,False,False,22,sympy:22,False,True,22,sympy:22,False,True,recovered
+386,11,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,11,sympy:11,False,True,stable_correct
+387,18,18,sympy:18,False,True,18,sympy:18,False,True,18,sympy:18,False,True,18,sympy:18,False,True,18,sympy:18,False,True,stable_correct
+388,\frac{11}{2},5.5,sympy:5.50000000000000,False,True,5.5,sympy:5.50000000000000,True,True,5.5,sympy:5.50000000000000,True,True,5.5,sympy:5.50000000000000,True,True,\frac{11}{2},sympy:11/2,False,True,stable_correct
+389,\frac{\sqrt{21}}{5},**,parsed:**,False,False,**,parsed:**,True,False,**,parsed:**,False,False,\frac{\sqrt{21}}{5},sympy:sqrt(21)/5,False,True,\frac{\sqrt{21}}{5},sympy:sqrt(21)/5,False,True,recovered
+390,12,4,sympy:4,False,False,4,sympy:4,True,False,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,recovered
+391,0,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,stable_correct
+392,\sqrt{66},\sqrt{82},sympy:sqrt(82),False,False,\sqrt{82},sympy:sqrt(82),False,False,\sqrt{82},sympy:sqrt(82),False,False,\sqrt{82},sympy:sqrt(82),False,False,\sqrt{82},sympy:sqrt(82),False,False,stable_wrong
+393,\frac 34,\frac{3}{4},sympy:3/4,False,True,\frac{3}{4},sympy:3/4,False,True,\frac{3}{4},sympy:3/4,False,True,\frac{3}{4},sympy:3/4,False,True,\frac{3}{4},sympy:3/4,False,True,stable_correct
+394,-\frac{3}{8},0,sympy:0,False,False,0,sympy:0,True,False,0,sympy:0,True,False,-\frac{3}{8},sympy:-3/8,False,True,-\frac{3}{8},sympy:-3/8,False,True,recovered
+395,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+396,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+397,23,23,sympy:23,False,True,23,sympy:23,False,True,23,sympy:23,False,True,23,sympy:23,False,True,23,sympy:23,False,True,stable_correct
+398,\text{Navin},Mathin,sympy:a*h*i*m*n*t,False,False,Mathin,sympy:a*h*i*m*n*t,True,False,Mathin,sympy:a*h*i*m*n*t,True,False,39.68,sympy:39.6800000000000,False,False,39.68,sympy:39.6800000000000,False,False,stable_wrong
+399,326.5,326.5,sympy:326.500000000000,False,True,326.5,sympy:326.500000000000,False,True,326.5,sympy:326.500000000000,False,True,326.5,sympy:326.500000000000,False,True,326.5,sympy:326.500000000000,False,True,stable_correct
+400,\frac{14}{3},\frac{14}{3},sympy:14/3,False,True,\frac{14}{3},sympy:14/3,True,True,7,sympy:7,False,False,7,sympy:7,False,False,\frac{14}{3},sympy:14/3,False,True,regressed_or_unstable
+401,\frac{13}{4},,,False,False,,,False,False,,,False,False,3,sympy:3,True,False,3,sympy:3,False,False,stable_wrong
+402,1 - 12i,1 - 12i,sympy:-1*12*i + 1,False,True,1 - 12i,sympy:-1*12*i + 1,False,True,1 - 12i,sympy:-1*12*i + 1,False,True,1 - 12i,sympy:-1*12*i + 1,False,True,1 - 12i,sympy:-1*12*i + 1,False,True,stable_correct
+403,3,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,stable_wrong
+404,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+405,60,60,sympy:60,False,True,60,sympy:60,False,True,60,sympy:60,False,True,60,sympy:60,False,True,60,sympy:60,False,True,stable_correct
+406,0,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,stable_correct
+407,9,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,stable_correct
+408,\begin{pmatrix} 1/5 \\ -18/5 \end{pmatrix},,,False,False,,,False,False,,,False,False,,,False,False,\begin{pmatrix} 0.2 \\ -3.6 \end{pmatrix},sympy:0.200000000000000,True,True,recovered
+409,2 \sqrt{5},2\sqrt{5},sympy:2*sqrt(5),False,True,2\sqrt{5},sympy:2*sqrt(5),False,True,2\sqrt{5},sympy:2*sqrt(5),False,True,2\sqrt{5},sympy:2*sqrt(5),False,True,2\sqrt{5},sympy:2*sqrt(5),False,True,stable_correct
+410,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+411,60,60,sympy:60,False,True,60,sympy:60,False,True,60,sympy:60,False,True,60,sympy:60,False,True,60,sympy:60,False,True,stable_correct
+412,406,,,False,False,,,False,False,406,sympy:406,False,True,406,sympy:406,True,True,451,sympy:451,True,False,regressed_or_unstable
+413,5r^5,5r^5,sympy:5*r**5,False,True,5r^5,sympy:5*r**5,False,True,5r^5,sympy:5*r**5,False,True,5r^5,sympy:5*r**5,False,True,5r^5,sympy:5*r**5,False,True,stable_correct
+414,10,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,stable_correct
+415,9,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,stable_correct
+416,\frac{1}{8},\frac{1}{8},sympy:1/8,False,True,\frac{1}{8},sympy:1/8,False,True,\frac{1}{8},sympy:1/8,False,True,\frac{1}{8},sympy:1/8,False,True,\frac{1}{8},sympy:1/8,False,True,stable_correct
+417,-2,-2,sympy:-2,False,True,-2,sympy:-2,False,True,-2,sympy:-2,False,True,-2,sympy:-2,False,True,-2,sympy:-2,False,True,stable_correct
+418,2\sqrt{5},2\sqrt{5},sympy:2*sqrt(5),False,True,2\sqrt{5},sympy:2*sqrt(5),False,True,2\sqrt{5},sympy:2*sqrt(5),False,True,2\sqrt{5},sympy:2*sqrt(5),False,True,2\sqrt{5},sympy:2*sqrt(5),False,True,stable_correct
+419,\begin{pmatrix} -7 \\ 16 \\ 5 \end{pmatrix},,,False,False,,,False,False,\begin{pmatrix} -30 \\ -30 \\ 120 \end{pmatrix},sympy:-30,False,False,\begin{pmatrix} -30 \\ -30 \\ 120 \end{pmatrix},sympy:-30,True,False,\begin{pmatrix} -30 \\ -30 \\ 120 \end{pmatrix},sympy:-30,False,False,stable_wrong
+420,\begin{pmatrix} 16/49 \\ 48/49 \\ 24/49 \end{pmatrix},\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",False,False,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",False,False,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",False,False,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",False,False,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",False,False,stable_wrong
+421,27,27,sympy:27,False,True,27,sympy:27,False,True,27,sympy:27,False,True,27,sympy:27,False,True,27,sympy:27,False,True,stable_correct
+422,"\{1\pm\sqrt{5},-2\}",,,False,False,,,False,False,,,False,False,"\{1, 1, -2\}","sympy:{-2, 1}",False,False,"\{1, 1, -2\}","sympy:{-2, 1}",False,False,stable_wrong
+423,1440,1440,sympy:1440,False,True,1440,sympy:1440,False,True,1440,sympy:1440,False,True,1439,sympy:1439,False,False,1439,sympy:1439,False,False,regressed_or_unstable
+424,600,600,sympy:600,False,True,600,sympy:600,False,True,600,sympy:600,False,True,600,sympy:600,False,True,600,sympy:600,False,True,stable_correct
+425,3R^2,3R^2 + \frac{1}{4}(a^2 + b^2 + c^2),sympy:3*r**2 + (a**2 + b**2 + c**2)/4,False,False,3R^2 + \frac{1}{4}(a^2 + b^2 + c^2),sympy:3*r**2 + (a**2 + b**2 + c**2)/4,True,False,3R^2 + \frac{1}{4}(a^2 + b^2 + c^2),sympy:3*r**2 + (a**2 + b**2 + c**2)/4,True,False,3R^2 + \frac{1}{4}(a^2 + b^2 + c^2),sympy:3*r**2 + (a**2 + b**2 + c**2)/4,True,False,3R^2,sympy:3*r**2,False,True,recovered
+426,6\sqrt{2},6\sqrt{2},sympy:6*sqrt(2),False,True,6\sqrt{2},sympy:6*sqrt(2),False,True,6\sqrt{2},sympy:6*sqrt(2),False,True,6\sqrt{2},sympy:6*sqrt(2),False,True,6\sqrt{2},sympy:6*sqrt(2),False,True,stable_correct
+427,29,29,sympy:29,False,True,29,sympy:29,False,True,29,sympy:29,False,True,29,sympy:29,False,True,29,sympy:29,False,True,stable_correct
+428,64,64,sympy:64,False,True,64,sympy:64,True,True,64,sympy:64,False,True,64,sympy:64,False,True,64,sympy:64,False,True,stable_correct
+429,50,50,sympy:50,False,True,50,sympy:50,False,True,50,sympy:50,False,True,50,sympy:50,False,True,50,sympy:50,False,True,stable_correct
+430,4.5,4.5,sympy:4.50000000000000,False,True,4.5,sympy:4.50000000000000,False,True,4.5,sympy:4.50000000000000,False,True,4.5,sympy:4.50000000000000,False,True,4.5,sympy:4.50000000000000,False,True,stable_correct
+431,"\left[ \frac{\pi^2}{8}, \frac{5 \pi^2}{4} \right]","\left[\frac{\pi^2}{8}, \frac{\pi^2}{4}\right]","sympy:Interval(pi**2/8, pi**2/4)",False,False,"\left[\frac{\pi^2}{8}, \frac{\pi^2}{4}\right]","sympy:Interval(pi**2/8, pi**2/4)",True,False,"\left[\frac{\pi^2}{8}, \frac{\pi^2}{4}\right]","sympy:Interval(pi**2/8, pi**2/4)",False,False,"\left[\frac{\pi^2}{8}, \frac{\pi^2}{4}\right]","sympy:Interval(pi**2/8, pi**2/4)",False,False,"\left[\frac{\pi^2}{8}, \frac{\pi^2}{4}\right]","sympy:Interval(pi**2/8, pi**2/4)",False,False,stable_wrong
+432,331,0,sympy:0,False,False,0,sympy:0,False,False,0,sympy:0,True,False,0,sympy:0,True,False,0,sympy:0,False,False,stable_wrong
+433,.35625,0.35625,sympy:0.356250000000000,False,True,0.35625,sympy:0.356250000000000,False,True,0.35625,sympy:0.356250000000000,False,True,0.35625,sympy:0.356250000000000,False,True,0.35625,sympy:0.356250000000000,False,True,stable_correct
+434,32,32,sympy:32,False,True,32,sympy:32,False,True,32,sympy:32,False,True,32,sympy:32,False,True,32,sympy:32,False,True,stable_correct
+435,"(-\infty, 2) \cup (3, \infty)","(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",False,True,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",False,True,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",False,True,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",False,True,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",False,True,stable_correct
+436,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+437,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+438,4,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,4,sympy:4,False,True,stable_correct
+439,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,False,True,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,False,True,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,False,True,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,False,True,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,False,True,stable_correct
+440,14,14,sympy:14,False,True,14,sympy:14,False,True,14,sympy:14,False,True,14,sympy:14,False,True,14,sympy:14,False,True,stable_correct
+441,550,550,sympy:550,False,True,550,sympy:550,False,True,550,sympy:550,False,True,550,sympy:550,False,True,550,sympy:550,False,True,stable_correct
+442,256,256,sympy:256,False,True,256,sympy:256,False,True,256,sympy:256,False,True,256,sympy:256,False,True,256,sympy:256,False,True,stable_correct
+443,45,45,sympy:45,False,True,45,sympy:45,False,True,45,sympy:45,False,True,45,sympy:45,False,True,45,sympy:45,False,True,stable_correct
+444,\frac{1}{2},,,False,False,\frac{1}{4},sympy:1/4,False,False,\frac{1}{4},sympy:1/4,False,False,\frac{1}{4},sympy:1/4,False,False,\frac{1}{4},sympy:1/4,False,False,stable_wrong
+445,15,8,sympy:8,False,False,8,sympy:8,True,False,16,sympy:16,False,False,16,sympy:16,False,False,8,sympy:8,True,False,stable_wrong
+446,8,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,stable_correct
+447,9,9,sympy:9,False,True,9,sympy:9,True,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,stable_correct
+448,44,44,sympy:44,False,True,44,sympy:44,False,True,44,sympy:44,False,True,44,sympy:44,False,True,44,sympy:44,False,True,stable_correct
+449,47,47,sympy:47,False,True,47,sympy:47,False,True,47,sympy:47,False,True,47,sympy:47,False,True,47,sympy:47,False,True,stable_correct
+450,64,64,sympy:64,False,True,64,sympy:64,False,True,64,sympy:64,False,True,64,sympy:64,False,True,64,sympy:64,False,True,stable_correct
+451,\frac{639}{40},\frac{639}{40},sympy:639/40,False,True,\frac{639}{40},sympy:639/40,False,True,\frac{639}{40},sympy:639/40,False,True,\frac{639}{40},sympy:639/40,False,True,\frac{639}{40},sympy:639/40,False,True,stable_correct
+452,143,143,sympy:143,False,True,143,sympy:143,False,True,143,sympy:143,False,True,143,sympy:143,False,True,143,sympy:143,False,True,stable_correct
+453,10,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,stable_correct
+454,y = 2x + 3,,,False,False,,,False,False,,,False,False,,,False,False,,,False,False,stable_wrong
+455,6,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,6,sympy:6,False,True,stable_correct
+456,"-2,1","1, -2","sympy:{-2, 1}",False,True,"1, -2","sympy:{-2, 1}",False,True,"1, -2","sympy:{-2, 1}",False,True,"1, -2","sympy:{-2, 1}",False,True,"1, -2","sympy:{-2, 1}",False,True,stable_correct
+457,0,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,0,sympy:0,False,True,stable_correct
+458,41,41,sympy:41,False,True,41,sympy:41,False,True,41,sympy:41,False,True,41,sympy:41,False,True,41,sympy:41,False,True,stable_correct
+459,\$18.90,18.90,sympy:18.9000000000000,False,True,18.90,sympy:18.9000000000000,False,True,18.90,sympy:18.9000000000000,False,True,18.90,sympy:18.9000000000000,False,True,18.90,sympy:18.9000000000000,False,True,stable_correct
+460,75^\circ,75,sympy:75,False,True,75,sympy:75,True,True,75,sympy:75,False,True,75,sympy:75,False,True,105,sympy:105,False,False,regressed_or_unstable
+461,12,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,12,sympy:12,False,True,stable_correct
+462,59,59,sympy:59,False,True,59,sympy:59,False,True,59,sympy:59,False,True,59,sympy:59,False,True,59,sympy:59,False,True,stable_correct
+463,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+464,9,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,9,sympy:9,False,True,stable_correct
+465,121,121,sympy:121,False,True,121,sympy:121,False,True,121,sympy:121,False,True,121,sympy:121,False,True,121,sympy:121,False,True,stable_correct
+466,8 \pi,9\pi,sympy:9*pi,False,False,9\pi,sympy:9*pi,True,False,9\pi,sympy:9*pi,False,False,\frac{64\pi}{9},sympy:(64*pi)/9,False,False,\frac{64\pi}{9},sympy:(64*pi)/9,False,False,stable_wrong
+467,15\mbox{ cm}^2,15,sympy:15,False,True,15,sympy:15,False,True,15,sympy:15,False,True,15,sympy:15,False,True,15,sympy:15,False,True,stable_correct
+468,8,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,8,sympy:8,False,True,stable_correct
+469,25,25,sympy:25,False,True,25,sympy:25,False,True,25,sympy:25,False,True,25,sympy:25,False,True,25,sympy:25,False,True,stable_correct
+470,27648,,,False,False,,,False,False,\frac{5}{1536},sympy:5/1536,False,False,\frac{5}{1536},sympy:5/1536,True,False,27648,sympy:27648,False,True,recovered
+471,84,84,sympy:84,False,True,84,sympy:84,False,True,84,sympy:84,False,True,84,sympy:84,False,True,84,sympy:84,False,True,stable_correct
+472,137 \frac{1}{2},137\frac{1}{2},sympy:275/2,False,True,137\frac{1}{2},sympy:275/2,False,True,137\frac{1}{2},sympy:275/2,False,True,137\frac{1}{2},sympy:275/2,False,True,137\frac{1}{2},sympy:275/2,False,True,stable_correct
+473,7,4,sympy:4,False,False,4,sympy:4,True,False,4,sympy:4,False,False,4,sympy:4,False,False,7,sympy:7,False,True,recovered
+474,3,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,3,sympy:3,False,True,stable_correct
+475,29,,,False,False,,,False,False,,,False,False,,,False,False,55,sympy:55,True,False,stable_wrong
+476,200,200,sympy:200,False,True,200,sympy:200,False,True,200,sympy:200,False,True,200,sympy:200,False,True,200,sympy:200,False,True,stable_correct
+477,2,2,sympy:2,False,True,2,sympy:2,True,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+478,\frac{2}{1005},0,sympy:0,False,False,0,sympy:0,False,False,0,sympy:0,False,False,0,sympy:0,False,False,0,sympy:0,False,False,stable_wrong
+479,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+480,1,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,1,sympy:1,False,True,stable_correct
+481,8n^2 + 4n + 1,\frac{64n^4 + 1}{65},sympy:(64*n**4 + 1)/65,False,False,\frac{64n^4 + 1}{65},sympy:(64*n**4 + 1)/65,True,False,\frac{64n^4 + 1}{65},sympy:(64*n**4 + 1)/65,True,False,1,sympy:1,False,False,1,sympy:1,False,False,stable_wrong
+482,202,6,sympy:6,False,False,6,sympy:6,True,False,337,sympy:337,False,False,337,sympy:337,False,False,202,sympy:202,False,True,recovered
+483,\frac{8}{15},,,False,False,,,False,False,,,False,False,,,False,False,\frac{8}{15},sympy:8/15,False,True,recovered
+484,10,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,10,sympy:10,False,True,stable_correct
+485,13,,,False,False,12,sympy:12,False,False,12,sympy:12,False,False,13,sympy:13,False,True,13,sympy:13,False,True,recovered
+486,216,216,sympy:216,False,True,216,sympy:216,True,True,216,sympy:216,False,True,216,sympy:216,False,True,216,sympy:216,False,True,stable_correct
+487,2,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,2,sympy:2,False,True,stable_correct
+488,\$36,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,36,sympy:36,False,True,stable_correct
+489,15,15,sympy:15,False,True,15,sympy:15,False,True,15,sympy:15,False,True,15,sympy:15,False,True,15,sympy:15,False,True,stable_correct
+490,14,0,sympy:0,False,False,0,sympy:0,True,False,0,sympy:0,False,False,0,sympy:0,False,False,0,sympy:0,False,False,stable_wrong
+491,64,24,sympy:24,False,False,24,sympy:24,True,False,24,sympy:24,False,False,8,sympy:8,False,False,24,sympy:24,True,False,stable_wrong
+492,y = -2x,y = -2x,"sympy:Eq(y, -1*2*x)",False,True,y = -2x,"sympy:Eq(y, -1*2*x)",False,True,y = -2x,"sympy:Eq(y, -1*2*x)",False,True,y = -2x,"sympy:Eq(y, -1*2*x)",False,True,y = -2x,"sympy:Eq(y, -1*2*x)",False,True,stable_correct
+493,20,20,sympy:20,False,True,20,sympy:20,False,True,20,sympy:20,False,True,20,sympy:20,False,True,20,sympy:20,False,True,stable_correct
+494,\frac{1}{4},,,False,False,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,False,True,\frac{1}{4},sympy:1/4,True,True,1,sympy:1,False,False,regressed_or_unstable
+495,"(2,12) \cup (12,102)","(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",False,True,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",False,True,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",False,True,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",False,True,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",False,True,stable_correct
+496,\frac{5}{13},\frac{5}{13},sympy:5/13,False,True,\frac{5}{13},sympy:5/13,False,True,\frac{5}{13},sympy:5/13,False,True,\frac{5}{13},sympy:5/13,False,True,\frac{5}{13},sympy:5/13,False,True,stable_correct
+497,\frac{7}{2},3 + \frac{3\sqrt{2}}{2},sympy:(3*sqrt(2))/2 + 3,False,False,3 + \frac{3\sqrt{2}}{2},sympy:(3*sqrt(2))/2 + 3,True,False,3 + \frac{3\sqrt{2}}{2},sympy:(3*sqrt(2))/2 + 3,True,False,2,sympy:2,False,False,2,sympy:2,False,False,stable_wrong
+498,-1,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,1,sympy:1,False,False,stable_wrong
+499,106^\circ,106,sympy:106,False,True,106,sympy:106,False,True,106,sympy:106,False,True,106,sympy:106,False,True,106,sympy:106,False,True,stable_correct

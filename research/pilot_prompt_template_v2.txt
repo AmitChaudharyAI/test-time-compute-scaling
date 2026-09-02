@@ -1,0 +1,11 @@
+Solve the following mathematical problem step by step.
+
+After completing your reasoning, you MUST provide your final
+answer on a separate final line using exactly this format:
+
+Final Answer: <answer>
+
+Do not write anything after the Final Answer line.
+
+Problem:
+{problem}
