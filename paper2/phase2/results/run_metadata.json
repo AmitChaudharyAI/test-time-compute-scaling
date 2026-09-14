@@ -1,0 +1,70 @@
+{
+  "python": "3.14.6",
+  "libraries": {
+    "numpy": "2.5.3",
+    "scikit_learn": "1.9.0",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.1"
+  },
+  "seeds": {
+    "outer_cv": 20260912,
+    "inner_cv": 20260913,
+    "calibration": 20260914,
+    "bootstrap": 20260915
+  },
+  "cv": {
+    "outer_folds": 5,
+    "inner_folds": 4,
+    "group": "question_index",
+    "stratification": "question_has_any_future_recovery"
+  },
+  "primary_target": "future_recovery",
+  "primary_policy": {
+    "model": "logistic",
+    "start": 2,
+    "schedule": "every_sample",
+    "feature_group": "F_all_signals_cost_prefix"
+  },
+  "calibration_methods": [
+    "uncalibrated",
+    "sigmoid",
+    "isotonic"
+  ],
+  "threshold_grid": [
+    0.0,
+    0.01,
+    0.02,
+    0.03,
+    0.05,
+    0.075,
+    0.1,
+    0.15,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.7
+  ],
+  "cost_ratios": [
+    "1:1",
+    "2:1",
+    "5:1",
+    "10:1"
+  ],
+  "cost_loss": "lambda_error*(N16-only-correct questions/n_questions) + lambda_compute*(policy_tokens/N16_tokens)",
+  "audit": {
+    "rows": 8000,
+    "questions": 500,
+    "fixed_accuracies": {
+      "1": 0.72,
+      "2": 0.73,
+      "4": 0.748,
+      "8": 0.784,
+      "16": 0.788
+    },
+    "duplicates": 0,
+    "missing": 0,
+    "label_mismatches": 0
+  },
+  "bootstrap_replicates": 10000
+}

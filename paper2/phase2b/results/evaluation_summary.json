@@ -1,0 +1,13 @@
+{
+  "primary_policy": "hybrid_logistic_start2_every_sample_lambda10",
+  "primary_accuracy": 0.782,
+  "primary_mean_samples": 4.678,
+  "primary_token_reduction_pct": 65.60358061162775,
+  "primary_missed_recoveries": 9,
+  "margin_accuracy": 0.784,
+  "margin_mean_samples": 4.038,
+  "margin_missed_recoveries": 11,
+  "missed_recoveries_prevented": 2,
+  "successful_hybrid_interventions": 2,
+  "prediction_rows_logistic": 7500
+}

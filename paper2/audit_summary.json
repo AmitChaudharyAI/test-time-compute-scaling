@@ -1,0 +1,12 @@
+{
+  "raw_file": "results\\raw\\generations.jsonl",
+  "nonblank_rows": 8000,
+  "unique_keys": 8000,
+  "expected_keys": 8000,
+  "missing": [],
+  "extras": [],
+  "duplicates": [],
+  "malformed": [],
+  "missing_fields": [],
+  "inconsistent": []
+}

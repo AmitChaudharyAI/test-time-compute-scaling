@@ -1,0 +1,4 @@
+policy_id,comparator_id,n_questions,policy_accuracy,comparator_accuracy,accuracy_difference_pp,paired_bootstrap_ci95_low_pp,paired_bootstrap_ci95_high_pp,bootstrap_replicates,bootstrap_seed,both_correct,policy_only_correct,comparator_only_correct,both_wrong,discordant_pairs,mcnemar_exact_p
+hybrid_logistic_start2_every_sample_lambda10,simple_margin,500,0.782,0.784,-0.2,-1.0,0.6,10000,214494566,389,2,3,106,5,1.0
+hybrid_logistic_start2_every_sample_lambda10,fixed_n8,500,0.782,0.784,-0.2,-2.4,2.0,10000,560667967,377,14,15,94,29,1.0
+hybrid_logistic_start2_every_sample_lambda10,fixed_n16,500,0.782,0.788,-0.6,-2.1999999999999997,0.8,10000,3700134264,385,6,9,100,15,0.6072387695312499

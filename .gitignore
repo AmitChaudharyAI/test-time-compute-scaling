@@ -50,3 +50,6 @@ logs/
 build/
 dist/
 *.egg-info/
+paper2/.deps/
+paper2/.frozen_analysis_deps/
+paper2/.deps/

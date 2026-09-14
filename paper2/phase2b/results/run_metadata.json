@@ -1,0 +1,39 @@
+{
+  "status": "OK",
+  "target": "unsafe_stop",
+  "target_prevalence_t1_t15": 0.07413333333333333,
+  "outer_folds": 5,
+  "inner_folds": 4,
+  "outer_seed": 20260912,
+  "inner_seed": 20260921,
+  "calibration_seed": 20260922,
+  "primary_policy": "hybrid_logistic_start2_every_sample_lambda10",
+  "primary_feature_group": "G_original_plus_trajectory",
+  "primary_lambda_miss": 10,
+  "online_features": [
+    "consensus",
+    "answer_entropy",
+    "vote_margin",
+    "unique_answers",
+    "answer_stability",
+    "invalid_extraction_rate",
+    "prefix",
+    "cumulative_output_tokens",
+    "delta_consensus",
+    "delta_entropy",
+    "delta_vote_margin",
+    "plurality_changed_previous_step",
+    "plurality_switches_so_far",
+    "longest_stable_streak_so_far",
+    "top_two_count_gap",
+    "recent_current_plurality_support"
+  ],
+  "forbidden_online_fields": [
+    "plurality_correct",
+    "answer_change_risk",
+    "missed_recovery_risk",
+    "regression_risk",
+    "safe_stop",
+    "unsafe_stop"
+  ]
+}
