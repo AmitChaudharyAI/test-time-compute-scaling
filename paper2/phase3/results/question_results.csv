@@ -1,0 +1,3001 @@
+question_index,method,samples,tokens,winner_sample,answer,key,margin,invalid,tie,valid,correct
+0,adaptive,2,651,1,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",1.0,0,False,2,True
+1,adaptive,2,1173,1,p - q,sympy:p - q,1.0,0,False,2,True
+2,adaptive,2,1013,1,\frac{14}{3},sympy:14/3,1.0,0,False,2,True
+3,adaptive,2,898,1,9,sympy:9,1.0,0,False,2,True
+4,adaptive,2,1036,1,Evelyn,sympy:E*e*l*n*v*y,1.0,0,False,2,True
+5,adaptive,2,523,1,42,sympy:42,1.0,0,False,2,True
+6,adaptive,2,850,1,27,sympy:27,1.0,0,False,2,True
+7,adaptive,2,1464,1,90,sympy:90,1.0,0,False,2,True
+8,adaptive,2,749,1,3\sqrt{13},sympy:3*sqrt(13),1.0,0,False,2,True
+9,adaptive,2,1872,1,1,sympy:1,1.0,1,False,1,False
+10,adaptive,2,796,1,2220,sympy:2220,1.0,0,False,2,True
+11,adaptive,2,1853,1,\frac{8}{63},sympy:8/63,1.0,0,False,2,False
+12,adaptive,4,2354,2,284,sympy:284,0.5,0,False,4,True
+13,adaptive,2,462,1,5,sympy:5,1.0,0,False,2,True
+14,adaptive,2,469,1,10,sympy:10,1.0,0,False,2,False
+15,adaptive,2,1104,1,6 - 5i,sympy:-1*5*i + 6,1.0,0,False,2,True
+16,adaptive,2,1267,1,-50,sympy:-50,1.0,0,False,2,True
+17,adaptive,16,10028,7,\pi,sympy:pi,0.25,0,False,16,True
+18,adaptive,4,1706,2,56,sympy:56,0.5,0,False,4,False
+19,adaptive,2,906,1,3,sympy:3,1.0,0,False,2,True
+20,adaptive,2,382,1,6+9i,sympy:9*i + 6,1.0,0,False,2,True
+21,adaptive,16,13470,2,13535,sympy:13535,0.07692307692307693,3,False,13,True
+22,adaptive,2,1587,1,5,sympy:5,1.0,0,False,2,True
+23,adaptive,2,1132,1,5,sympy:5,1.0,0,False,2,True
+24,adaptive,16,9978,2,10,sympy:10,0.1875,0,False,16,True
+25,adaptive,16,15285,1,"0, 1","sympy:{0, 1}",0.1111111111111111,7,False,9,False
+26,adaptive,16,11103,2,576,sympy:576,0.06666666666666667,1,False,15,False
+27,adaptive,2,726,1,78,sympy:78,1.0,0,False,2,True
+28,adaptive,2,635,1,-2 + 7i,sympy:7*i - 2,1.0,0,False,2,True
+29,adaptive,2,1143,1,225,sympy:225,1.0,0,False,2,True
+30,adaptive,2,739,1,52,sympy:52,1.0,0,False,2,True
+31,adaptive,2,1069,1,11\sqrt{2},sympy:11*sqrt(2),1.0,0,False,2,True
+32,adaptive,2,730,1,720,sympy:720,1.0,0,False,2,True
+33,adaptive,2,1337,1,\frac{81}{200},sympy:81/200,1.0,0,False,2,False
+34,adaptive,2,1371,1,-125,sympy:-125,1.0,0,False,2,True
+35,adaptive,2,810,1,3,sympy:3,1.0,0,False,2,True
+36,adaptive,2,1737,1,"3, 5, 7","sympy:{3, 5, 7}",1.0,1,False,1,True
+37,adaptive,2,467,1,72,sympy:72,1.0,0,False,2,True
+38,adaptive,2,513,1,2000,sympy:2000,1.0,0,False,2,True
+39,adaptive,2,1109,1,23,sympy:23,1.0,0,False,2,True
+40,adaptive,2,487,1,12,sympy:12,1.0,0,False,2,True
+41,adaptive,16,8939,2,5,sympy:5,0.1875,0,False,16,False
+42,adaptive,2,1280,1,4,sympy:4,1.0,0,False,2,True
+43,adaptive,16,13149,1,50 + 20\sqrt{5},sympy:20*sqrt(5) + 50,0.0,5,True,11,False
+44,adaptive,2,884,1,1.25,sympy:1.25000000000000,1.0,0,False,2,True
+45,adaptive,2,710,1,2,sympy:2,1.0,0,False,2,True
+46,adaptive,2,1600,2,6,sympy:6,1.0,1,False,1,True
+47,adaptive,2,875,1,5,sympy:5,1.0,0,False,2,True
+48,adaptive,2,488,1,\frac{3}{2},sympy:3/2,1.0,0,False,2,True
+49,adaptive,2,553,1,83,sympy:83,1.0,0,False,2,True
+50,adaptive,2,1408,1,203,sympy:203,1.0,0,False,2,True
+51,adaptive,2,1697,2,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,1.0,1,False,1,True
+52,adaptive,2,532,1,12,sympy:12,1.0,0,False,2,True
+53,adaptive,2,680,1,-\frac{\pi}{6},sympy:-1*pi/6,1.0,0,False,2,True
+54,adaptive,2,577,1,0.15,sympy:0.150000000000000,1.0,0,False,2,True
+55,adaptive,2,658,1,3,sympy:3,1.0,0,False,2,True
+56,adaptive,2,361,1,11,sympy:11,1.0,0,False,2,True
+57,adaptive,2,1115,1,16,sympy:16,1.0,0,False,2,True
+58,adaptive,2,515,1,9901,sympy:9901,1.0,0,False,2,True
+59,adaptive,2,952,1,5,sympy:5,1.0,0,False,2,True
+60,adaptive,2,1849,1,"(1, 1, 1)","sympy:(1, 1, 1)",1.0,1,False,1,False
+61,adaptive,2,757,1,-256,sympy:-256,1.0,0,False,2,True
+62,adaptive,2,1422,1,4,sympy:4,1.0,0,False,2,True
+63,adaptive,2,1049,1,9,sympy:9,1.0,0,False,2,False
+64,adaptive,2,1948,1,-\frac{35}{64},sympy:-35/64,1.0,1,False,1,False
+65,adaptive,2,473,1,1,sympy:1,1.0,0,False,2,True
+66,adaptive,2,754,1,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,1.0,0,False,2,True
+67,adaptive,2,647,1,10,sympy:10,1.0,0,False,2,True
+68,adaptive,2,1707,1,46,sympy:46,1.0,0,False,2,True
+69,adaptive,2,905,1,-1,sympy:-1,1.0,0,False,2,True
+70,adaptive,2,1121,1,40_9,sympy:40,1.0,0,False,2,True
+71,adaptive,4,1685,1,2516,sympy:2516,0.5,0,False,4,True
+72,adaptive,2,718,1,3,sympy:3,1.0,0,False,2,True
+73,adaptive,2,650,1,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,1.0,0,False,2,True
+74,adaptive,2,993,1,\cot x,sympy:cot(x),1.0,0,False,2,True
+75,adaptive,2,927,1,\frac{11}{36},sympy:11/36,1.0,0,False,2,True
+76,adaptive,2,645,1,0,sympy:0,1.0,0,False,2,True
+77,adaptive,2,419,1,4,sympy:4,1.0,0,False,2,True
+78,adaptive,2,1506,1,"(-2, 1)","sympy:Interval.open(-2, 1)",1.0,0,False,2,True
+79,adaptive,2,555,1,2,sympy:2,1.0,0,False,2,True
+80,adaptive,4,3056,2,1,sympy:1,0.5,0,False,4,False
+81,adaptive,2,1093,1,3,sympy:3,1.0,0,False,2,True
+82,adaptive,2,974,1,\frac{3}{4},sympy:3/4,1.0,0,False,2,False
+83,adaptive,2,821,1,2,sympy:2,1.0,0,False,2,True
+84,adaptive,2,1582,1,-1,sympy:-1,1.0,0,False,2,True
+85,adaptive,2,632,1,\sqrt{5},sympy:sqrt(5),1.0,0,False,2,True
+86,adaptive,2,523,1,240,sympy:240,1.0,0,False,2,True
+87,adaptive,2,1191,1,1,sympy:1,1.0,0,False,2,True
+88,adaptive,2,1735,1,2,sympy:2,1.0,0,False,2,True
+89,adaptive,2,1787,1,21,sympy:21,1.0,0,False,2,True
+90,adaptive,2,522,1,\frac{3}{2},sympy:3/2,1.0,0,False,2,True
+91,adaptive,2,704,1,1,sympy:1,1.0,0,False,2,True
+92,adaptive,2,1333,1,\frac{2240}{78125},sympy:448/15625,1.0,0,False,2,True
+93,adaptive,2,1217,1,33,sympy:33,1.0,0,False,2,True
+94,adaptive,2,1299,1,70,sympy:70,1.0,0,False,2,False
+95,adaptive,2,1638,1,-4,sympy:-4,1.0,0,False,2,True
+96,adaptive,3,2744,3,-1,sympy:-1,1.0,2,False,1,False
+97,adaptive,2,511,1,east,sympy:E*a*s*t,1.0,0,False,2,True
+98,adaptive,2,504,1,2k + 2,sympy:2*k + 2,1.0,0,False,2,True
+99,adaptive,2,1764,1,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",1.0,0,False,2,False
+100,adaptive,4,2866,2,75,sympy:75,0.5,0,False,4,False
+101,adaptive,16,14753,1,1,sympy:1,0.0,8,True,8,False
+102,adaptive,2,716,1,(a+5)(b+2),sympy:(a + 5)*(b + 2),1.0,0,False,2,True
+103,adaptive,2,1960,1,"[1,2]","sympy:Interval(1, 2)",1.0,1,False,1,False
+104,adaptive,2,1904,2,32,sympy:32,1.0,1,False,1,False
+105,adaptive,16,5924,5,15.5,sympy:15.5000000000000,0.2,1,False,15,False
+106,adaptive,2,645,1,\frac{4}{3},sympy:4/3,1.0,0,False,2,True
+107,adaptive,2,886,1,9,sympy:9,1.0,0,False,2,True
+108,adaptive,2,1592,1,2,sympy:2,1.0,0,False,2,True
+109,adaptive,2,1755,2,30,sympy:30,1.0,1,False,1,False
+110,adaptive,2,2039,2,3,sympy:3,1.0,1,False,1,False
+111,adaptive,2,929,1,210,sympy:210,1.0,0,False,2,True
+112,adaptive,2,1041,1,13,sympy:13,1.0,0,False,2,True
+113,adaptive,2,635,1,8000,sympy:8000,1.0,0,False,2,True
+114,adaptive,2,1329,1,-5,sympy:-5,1.0,0,False,2,True
+115,adaptive,16,7644,5,30240,sympy:30240,0.25,0,False,16,False
+116,adaptive,2,576,1,2,sympy:2,1.0,0,False,2,True
+117,adaptive,2,679,1,3,sympy:3,1.0,0,False,2,True
+118,adaptive,2,1812,1,81,sympy:81,1.0,1,False,1,True
+119,adaptive,2,803,1,-9,sympy:-9,1.0,0,False,2,True
+120,adaptive,16,9813,1,\text{odd},sympy:dd*o,0.25,0,False,16,False
+121,adaptive,2,600,1,6,sympy:6,1.0,0,False,2,True
+122,adaptive,2,700,1,9,sympy:9,1.0,0,False,2,True
+123,adaptive,2,1911,2,6,sympy:6,1.0,1,False,1,False
+124,adaptive,2,1531,1,\frac{11}{2},sympy:11/2,1.0,0,False,2,True
+125,adaptive,2,657,1,-3,sympy:-3,1.0,0,False,2,True
+126,adaptive,2,1759,1,\frac{37413 + i}{37265},sympy:(i + 37413)/37265,1.0,1,False,1,False
+127,adaptive,2,792,1,4210,sympy:4210,1.0,0,False,2,True
+128,adaptive,2,404,1,36,sympy:36,1.0,0,False,2,True
+129,adaptive,16,11984,5,\frac{3840}{289},sympy:3840/289,0.0625,0,False,16,True
+130,adaptive,2,860,1,13,sympy:13,1.0,0,False,2,True
+131,adaptive,2,1255,1,8,sympy:8,1.0,0,False,2,True
+132,adaptive,2,573,1,4,sympy:4,1.0,0,False,2,True
+133,adaptive,2,769,1,120,sympy:120,1.0,0,False,2,True
+134,adaptive,2,1222,1,16,sympy:16,1.0,0,False,2,True
+135,adaptive,2,877,1,9,sympy:9,1.0,0,False,2,True
+136,adaptive,2,1979,2,64,sympy:64,1.0,1,False,1,True
+137,adaptive,2,1088,1,204_5,sympy:204,1.0,0,False,2,True
+138,adaptive,5,3609,2,\frac{1}{6},sympy:1/6,0.5,1,False,4,False
+139,adaptive,2,1652,2,1,sympy:1,1.0,1,False,1,True
+140,adaptive,2,1015,1,13,sympy:13,1.0,0,False,2,True
+141,adaptive,4,918,1,2,sympy:2,0.5,0,False,4,True
+142,adaptive,2,931,1,3456000,sympy:3456000,1.0,0,False,2,False
+143,adaptive,2,1400,1,3\sqrt{5},sympy:3*sqrt(5),1.0,0,False,2,True
+144,adaptive,2,478,1,"(15, -29)","sympy:(15, -29)",1.0,0,False,2,True
+145,adaptive,2,1440,1,-2,sympy:-2,1.0,0,False,2,True
+146,adaptive,2,668,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,2,True
+147,adaptive,2,1779,2,12\sqrt{2},sympy:12*sqrt(2),1.0,1,False,1,False
+148,adaptive,2,622,1,11,sympy:11,1.0,0,False,2,True
+149,adaptive,4,2993,1,49,sympy:49,0.5,0,False,4,True
+150,adaptive,6,5827,6,3,sympy:3,1.0,5,False,1,False
+151,adaptive,16,10753,2,144,sympy:144,0.4666666666666667,1,False,15,True
+152,adaptive,16,11741,1,16,sympy:16,0.06666666666666667,1,False,15,False
+153,adaptive,2,914,1,\frac{2}{21},sympy:2/21,1.0,0,False,2,True
+154,adaptive,16,8035,1,2\sqrt{34},sympy:2*sqrt(34),0.0,0,True,16,False
+155,adaptive,2,852,1,\frac{1}{4},sympy:1/4,1.0,0,False,2,True
+156,adaptive,2,2048,1,90,sympy:90,1.0,1,False,1,False
+157,adaptive,2,678,1,\frac{6}{5},sympy:6/5,1.0,0,False,2,True
+158,adaptive,2,1534,1,2107,sympy:2107,1.0,0,False,2,True
+159,adaptive,2,806,1,3.21,sympy:3.21000000000000,1.0,0,False,2,True
+160,adaptive,4,1868,1,18,sympy:18,0.5,0,False,4,True
+161,adaptive,2,1210,1,6,sympy:6,1.0,0,False,2,True
+162,adaptive,2,1656,1,\frac{17}{50},sympy:17/50,1.0,0,False,2,True
+163,adaptive,2,907,1,-\frac{323}{9},sympy:-323/9,1.0,0,False,2,False
+164,adaptive,2,1800,2,-2,sympy:-2,1.0,1,False,1,False
+165,adaptive,4,1404,2,\frac{4}{9},sympy:4/9,0.5,0,False,4,True
+166,adaptive,2,1461,1,\(\boxed{\frac{270}{7}}\)  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \],sympy:270/7,1.0,0,False,2,True
+167,adaptive,2,463,1,65,sympy:65,1.0,0,False,2,True
+168,adaptive,16,13844,1,8,sympy:8,0.0,2,True,14,False
+169,adaptive,2,676,1,12,sympy:12,1.0,0,False,2,True
+170,adaptive,2,1947,1,-44,sympy:-44,1.0,1,False,1,False
+171,adaptive,2,782,1,\frac{13}{15},sympy:13/15,1.0,0,False,2,True
+172,adaptive,2,829,1,350,sympy:350,1.0,0,False,2,True
+173,adaptive,2,1485,1,4,sympy:4,1.0,0,False,2,True
+174,adaptive,2,914,1,2,sympy:2,1.0,0,False,2,True
+175,adaptive,2,1816,1,3,sympy:3,1.0,0,False,2,True
+176,adaptive,6,2313,1,0.0000672,sympy:6.72000000000000e-5,0.5,0,False,6,True
+177,adaptive,2,448,1,60,sympy:60,1.0,0,False,2,False
+178,adaptive,2,464,1,60,sympy:60,1.0,0,False,2,True
+179,adaptive,2,1891,1,-5x + 7y - 11z - 4 = 0,"sympy:Eq(-1*5*x + 7*y - 1*11*z - 4, 0)",1.0,1,False,1,True
+180,adaptive,4,1987,2,2,sympy:2,0.5,0,False,4,False
+181,adaptive,2,791,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,2,True
+182,adaptive,2,479,1,1251,sympy:1251,1.0,0,False,2,True
+183,adaptive,2,1430,1,23,sympy:23,1.0,0,False,2,True
+184,adaptive,16,13647,3,"[2, \infty)","sympy:Interval(2, oo)",0.26666666666666666,1,False,15,False
+185,adaptive,2,553,1,1,sympy:1,1.0,0,False,2,True
+186,adaptive,2,1287,1,7,sympy:7,1.0,0,False,2,True
+187,adaptive,2,791,1,7,sympy:7,1.0,0,False,2,True
+188,adaptive,4,3844,4,2,sympy:2,1.0,3,False,1,False
+189,adaptive,16,15857,2,130,sympy:130,0.0,5,True,11,False
+190,adaptive,16,8635,3,\frac{13}{18},sympy:13/18,0.125,0,False,16,True
+191,adaptive,2,537,1,0,sympy:0,1.0,0,False,2,True
+192,adaptive,2,820,1,30,sympy:30,1.0,0,False,2,True
+193,adaptive,2,711,1,4,sympy:4,1.0,0,False,2,True
+194,adaptive,4,2856,1,\frac{1}{4},sympy:1/4,0.5,0,False,4,True
+195,adaptive,2,640,1,24,sympy:24,1.0,0,False,2,True
+196,adaptive,2,519,1,1600,sympy:1600,1.0,0,False,2,True
+197,adaptive,2,1403,1,6,sympy:6,1.0,0,False,2,True
+198,adaptive,2,783,1,10080,sympy:10080,1.0,0,False,2,True
+199,adaptive,2,616,1,17,sympy:17,1.0,0,False,2,True
+200,adaptive,2,703,1,40,sympy:40,1.0,0,False,2,True
+201,adaptive,2,1410,1,66,sympy:66,1.0,0,False,2,True
+202,adaptive,2,1161,1,\frac{2}{3},sympy:2/3,1.0,0,False,2,True
+203,adaptive,2,1137,1,12,sympy:12,1.0,0,False,2,True
+204,adaptive,2,1291,1,256,sympy:256,1.0,0,False,2,False
+205,adaptive,2,2027,1,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,1.0,0,False,2,True
+206,adaptive,2,807,1,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",1.0,0,False,2,True
+207,adaptive,2,714,1,28,sympy:28,1.0,0,False,2,True
+208,adaptive,2,748,1,1,sympy:1,1.0,0,False,2,True
+209,adaptive,2,901,1,16,sympy:16,1.0,0,False,2,True
+210,adaptive,4,1929,2,10,sympy:10,0.5,0,False,4,True
+211,adaptive,2,1299,1,5,sympy:5,1.0,0,False,2,True
+212,adaptive,2,896,1,56,sympy:56,1.0,0,False,2,True
+213,adaptive,2,1209,1,1,sympy:1,1.0,0,False,2,False
+214,adaptive,16,9007,3,110,sympy:110,0.1875,0,False,16,True
+215,adaptive,2,700,1,2,sympy:2,1.0,0,False,2,True
+216,adaptive,4,1666,1,6,sympy:6,0.5,0,False,4,True
+217,adaptive,2,1530,1,11111111100,sympy:11111111100,1.0,1,False,1,False
+218,adaptive,2,766,1,"(-1, 6)","sympy:Interval.open(-1, 6)",1.0,0,False,2,True
+219,adaptive,16,9900,2,\frac{1}{9},sympy:1/9,0.1875,0,False,16,False
+220,adaptive,2,1359,1,\frac{2}{27},sympy:2/27,1.0,0,False,2,False
+221,adaptive,2,962,1,900,sympy:900,1.0,0,False,2,True
+222,adaptive,16,8127,3,150,sympy:150,0.25,0,False,16,False
+223,adaptive,16,6261,2,14,sympy:14,0.4375,0,False,16,True
+224,adaptive,4,2965,1,\frac{1}{16},sympy:1/16,0.5,0,False,4,False
+225,adaptive,2,594,1,11,sympy:11,1.0,0,False,2,True
+226,adaptive,2,629,1,3,sympy:3,1.0,0,False,2,True
+227,adaptive,2,566,1,C,sympy:c,1.0,0,False,2,True
+228,adaptive,2,2048,1,6\sqrt{6},sympy:6*sqrt(6),1.0,1,False,1,False
+229,adaptive,2,485,1,90,sympy:90,1.0,0,False,2,True
+230,adaptive,4,3257,1,\frac{16}{5},sympy:16/5,0.5,0,False,4,True
+231,adaptive,2,1684,1,10,sympy:10,1.0,0,False,2,True
+232,adaptive,2,1894,1,\frac{1997}{2},sympy:1997/2,1.0,0,False,2,True
+233,adaptive,2,985,1,30,sympy:30,1.0,0,False,2,True
+234,adaptive,4,1874,1,34,sympy:34,0.5,0,False,4,True
+235,adaptive,2,1344,1,\frac{5}{9},sympy:5/9,1.0,0,False,2,True
+236,adaptive,16,11570,2,15,sympy:15,0.21428571428571427,2,False,14,False
+237,adaptive,2,965,1,22,sympy:22,1.0,0,False,2,True
+238,adaptive,2,871,1,-4,sympy:-4,1.0,0,False,2,True
+239,adaptive,16,16384,,,,,16,False,0,False
+240,adaptive,16,7365,5,52,sympy:52,0.1875,0,False,16,False
+241,adaptive,2,1605,1,17,sympy:17,1.0,0,False,2,True
+242,adaptive,2,834,1,32349,sympy:32349,1.0,0,False,2,False
+243,adaptive,2,563,1,3,sympy:3,1.0,0,False,2,True
+244,adaptive,4,3492,2,8,sympy:8,0.5,0,False,4,True
+245,adaptive,2,2029,1,-9x - 15,sympy:-1*9*x - 15,1.0,1,False,1,False
+246,adaptive,2,588,1,8,sympy:8,1.0,0,False,2,True
+247,adaptive,2,983,1,\frac{10}{11},sympy:10/11,1.0,0,False,2,True
+248,adaptive,16,16384,,,,,16,False,0,False
+249,adaptive,2,1666,1,11,sympy:11,1.0,0,False,2,False
+250,adaptive,2,1147,1,13,sympy:13,1.0,0,False,2,True
+251,adaptive,2,1020,1,540,sympy:540,1.0,0,False,2,True
+252,adaptive,2,1069,1,81,sympy:81,1.0,0,False,2,True
+253,adaptive,2,432,1,\frac{1}{8},sympy:1/8,1.0,0,False,2,True
+254,adaptive,2,797,1,28,sympy:28,1.0,0,False,2,True
+255,adaptive,2,698,1,\text{E},sympy:e,1.0,0,False,2,True
+256,adaptive,2,784,1,\frac{8}{21},sympy:8/21,1.0,0,False,2,True
+257,adaptive,2,798,1,864,sympy:864,1.0,0,False,2,True
+258,adaptive,2,1080,1,16,sympy:16,1.0,0,False,2,True
+259,adaptive,2,541,1,22,sympy:22,1.0,0,False,2,True
+260,adaptive,2,1270,1,120,sympy:120,1.0,0,False,2,True
+261,adaptive,2,753,1,76,sympy:76,1.0,0,False,2,True
+262,adaptive,2,466,1,4,sympy:4,1.0,0,False,2,True
+263,adaptive,2,790,1,15,sympy:15,1.0,0,False,2,True
+264,adaptive,16,8920,3,3,sympy:3,0.0,0,True,16,False
+265,adaptive,2,446,1,4005,sympy:4005,1.0,0,False,2,True
+266,adaptive,2,860,1,\frac{33}{100},sympy:33/100,1.0,0,False,2,True
+267,adaptive,2,1065,1,180,sympy:180,1.0,0,False,2,True
+268,adaptive,2,555,1,1,sympy:1,1.0,0,False,2,True
+269,adaptive,2,735,1,6,sympy:6,1.0,0,False,2,True
+270,adaptive,2,709,1,10,sympy:10,1.0,0,False,2,True
+271,adaptive,2,1486,1,333,sympy:333,1.0,0,False,2,True
+272,adaptive,2,1439,1,1030,sympy:1030,1.0,0,False,2,True
+273,adaptive,2,761,1,1250,sympy:1250,1.0,0,False,2,True
+274,adaptive,4,1257,1,36,sympy:36,0.5,0,False,4,False
+275,adaptive,2,569,1,7,sympy:7,1.0,0,False,2,True
+276,adaptive,2,942,1,11,sympy:11,1.0,0,False,2,True
+277,adaptive,2,668,1,\sqrt{53},sympy:sqrt(53),1.0,0,False,2,True
+278,adaptive,2,831,1,255,sympy:255,1.0,0,False,2,True
+279,adaptive,2,992,1,4\pi,sympy:4*pi,1.0,0,False,2,False
+280,adaptive,2,641,1,8,sympy:8,1.0,0,False,2,True
+281,adaptive,4,2109,1,36^\circ,sympy:36,0.5,0,False,4,True
+282,adaptive,2,731,1,497,sympy:497,1.0,0,False,2,False
+283,adaptive,2,827,1,1,sympy:1,1.0,0,False,2,True
+284,adaptive,16,8651,1,"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",0.06666666666666667,1,False,15,True
+285,adaptive,16,15633,1,314,sympy:314,0.0,12,True,4,False
+286,adaptive,16,14282,1,\frac{1}{2},sympy:1/2,0.2727272727272727,5,False,11,False
+287,adaptive,2,993,1,36,sympy:36,1.0,0,False,2,True
+288,adaptive,3,2786,3,\sqrt{\frac{138}{89}},sympy:sqrt(138/89),1.0,2,False,1,False
+289,adaptive,2,1068,1,16,sympy:16,1.0,0,False,2,True
+290,adaptive,2,2028,1,4,sympy:4,1.0,0,False,2,True
+291,adaptive,4,1398,1,63,sympy:63,0.5,0,False,4,True
+292,adaptive,2,1907,1,256,sympy:256,1.0,1,False,1,False
+293,adaptive,2,1133,1,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",1.0,0,False,2,True
+294,adaptive,12,9532,4,58,sympy:58,0.5,2,False,10,True
+295,adaptive,16,12873,3,4,sympy:4,0.07142857142857142,2,False,14,False
+296,adaptive,2,1933,1,B,sympy:b,1.0,1,False,1,True
+297,adaptive,2,1494,1,103,sympy:103,1.0,0,False,2,True
+298,adaptive,8,7611,1,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},sympy:-18,0.5,4,False,4,True
+299,adaptive,2,780,1,63,sympy:63,1.0,0,False,2,True
+300,adaptive,2,534,1,12,sympy:12,1.0,0,False,2,True
+301,adaptive,14,6387,1,5.5,sympy:5.50000000000000,0.5,0,False,14,False
+302,adaptive,16,11740,1,4,sympy:4,0.08333333333333333,4,False,12,False
+303,adaptive,2,1516,1,21,sympy:21,1.0,0,False,2,False
+304,adaptive,2,1579,1,9,sympy:9,1.0,0,False,2,True
+305,adaptive,2,1196,1,\frac{9}{19},sympy:9/19,1.0,0,False,2,True
+306,adaptive,2,1526,1,3,sympy:3,1.0,0,False,2,False
+307,adaptive,2,1162,1,"(-\infty, 0]","sympy:Interval(-oo, 0)",1.0,0,False,2,True
+308,adaptive,2,1943,2,4sqrt(3)```python,sympy:4,1.0,1,False,1,False
+309,adaptive,2,1715,1,15,sympy:15,1.0,1,False,1,False
+310,adaptive,2,785,1,49,sympy:49,1.0,0,False,2,True
+311,adaptive,2,1354,1,3,sympy:3,1.0,0,False,2,True
+312,adaptive,2,871,1,"(5, \infty)","sympy:Interval.open(5, oo)",1.0,0,False,2,True
+313,adaptive,2,798,1,12\pi,sympy:12*pi,1.0,0,False,2,True
+314,adaptive,2,694,1,"(2, 4)","sympy:Interval.open(2, 4)",1.0,0,False,2,True
+315,adaptive,2,900,1,41,sympy:41,1.0,0,False,2,True
+316,adaptive,2,1915,1,12,sympy:12,1.0,0,False,2,True
+317,adaptive,2,1212,1,2,sympy:2,1.0,0,False,2,False
+318,adaptive,2,962,1,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,1.0,0,False,2,True
+319,adaptive,2,684,1,-128,sympy:-128,1.0,0,False,2,True
+320,adaptive,2,992,1,-\frac{24}{25},sympy:-24/25,1.0,0,False,2,True
+321,adaptive,2,698,1,10,sympy:10,1.0,0,False,2,True
+322,adaptive,2,705,1,-1,sympy:-1,1.0,0,False,2,True
+323,adaptive,2,844,1,\frac{1}{3},sympy:1/3,1.0,0,False,2,True
+324,adaptive,4,3360,1,120,sympy:120,0.5,0,False,4,True
+325,adaptive,2,941,1,4,sympy:4,1.0,0,False,2,True
+326,adaptive,3,3024,3,0.09,sympy:0.0900000000000000,1.0,2,False,1,True
+327,adaptive,2,2048,1,35,sympy:35,1.0,1,False,1,False
+328,adaptive,3,2991,3,3,sympy:3,1.0,2,False,1,True
+329,adaptive,2,439,1,4,sympy:4,1.0,0,False,2,True
+330,adaptive,2,1019,1,1940,sympy:1940,1.0,0,False,2,True
+331,adaptive,2,1366,1,\dfrac{13}{6},sympy:13/6,1.0,0,False,2,True
+332,adaptive,16,13304,3,2,sympy:2,0.125,0,False,16,True
+333,adaptive,2,2048,1,3,sympy:3,1.0,1,False,1,True
+334,adaptive,2,930,1,-120,sympy:-120,1.0,0,False,2,True
+335,adaptive,2,1472,1,3,sympy:3,1.0,0,False,2,True
+336,adaptive,2,504,1,26000,sympy:26000,1.0,0,False,2,True
+337,adaptive,2,944,1,6,sympy:6,1.0,0,False,2,True
+338,adaptive,2,633,1,4343,sympy:4343,1.0,0,False,2,True
+339,adaptive,2,1372,1,2k,sympy:2*k,1.0,0,False,2,True
+340,adaptive,16,16384,,,,,16,False,0,False
+341,adaptive,2,783,1,-2,sympy:-2,1.0,0,False,2,True
+342,adaptive,2,692,1,2,sympy:2,1.0,0,False,2,True
+343,adaptive,2,721,1,58500,sympy:58500,1.0,0,False,2,True
+344,adaptive,2,848,1,5,sympy:5,1.0,0,False,2,True
+345,adaptive,2,629,1,1,sympy:1,1.0,0,False,2,True
+346,adaptive,2,1123,1,66,sympy:66,1.0,0,False,2,True
+347,adaptive,2,759,1,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,1.0,0,False,2,True
+348,adaptive,2,840,1,4495,sympy:4495,1.0,0,False,2,True
+349,adaptive,2,625,1,5040,sympy:5040,1.0,0,False,2,False
+350,adaptive,2,658,1,4,sympy:4,1.0,0,False,2,True
+351,adaptive,2,1067,1,-\frac{1}{16},sympy:-1/16,1.0,0,False,2,False
+352,adaptive,2,1917,2,44,sympy:44,1.0,1,False,1,False
+353,adaptive,2,882,1,480,sympy:480,1.0,0,False,2,True
+354,adaptive,4,2463,1,81,sympy:81,0.5,0,False,4,True
+355,adaptive,16,11729,1,120,sympy:120,0.4666666666666667,1,False,15,False
+356,adaptive,2,1453,1,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",1.0,0,False,2,True
+357,adaptive,6,2812,2,4,sympy:4,0.5,0,False,6,True
+358,adaptive,4,1915,2,\text{ellipse},sympy:E*E*i*l*l*p*s,0.5,0,False,4,True
+359,adaptive,2,1803,2,6,sympy:6,1.0,1,False,1,True
+360,adaptive,2,826,1,\frac{7}{4},sympy:7/4,1.0,0,False,2,True
+361,adaptive,2,1424,1,16\sqrt{3},sympy:16*sqrt(3),1.0,0,False,2,True
+362,adaptive,2,364,1,\frac{1}{4},sympy:1/4,1.0,0,False,2,True
+363,adaptive,2,543,1,2,sympy:2,1.0,0,False,2,True
+364,adaptive,2,1507,1,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",1.0,0,False,2,True
+365,adaptive,2,1433,1,40,sympy:40,1.0,0,False,2,False
+366,adaptive,2,950,1,4,sympy:4,1.0,0,False,2,True
+367,adaptive,2,560,1,1,sympy:1,1.0,0,False,2,True
+368,adaptive,2,568,1,31,sympy:31,1.0,0,False,2,True
+369,adaptive,6,1927,2,144,sympy:144,0.5,0,False,6,False
+370,adaptive,2,636,1,-41,sympy:-41,1.0,0,False,2,True
+371,adaptive,16,14407,2,4,sympy:4,0.18181818181818182,5,False,11,False
+372,adaptive,16,9220,4,40,sympy:40,0.0,0,True,16,False
+373,adaptive,2,878,1,1+2i,sympy:2*i + 1,1.0,0,False,2,True
+374,adaptive,2,540,1,4,sympy:4,1.0,0,False,2,True
+375,adaptive,2,1118,1,25,sympy:25,1.0,0,False,2,True
+376,adaptive,2,1913,1,"(8, -2)","sympy:(8, -2)",1.0,0,False,2,True
+377,adaptive,2,876,1,6,sympy:6,1.0,0,False,2,True
+378,adaptive,2,1139,1,3,sympy:3,1.0,0,False,2,True
+379,adaptive,4,3068,1,9^{\text{th}},sympy:9,0.5,0,False,4,False
+380,adaptive,2,1426,2,"(0, 36)","sympy:Interval.open(0, 36)",1.0,1,False,1,False
+381,adaptive,2,2048,2,\frac{1}{2},sympy:1/2,1.0,1,False,1,True
+382,adaptive,2,1450,1,\frac{20000}{\pi},sympy:20000/pi,1.0,0,False,2,True
+383,adaptive,2,1299,1,"[-2, 7]","sympy:Interval(-2, 7)",1.0,0,False,2,True
+384,adaptive,2,345,1,15x - 80,sympy:15*x - 80,1.0,0,False,2,True
+385,adaptive,2,752,1,22,sympy:22,1.0,0,False,2,True
+386,adaptive,2,895,1,11,sympy:11,1.0,0,False,2,True
+387,adaptive,2,639,1,18,sympy:18,1.0,0,False,2,True
+388,adaptive,2,792,1,\frac{11}{2},sympy:11/2,1.0,0,False,2,True
+389,adaptive,16,8123,3,\frac{\sqrt{21}}{5},sympy:sqrt(21)/5,0.375,0,False,16,True
+390,adaptive,2,1968,1,4,sympy:4,1.0,1,False,1,False
+391,adaptive,2,1749,1,0,sympy:0,1.0,0,False,2,True
+392,adaptive,16,15177,3,10,sympy:10,0.16666666666666666,4,False,12,False
+393,adaptive,2,883,1,\frac{3}{4},sympy:3/4,1.0,0,False,2,True
+394,adaptive,2,1612,1,-\frac{3}{8},sympy:-3/8,1.0,0,False,2,True
+395,adaptive,2,675,1,4,sympy:4,1.0,0,False,2,True
+396,adaptive,6,3008,1,2,sympy:2,0.5,0,False,6,True
+397,adaptive,2,713,1,23,sympy:23,1.0,0,False,2,True
+398,adaptive,2,2048,1,39.68,sympy:39.6800000000000,1.0,1,False,1,False
+399,adaptive,2,544,1,326.5,sympy:326.500000000000,1.0,0,False,2,True
+400,adaptive,16,11805,3,7,sympy:7,0.13333333333333333,1,False,15,False
+401,adaptive,2,1990,2,3,sympy:3,1.0,1,False,1,False
+402,adaptive,4,1571,2,1 - 12i,sympy:-1*12*i + 1,0.5,0,False,4,True
+403,adaptive,2,1114,1,1,sympy:1,1.0,0,False,2,False
+404,adaptive,2,641,1,3,sympy:3,1.0,0,False,2,True
+405,adaptive,2,1449,1,60,sympy:60,1.0,0,False,2,True
+406,adaptive,2,646,1,0,sympy:0,1.0,0,False,2,True
+407,adaptive,2,546,1,9,sympy:9,1.0,0,False,2,True
+408,adaptive,14,14164,14,\begin{pmatrix} \frac{1}{5} \\ -\frac{18}{5} \end{pmatrix},parsed:\begin{pmatrix} \frac{1}{5} \-\frac{18}{5} \end{pmatrix},1.0,13,False,1,False
+409,adaptive,2,1234,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,2,True
+410,adaptive,2,792,1,6,sympy:6,1.0,0,False,2,True
+411,adaptive,2,391,1,60,sympy:60,1.0,0,False,2,True
+412,adaptive,16,15180,2,338.5,sympy:338.500000000000,0.16666666666666666,10,False,6,False
+413,adaptive,2,627,1,5r^5,sympy:5*r**5,1.0,0,False,2,True
+414,adaptive,2,994,1,10,sympy:10,1.0,0,False,2,True
+415,adaptive,2,1693,1,9,sympy:9,1.0,0,False,2,True
+416,adaptive,2,1088,1,\frac{1}{8},sympy:1/8,1.0,0,False,2,True
+417,adaptive,2,1421,1,-2,sympy:-2,1.0,0,False,2,True
+418,adaptive,2,1401,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,2,True
+419,adaptive,2,1815,1,\begin{pmatrix} -30 \\ -30 \\ 120 \end{pmatrix},sympy:-30,1.0,1,False,1,False
+420,adaptive,2,1066,1,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",1.0,0,False,2,False
+421,adaptive,16,15013,2,27,sympy:27,0.2727272727272727,5,False,11,True
+422,adaptive,3,2873,3,2,sympy:2,1.0,2,False,1,False
+423,adaptive,16,13591,1,1440,sympy:1440,0.0625,0,False,16,True
+424,adaptive,2,828,1,600,sympy:600,1.0,0,False,2,True
+425,adaptive,16,9727,3,\frac{3}{4}(a^2 + b^2 + c^2),sympy:3*(a**2 + b**2 + c**2)/4,0.13333333333333333,1,False,15,False
+426,adaptive,2,984,1,6\sqrt{2},sympy:6*sqrt(2),1.0,0,False,2,True
+427,adaptive,2,858,1,29,sympy:29,1.0,0,False,2,True
+428,adaptive,2,1817,2,64,sympy:64,1.0,1,False,1,True
+429,adaptive,2,1056,1,50,sympy:50,1.0,0,False,2,True
+430,adaptive,2,507,1,4.5,sympy:4.50000000000000,1.0,0,False,2,True
+431,adaptive,16,12566,3,"\left[\frac{\pi^2}{8}, \frac{5\pi^2}{4}\right]","sympy:Interval(pi**2/8, (5*pi**2)/4)",0.125,0,False,16,True
+432,adaptive,2,1908,2,0,sympy:0,1.0,1,False,1,False
+433,adaptive,2,1203,1,0.35625,sympy:0.356250000000000,1.0,0,False,2,True
+434,adaptive,2,983,1,32,sympy:32,1.0,0,False,2,True
+435,adaptive,2,1311,1,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",1.0,0,False,2,True
+436,adaptive,2,2028,1,4,sympy:4,1.0,1,False,1,True
+437,adaptive,2,1473,1,3,sympy:3,1.0,0,False,2,True
+438,adaptive,2,640,1,4,sympy:4,1.0,0,False,2,True
+439,adaptive,2,1856,1,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,1.0,1,False,1,True
+440,adaptive,2,891,1,14,sympy:14,1.0,0,False,2,True
+441,adaptive,2,794,1,550,sympy:550,1.0,0,False,2,True
+442,adaptive,2,483,1,256,sympy:256,1.0,0,False,2,True
+443,adaptive,2,592,1,45,sympy:45,1.0,0,False,2,True
+444,adaptive,4,2718,2,\frac{1}{4},sympy:1/4,0.5,0,False,4,False
+445,adaptive,2,1875,2,24,sympy:24,1.0,1,False,1,False
+446,adaptive,2,1476,1,8,sympy:8,1.0,0,False,2,True
+447,adaptive,2,757,1,9,sympy:9,1.0,0,False,2,True
+448,adaptive,2,1603,1,44,sympy:44,1.0,0,False,2,True
+449,adaptive,2,514,1,47,sympy:47,1.0,0,False,2,True
+450,adaptive,2,1125,1,64,sympy:64,1.0,0,False,2,True
+451,adaptive,2,988,1,\frac{639}{40},sympy:639/40,1.0,0,False,2,True
+452,adaptive,2,845,1,143,sympy:143,1.0,0,False,2,True
+453,adaptive,2,716,1,10,sympy:10,1.0,0,False,2,True
+454,adaptive,3,2980,3,y = 4x + 1,"sympy:Eq(y, 4*x + 1)",1.0,2,False,1,False
+455,adaptive,2,690,1,6,sympy:6,1.0,0,False,2,True
+456,adaptive,2,1931,1,"1, -2","sympy:{-2, 1}",1.0,0,False,2,True
+457,adaptive,2,285,1,0,sympy:0,1.0,0,False,2,True
+458,adaptive,2,1270,1,41,sympy:41,1.0,0,False,2,True
+459,adaptive,2,1575,1,18.90,sympy:18.9000000000000,1.0,0,False,2,True
+460,adaptive,16,7723,3,105,sympy:105,0.1875,0,False,16,False
+461,adaptive,2,1337,1,12,sympy:12,1.0,0,False,2,True
+462,adaptive,6,3226,2,59,sympy:59,0.5,0,False,6,True
+463,adaptive,2,644,1,2,sympy:2,1.0,0,False,2,True
+464,adaptive,2,1410,1,9,sympy:9,1.0,0,False,2,True
+465,adaptive,2,558,1,121,sympy:121,1.0,0,False,2,True
+466,adaptive,16,11697,1,8\pi,sympy:8*pi,0.3125,0,False,16,True
+467,adaptive,2,506,1,15,sympy:15,1.0,0,False,2,True
+468,adaptive,2,587,1,8,sympy:8,1.0,0,False,2,True
+469,adaptive,2,547,1,25,sympy:25,1.0,0,False,2,True
+470,adaptive,3,3072,3,937.5,sympy:937.500000000000,1.0,2,False,1,False
+471,adaptive,2,548,1,84,sympy:84,1.0,0,False,2,True
+472,adaptive,2,899,1,137\frac{1}{2},sympy:275/2,1.0,0,False,2,True
+473,adaptive,2,1416,1,7,sympy:7,1.0,0,False,2,True
+474,adaptive,2,1466,1,3,sympy:3,1.0,0,False,2,True
+475,adaptive,2,1957,2,139,sympy:139,1.0,1,False,1,False
+476,adaptive,2,740,1,200,sympy:200,1.0,0,False,2,True
+477,adaptive,4,3561,1,2,sympy:2,0.5,0,False,4,True
+478,adaptive,2,948,1,0,sympy:0,1.0,0,False,2,False
+479,adaptive,2,804,1,2,sympy:2,1.0,0,False,2,True
+480,adaptive,2,1039,1,1,sympy:1,1.0,0,False,2,True
+481,adaptive,2,1623,1,2,sympy:2,1.0,1,False,1,False
+482,adaptive,16,9961,1,202,sympy:202,0.3125,0,False,16,True
+483,adaptive,2,1950,1,\frac{8}{15},sympy:8/15,1.0,1,False,1,True
+484,adaptive,2,1475,1,10,sympy:10,1.0,0,False,2,True
+485,adaptive,4,3538,4,12,sympy:12,1.0,3,False,1,False
+486,adaptive,2,415,1,216,sympy:216,1.0,0,False,2,True
+487,adaptive,2,1328,1,2,sympy:2,1.0,0,False,2,True
+488,adaptive,2,451,1,36,sympy:36,1.0,0,False,2,True
+489,adaptive,2,1009,1,15,sympy:15,1.0,0,False,2,True
+490,adaptive,2,1989,2,18,sympy:18,1.0,1,False,1,False
+491,adaptive,16,7272,3,16,sympy:16,0.14285714285714285,2,False,14,False
+492,adaptive,2,881,1,y = -2x,"sympy:Eq(y, -1*2*x)",1.0,0,False,2,True
+493,adaptive,2,1280,1,20,sympy:20,1.0,0,False,2,True
+494,adaptive,3,2886,3,\frac{1}{4},sympy:1/4,1.0,2,False,1,True
+495,adaptive,2,1047,1,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",1.0,0,False,2,True
+496,adaptive,2,919,1,\dfrac{5}{13},sympy:5/13,1.0,0,False,2,True
+497,adaptive,16,10713,7,2,sympy:2,0.3125,0,False,16,False
+498,adaptive,16,14758,1,1,sympy:1,0.38461538461538464,3,False,13,False
+499,adaptive,2,720,1,106,sympy:106,1.0,0,False,2,True
+0,fixed_n1,1,324,1,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",1.0,0,False,1,True
+1,fixed_n1,1,568,1,p - q,sympy:p - q,1.0,0,False,1,True
+2,fixed_n1,1,505,1,\frac{14}{3},sympy:14/3,1.0,0,False,1,True
+3,fixed_n1,1,456,1,9,sympy:9,1.0,0,False,1,True
+4,fixed_n1,1,512,1,Evelyn,sympy:E*e*l*n*v*y,1.0,0,False,1,True
+5,fixed_n1,1,259,1,42,sympy:42,1.0,0,False,1,True
+6,fixed_n1,1,346,1,27,sympy:27,1.0,0,False,1,True
+7,fixed_n1,1,804,1,90,sympy:90,1.0,0,False,1,True
+8,fixed_n1,1,364,1,3\sqrt{13},sympy:3*sqrt(13),1.0,0,False,1,True
+9,fixed_n1,1,848,1,1,sympy:1,1.0,0,False,1,False
+10,fixed_n1,1,430,1,2220,sympy:2220,1.0,0,False,1,True
+11,fixed_n1,1,958,1,\frac{8}{63},sympy:8/63,1.0,0,False,1,False
+12,fixed_n1,1,450,1,90,sympy:90,1.0,0,False,1,False
+13,fixed_n1,1,234,1,5,sympy:5,1.0,0,False,1,True
+14,fixed_n1,1,252,1,10,sympy:10,1.0,0,False,1,False
+15,fixed_n1,1,604,1,6 - 5i,sympy:-1*5*i + 6,1.0,0,False,1,True
+16,fixed_n1,1,243,1,-50,sympy:-50,1.0,0,False,1,True
+17,fixed_n1,1,545,1,\frac{\pi}{2},sympy:pi/2,1.0,0,False,1,False
+18,fixed_n1,1,514,1,62,sympy:62,1.0,0,False,1,False
+19,fixed_n1,1,371,1,3,sympy:3,1.0,0,False,1,True
+20,fixed_n1,1,202,1,6+9i,sympy:9*i + 6,1.0,0,False,1,True
+21,fixed_n1,1,605,1,13586,sympy:13586,1.0,0,False,1,False
+22,fixed_n1,1,807,1,5,sympy:5,1.0,0,False,1,True
+23,fixed_n1,1,596,1,5,sympy:5,1.0,0,False,1,True
+24,fixed_n1,1,461,1,49,sympy:49,1.0,0,False,1,False
+25,fixed_n1,1,748,1,"0, 1","sympy:{0, 1}",1.0,0,False,1,False
+26,fixed_n1,1,425,1,480,sympy:480,1.0,0,False,1,False
+27,fixed_n1,1,379,1,78,sympy:78,1.0,0,False,1,True
+28,fixed_n1,1,344,1,-2 + 7i,sympy:7*i - 2,1.0,0,False,1,True
+29,fixed_n1,1,675,1,225,sympy:225,1.0,0,False,1,True
+30,fixed_n1,1,417,1,52,sympy:52,1.0,0,False,1,True
+31,fixed_n1,1,592,1,11\sqrt{2},sympy:11*sqrt(2),1.0,0,False,1,True
+32,fixed_n1,1,352,1,720,sympy:720,1.0,0,False,1,True
+33,fixed_n1,1,741,1,\frac{81}{200},sympy:81/200,1.0,0,False,1,False
+34,fixed_n1,1,616,1,-125,sympy:-125,1.0,0,False,1,True
+35,fixed_n1,1,394,1,3,sympy:3,1.0,0,False,1,True
+36,fixed_n1,1,713,1,"3, 5, 7","sympy:{3, 5, 7}",1.0,0,False,1,True
+37,fixed_n1,1,266,1,72,sympy:72,1.0,0,False,1,True
+38,fixed_n1,1,265,1,2000,sympy:2000,1.0,0,False,1,True
+39,fixed_n1,1,454,1,23,sympy:23,1.0,0,False,1,True
+40,fixed_n1,1,285,1,12,sympy:12,1.0,0,False,1,True
+41,fixed_n1,1,691,1,22,sympy:22,1.0,0,False,1,False
+42,fixed_n1,1,1024,1,4,sympy:4,1.0,0,False,1,True
+43,fixed_n1,1,577,1,50 + 20\sqrt{5},sympy:20*sqrt(5) + 50,1.0,0,False,1,False
+44,fixed_n1,1,447,1,1.25,sympy:1.25000000000000,1.0,0,False,1,True
+45,fixed_n1,1,354,1,2,sympy:2,1.0,0,False,1,True
+46,fixed_n1,1,1024,,,,,1,False,0,False
+47,fixed_n1,1,490,1,5,sympy:5,1.0,0,False,1,True
+48,fixed_n1,1,236,1,\frac{3}{2},sympy:3/2,1.0,0,False,1,True
+49,fixed_n1,1,275,1,83,sympy:83,1.0,0,False,1,True
+50,fixed_n1,1,759,1,203,sympy:203,1.0,0,False,1,True
+51,fixed_n1,1,1024,,,,,1,False,0,False
+52,fixed_n1,1,314,1,12,sympy:12,1.0,0,False,1,True
+53,fixed_n1,1,307,1,-\frac{\pi}{6},sympy:-1*pi/6,1.0,0,False,1,True
+54,fixed_n1,1,287,1,0.15,sympy:0.150000000000000,1.0,0,False,1,True
+55,fixed_n1,1,332,1,3,sympy:3,1.0,0,False,1,True
+56,fixed_n1,1,200,1,11,sympy:11,1.0,0,False,1,True
+57,fixed_n1,1,460,1,16,sympy:16,1.0,0,False,1,True
+58,fixed_n1,1,227,1,9901,sympy:9901,1.0,0,False,1,True
+59,fixed_n1,1,525,1,5,sympy:5,1.0,0,False,1,True
+60,fixed_n1,1,825,1,"(1, 1, 1)","sympy:(1, 1, 1)",1.0,0,False,1,False
+61,fixed_n1,1,355,1,-256,sympy:-256,1.0,0,False,1,True
+62,fixed_n1,1,669,1,4,sympy:4,1.0,0,False,1,True
+63,fixed_n1,1,518,1,9,sympy:9,1.0,0,False,1,False
+64,fixed_n1,1,924,1,-\frac{35}{64},sympy:-35/64,1.0,0,False,1,False
+65,fixed_n1,1,246,1,1,sympy:1,1.0,0,False,1,True
+66,fixed_n1,1,473,1,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,1.0,0,False,1,True
+67,fixed_n1,1,301,1,10,sympy:10,1.0,0,False,1,True
+68,fixed_n1,1,1024,1,46,sympy:46,1.0,0,False,1,True
+69,fixed_n1,1,493,1,-1,sympy:-1,1.0,0,False,1,True
+70,fixed_n1,1,586,1,40_9,sympy:40,1.0,0,False,1,True
+71,fixed_n1,1,449,1,2516,sympy:2516,1.0,0,False,1,True
+72,fixed_n1,1,323,1,3,sympy:3,1.0,0,False,1,True
+73,fixed_n1,1,323,1,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,1.0,0,False,1,True
+74,fixed_n1,1,550,1,\cot x,sympy:cot(x),1.0,0,False,1,True
+75,fixed_n1,1,502,1,\frac{11}{36},sympy:11/36,1.0,0,False,1,True
+76,fixed_n1,1,335,1,0,sympy:0,1.0,0,False,1,True
+77,fixed_n1,1,226,1,4,sympy:4,1.0,0,False,1,True
+78,fixed_n1,1,742,1,"(-2, 1)","sympy:Interval.open(-2, 1)",1.0,0,False,1,True
+79,fixed_n1,1,274,1,2,sympy:2,1.0,0,False,1,True
+80,fixed_n1,1,669,1,2,sympy:2,1.0,0,False,1,False
+81,fixed_n1,1,714,1,3,sympy:3,1.0,0,False,1,True
+82,fixed_n1,1,487,1,\frac{3}{4},sympy:3/4,1.0,0,False,1,False
+83,fixed_n1,1,460,1,2,sympy:2,1.0,0,False,1,True
+84,fixed_n1,1,784,1,-1,sympy:-1,1.0,0,False,1,True
+85,fixed_n1,1,314,1,\sqrt{5},sympy:sqrt(5),1.0,0,False,1,True
+86,fixed_n1,1,262,1,240,sympy:240,1.0,0,False,1,True
+87,fixed_n1,1,533,1,1,sympy:1,1.0,0,False,1,True
+88,fixed_n1,1,910,1,2,sympy:2,1.0,0,False,1,True
+89,fixed_n1,1,931,1,21,sympy:21,1.0,0,False,1,True
+90,fixed_n1,1,290,1,\frac{3}{2},sympy:3/2,1.0,0,False,1,True
+91,fixed_n1,1,372,1,1,sympy:1,1.0,0,False,1,True
+92,fixed_n1,1,549,1,\frac{2240}{78125},sympy:448/15625,1.0,0,False,1,True
+93,fixed_n1,1,522,1,33,sympy:33,1.0,0,False,1,True
+94,fixed_n1,1,583,1,70,sympy:70,1.0,0,False,1,False
+95,fixed_n1,1,916,1,-4,sympy:-4,1.0,0,False,1,True
+96,fixed_n1,1,1024,,,,,1,False,0,False
+97,fixed_n1,1,223,1,east,sympy:E*a*s*t,1.0,0,False,1,True
+98,fixed_n1,1,257,1,2k + 2,sympy:2*k + 2,1.0,0,False,1,True
+99,fixed_n1,1,875,1,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",1.0,0,False,1,False
+100,fixed_n1,1,779,1,145,sympy:145,1.0,0,False,1,True
+101,fixed_n1,1,964,1,1,sympy:1,1.0,0,False,1,False
+102,fixed_n1,1,365,1,(a+5)(b+2),sympy:(a + 5)*(b + 2),1.0,0,False,1,True
+103,fixed_n1,1,936,1,"[1,2]","sympy:Interval(1, 2)",1.0,0,False,1,False
+104,fixed_n1,1,1024,,,,,1,False,0,False
+105,fixed_n1,1,352,1,17.5,sympy:17.5000000000000,1.0,0,False,1,False
+106,fixed_n1,1,333,1,\frac{4}{3},sympy:4/3,1.0,0,False,1,True
+107,fixed_n1,1,431,1,9,sympy:9,1.0,0,False,1,True
+108,fixed_n1,1,840,1,2,sympy:2,1.0,0,False,1,True
+109,fixed_n1,1,1024,,,,,1,False,0,False
+110,fixed_n1,1,1024,,,,,1,False,0,False
+111,fixed_n1,1,515,1,210,sympy:210,1.0,0,False,1,True
+112,fixed_n1,1,508,1,13,sympy:13,1.0,0,False,1,True
+113,fixed_n1,1,318,1,8000,sympy:8000,1.0,0,False,1,True
+114,fixed_n1,1,672,1,-5,sympy:-5,1.0,0,False,1,True
+115,fixed_n1,1,190,1,**,parsed:**,1.0,0,False,1,False
+116,fixed_n1,1,324,1,2,sympy:2,1.0,0,False,1,True
+117,fixed_n1,1,334,1,3,sympy:3,1.0,0,False,1,True
+118,fixed_n1,1,788,1,81,sympy:81,1.0,0,False,1,True
+119,fixed_n1,1,406,1,-9,sympy:-9,1.0,0,False,1,True
+120,fixed_n1,1,490,1,\text{odd},sympy:dd*o,1.0,0,False,1,False
+121,fixed_n1,1,220,1,6,sympy:6,1.0,0,False,1,True
+122,fixed_n1,1,358,1,9,sympy:9,1.0,0,False,1,True
+123,fixed_n1,1,1024,,,,,1,False,0,False
+124,fixed_n1,1,756,1,\frac{11}{2},sympy:11/2,1.0,0,False,1,True
+125,fixed_n1,1,316,1,-3,sympy:-3,1.0,0,False,1,True
+126,fixed_n1,1,735,1,\frac{37413 + i}{37265},sympy:(i + 37413)/37265,1.0,0,False,1,False
+127,fixed_n1,1,414,1,4210,sympy:4210,1.0,0,False,1,True
+128,fixed_n1,1,235,1,36,sympy:36,1.0,0,False,1,True
+129,fixed_n1,1,840,1,48,sympy:48,1.0,0,False,1,False
+130,fixed_n1,1,429,1,13,sympy:13,1.0,0,False,1,True
+131,fixed_n1,1,632,1,8,sympy:8,1.0,0,False,1,True
+132,fixed_n1,1,230,1,4,sympy:4,1.0,0,False,1,True
+133,fixed_n1,1,420,1,120,sympy:120,1.0,0,False,1,True
+134,fixed_n1,1,632,1,16,sympy:16,1.0,0,False,1,True
+135,fixed_n1,1,381,1,9,sympy:9,1.0,0,False,1,True
+136,fixed_n1,1,1024,,,,,1,False,0,False
+137,fixed_n1,1,571,1,204_5,sympy:204,1.0,0,False,1,True
+138,fixed_n1,1,453,1,\frac{1}{30},sympy:1/30,1.0,0,False,1,False
+139,fixed_n1,1,1024,,,,,1,False,0,False
+140,fixed_n1,1,472,1,13,sympy:13,1.0,0,False,1,True
+141,fixed_n1,1,269,1,2,sympy:2,1.0,0,False,1,True
+142,fixed_n1,1,445,1,3456000,sympy:3456000,1.0,0,False,1,False
+143,fixed_n1,1,779,1,3\sqrt{5},sympy:3*sqrt(5),1.0,0,False,1,True
+144,fixed_n1,1,252,1,"(15, -29)","sympy:(15, -29)",1.0,0,False,1,True
+145,fixed_n1,1,748,1,-2,sympy:-2,1.0,0,False,1,True
+146,fixed_n1,1,330,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,1,True
+147,fixed_n1,1,1024,,,,,1,False,0,False
+148,fixed_n1,1,314,1,11,sympy:11,1.0,0,False,1,True
+149,fixed_n1,1,845,1,49,sympy:49,1.0,0,False,1,True
+150,fixed_n1,1,1024,,,,,1,False,0,False
+151,fixed_n1,1,585,1,36,sympy:36,1.0,0,False,1,False
+152,fixed_n1,1,652,1,16,sympy:16,1.0,0,False,1,False
+153,fixed_n1,1,387,1,\frac{2}{21},sympy:2/21,1.0,0,False,1,True
+154,fixed_n1,1,428,1,2\sqrt{34},sympy:2*sqrt(34),1.0,0,False,1,False
+155,fixed_n1,1,459,1,\frac{1}{4},sympy:1/4,1.0,0,False,1,True
+156,fixed_n1,1,1024,1,90,sympy:90,1.0,0,False,1,False
+157,fixed_n1,1,355,1,\frac{6}{5},sympy:6/5,1.0,0,False,1,True
+158,fixed_n1,1,510,1,2107,sympy:2107,1.0,0,False,1,True
+159,fixed_n1,1,389,1,3.21,sympy:3.21000000000000,1.0,0,False,1,True
+160,fixed_n1,1,426,1,18,sympy:18,1.0,0,False,1,True
+161,fixed_n1,1,1024,1,6,sympy:6,1.0,0,False,1,True
+162,fixed_n1,1,830,1,\frac{17}{50},sympy:17/50,1.0,0,False,1,True
+163,fixed_n1,1,460,1,-\frac{323}{9},sympy:-323/9,1.0,0,False,1,False
+164,fixed_n1,1,1024,,,,,1,False,0,False
+165,fixed_n1,1,373,1,0,sympy:0,1.0,0,False,1,False
+166,fixed_n1,1,1024,1,\(\boxed{\frac{270}{7}}\)  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \],sympy:270/7,1.0,0,False,1,True
+167,fixed_n1,1,255,1,65,sympy:65,1.0,0,False,1,True
+168,fixed_n1,1,1024,1,8,sympy:8,1.0,0,False,1,False
+169,fixed_n1,1,287,1,12,sympy:12,1.0,0,False,1,True
+170,fixed_n1,1,923,1,-44,sympy:-44,1.0,0,False,1,False
+171,fixed_n1,1,391,1,\frac{13}{15},sympy:13/15,1.0,0,False,1,True
+172,fixed_n1,1,412,1,350,sympy:350,1.0,0,False,1,True
+173,fixed_n1,1,707,1,4,sympy:4,1.0,0,False,1,True
+174,fixed_n1,1,452,1,2,sympy:2,1.0,0,False,1,True
+175,fixed_n1,1,792,1,3,sympy:3,1.0,0,False,1,True
+176,fixed_n1,1,414,1,0.0000672,sympy:6.72000000000000e-5,1.0,0,False,1,True
+177,fixed_n1,1,248,1,60,sympy:60,1.0,0,False,1,False
+178,fixed_n1,1,205,1,60,sympy:60,1.0,0,False,1,True
+179,fixed_n1,1,867,1,-5x + 7y - 11z - 4 = 0,"sympy:Eq(-1*5*x + 7*y - 1*11*z - 4, 0)",1.0,0,False,1,True
+180,fixed_n1,1,1024,1,3,sympy:3,1.0,0,False,1,True
+181,fixed_n1,1,379,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,1,True
+182,fixed_n1,1,248,1,1251,sympy:1251,1.0,0,False,1,True
+183,fixed_n1,1,721,1,23,sympy:23,1.0,0,False,1,True
+184,fixed_n1,1,776,1,"(1, 3)","sympy:Interval.open(1, 3)",1.0,0,False,1,False
+185,fixed_n1,1,313,1,1,sympy:1,1.0,0,False,1,True
+186,fixed_n1,1,263,1,7,sympy:7,1.0,0,False,1,True
+187,fixed_n1,1,436,1,7,sympy:7,1.0,0,False,1,True
+188,fixed_n1,1,1024,,,,,1,False,0,False
+189,fixed_n1,1,1024,1,240,sympy:240,1.0,0,False,1,False
+190,fixed_n1,1,468,1,**,parsed:**,1.0,0,False,1,False
+191,fixed_n1,1,273,1,0,sympy:0,1.0,0,False,1,True
+192,fixed_n1,1,384,1,30,sympy:30,1.0,0,False,1,True
+193,fixed_n1,1,352,1,4,sympy:4,1.0,0,False,1,True
+194,fixed_n1,1,677,1,\frac{1}{4},sympy:1/4,1.0,0,False,1,True
+195,fixed_n1,1,321,1,24,sympy:24,1.0,0,False,1,True
+196,fixed_n1,1,251,1,1600,sympy:1600,1.0,0,False,1,True
+197,fixed_n1,1,897,1,6,sympy:6,1.0,0,False,1,True
+198,fixed_n1,1,418,1,10080,sympy:10080,1.0,0,False,1,True
+199,fixed_n1,1,325,1,17,sympy:17,1.0,0,False,1,True
+200,fixed_n1,1,277,1,40,sympy:40,1.0,0,False,1,True
+201,fixed_n1,1,849,1,66,sympy:66,1.0,0,False,1,True
+202,fixed_n1,1,710,1,\frac{2}{3},sympy:2/3,1.0,0,False,1,True
+203,fixed_n1,1,565,1,12,sympy:12,1.0,0,False,1,True
+204,fixed_n1,1,703,1,256,sympy:256,1.0,0,False,1,False
+205,fixed_n1,1,1019,1,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,1.0,0,False,1,True
+206,fixed_n1,1,427,1,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",1.0,0,False,1,True
+207,fixed_n1,1,310,1,28,sympy:28,1.0,0,False,1,True
+208,fixed_n1,1,387,1,1,sympy:1,1.0,0,False,1,True
+209,fixed_n1,1,538,1,16,sympy:16,1.0,0,False,1,True
+210,fixed_n1,1,257,1,20,sympy:20,1.0,0,False,1,False
+211,fixed_n1,1,275,1,5,sympy:5,1.0,0,False,1,True
+212,fixed_n1,1,437,1,56,sympy:56,1.0,0,False,1,True
+213,fixed_n1,1,605,1,1,sympy:1,1.0,0,False,1,False
+214,fixed_n1,1,580,1,95,sympy:95,1.0,0,False,1,False
+215,fixed_n1,1,294,1,2,sympy:2,1.0,0,False,1,True
+216,fixed_n1,1,417,1,6,sympy:6,1.0,0,False,1,True
+217,fixed_n1,1,506,1,11111111100,sympy:11111111100,1.0,0,False,1,False
+218,fixed_n1,1,341,1,"(-1, 6)","sympy:Interval.open(-1, 6)",1.0,0,False,1,True
+219,fixed_n1,1,478,1,\frac{2}{15},sympy:2/15,1.0,0,False,1,False
+220,fixed_n1,1,335,1,\frac{2}{27},sympy:2/27,1.0,0,False,1,False
+221,fixed_n1,1,494,1,900,sympy:900,1.0,0,False,1,True
+222,fixed_n1,1,724,1,6.75,sympy:6.75000000000000,1.0,0,False,1,False
+223,fixed_n1,1,424,1,**,parsed:**,1.0,0,False,1,False
+224,fixed_n1,1,806,1,\frac{1}{16},sympy:1/16,1.0,0,False,1,False
+225,fixed_n1,1,290,1,11,sympy:11,1.0,0,False,1,True
+226,fixed_n1,1,315,1,3,sympy:3,1.0,0,False,1,True
+227,fixed_n1,1,296,1,C,sympy:c,1.0,0,False,1,True
+228,fixed_n1,1,1024,1,6\sqrt{6},sympy:6*sqrt(6),1.0,0,False,1,False
+229,fixed_n1,1,248,1,90,sympy:90,1.0,0,False,1,True
+230,fixed_n1,1,1024,1,\frac{16}{5},sympy:16/5,1.0,0,False,1,True
+231,fixed_n1,1,789,1,10,sympy:10,1.0,0,False,1,True
+232,fixed_n1,1,960,1,\frac{1997}{2},sympy:1997/2,1.0,0,False,1,True
+233,fixed_n1,1,483,1,30,sympy:30,1.0,0,False,1,True
+234,fixed_n1,1,415,1,34,sympy:34,1.0,0,False,1,True
+235,fixed_n1,1,640,1,\frac{5}{9},sympy:5/9,1.0,0,False,1,True
+236,fixed_n1,1,600,1,12,sympy:12,1.0,0,False,1,True
+237,fixed_n1,1,504,1,22,sympy:22,1.0,0,False,1,True
+238,fixed_n1,1,432,1,-4,sympy:-4,1.0,0,False,1,True
+239,fixed_n1,1,1024,,,,,1,False,0,False
+240,fixed_n1,1,438,1,\frac{104}{3},sympy:104/3,1.0,0,False,1,False
+241,fixed_n1,1,810,1,17,sympy:17,1.0,0,False,1,True
+242,fixed_n1,1,418,1,32349,sympy:32349,1.0,0,False,1,False
+243,fixed_n1,1,294,1,3,sympy:3,1.0,0,False,1,True
+244,fixed_n1,1,887,1,**,parsed:**,1.0,0,False,1,False
+245,fixed_n1,1,1005,1,-9x - 15,sympy:-1*9*x - 15,1.0,0,False,1,False
+246,fixed_n1,1,337,1,8,sympy:8,1.0,0,False,1,True
+247,fixed_n1,1,500,1,\frac{10}{11},sympy:10/11,1.0,0,False,1,True
+248,fixed_n1,1,1024,,,,,1,False,0,False
+249,fixed_n1,1,1015,1,11,sympy:11,1.0,0,False,1,False
+250,fixed_n1,1,573,1,13,sympy:13,1.0,0,False,1,True
+251,fixed_n1,1,512,1,540,sympy:540,1.0,0,False,1,True
+252,fixed_n1,1,479,1,81,sympy:81,1.0,0,False,1,True
+253,fixed_n1,1,197,1,\frac{1}{8},sympy:1/8,1.0,0,False,1,True
+254,fixed_n1,1,419,1,28,sympy:28,1.0,0,False,1,True
+255,fixed_n1,1,318,1,\text{E},sympy:e,1.0,0,False,1,True
+256,fixed_n1,1,418,1,\frac{8}{21},sympy:8/21,1.0,0,False,1,True
+257,fixed_n1,1,428,1,864,sympy:864,1.0,0,False,1,True
+258,fixed_n1,1,580,1,16,sympy:16,1.0,0,False,1,True
+259,fixed_n1,1,252,1,22,sympy:22,1.0,0,False,1,True
+260,fixed_n1,1,644,1,120,sympy:120,1.0,0,False,1,True
+261,fixed_n1,1,375,1,76,sympy:76,1.0,0,False,1,True
+262,fixed_n1,1,212,1,4,sympy:4,1.0,0,False,1,True
+263,fixed_n1,1,382,1,15,sympy:15,1.0,0,False,1,True
+264,fixed_n1,1,472,1,6,sympy:6,1.0,0,False,1,False
+265,fixed_n1,1,236,1,4005,sympy:4005,1.0,0,False,1,True
+266,fixed_n1,1,404,1,\frac{33}{100},sympy:33/100,1.0,0,False,1,True
+267,fixed_n1,1,545,1,180,sympy:180,1.0,0,False,1,True
+268,fixed_n1,1,303,1,1,sympy:1,1.0,0,False,1,True
+269,fixed_n1,1,479,1,6,sympy:6,1.0,0,False,1,True
+270,fixed_n1,1,345,1,10,sympy:10,1.0,0,False,1,True
+271,fixed_n1,1,462,1,333,sympy:333,1.0,0,False,1,True
+272,fixed_n1,1,768,1,1030,sympy:1030,1.0,0,False,1,True
+273,fixed_n1,1,399,1,1250,sympy:1250,1.0,0,False,1,True
+274,fixed_n1,1,279,1,36,sympy:36,1.0,0,False,1,False
+275,fixed_n1,1,300,1,7,sympy:7,1.0,0,False,1,True
+276,fixed_n1,1,570,1,11,sympy:11,1.0,0,False,1,True
+277,fixed_n1,1,355,1,\sqrt{53},sympy:sqrt(53),1.0,0,False,1,True
+278,fixed_n1,1,366,1,255,sympy:255,1.0,0,False,1,True
+279,fixed_n1,1,496,1,4\pi,sympy:4*pi,1.0,0,False,1,False
+280,fixed_n1,1,332,1,8,sympy:8,1.0,0,False,1,True
+281,fixed_n1,1,576,1,36^\circ,sympy:36,1.0,0,False,1,True
+282,fixed_n1,1,372,1,497,sympy:497,1.0,0,False,1,False
+283,fixed_n1,1,408,1,1,sympy:1,1.0,0,False,1,True
+284,fixed_n1,1,736,1,"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",1.0,0,False,1,True
+285,fixed_n1,1,586,1,314,sympy:314,1.0,0,False,1,False
+286,fixed_n1,1,582,1,\frac{1}{2},sympy:1/2,1.0,0,False,1,False
+287,fixed_n1,1,535,1,36,sympy:36,1.0,0,False,1,True
+288,fixed_n1,1,1024,,,,,1,False,0,False
+289,fixed_n1,1,522,1,16,sympy:16,1.0,0,False,1,True
+290,fixed_n1,1,1004,1,4,sympy:4,1.0,0,False,1,True
+291,fixed_n1,1,356,1,63,sympy:63,1.0,0,False,1,True
+292,fixed_n1,1,883,1,256,sympy:256,1.0,0,False,1,False
+293,fixed_n1,1,506,1,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",1.0,0,False,1,True
+294,fixed_n1,1,510,1,38,sympy:38,1.0,0,False,1,False
+295,fixed_n1,1,418,1,3,sympy:3,1.0,0,False,1,False
+296,fixed_n1,1,909,1,B,sympy:b,1.0,0,False,1,True
+297,fixed_n1,1,890,1,103,sympy:103,1.0,0,False,1,True
+298,fixed_n1,1,916,1,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},sympy:-18,1.0,0,False,1,True
+299,fixed_n1,1,416,1,63,sympy:63,1.0,0,False,1,True
+300,fixed_n1,1,302,1,12,sympy:12,1.0,0,False,1,True
+301,fixed_n1,1,436,1,5.5,sympy:5.50000000000000,1.0,0,False,1,False
+302,fixed_n1,1,510,1,4,sympy:4,1.0,0,False,1,False
+303,fixed_n1,1,742,1,21,sympy:21,1.0,0,False,1,False
+304,fixed_n1,1,771,1,9,sympy:9,1.0,0,False,1,True
+305,fixed_n1,1,555,1,\frac{9}{19},sympy:9/19,1.0,0,False,1,True
+306,fixed_n1,1,639,1,3,sympy:3,1.0,0,False,1,False
+307,fixed_n1,1,504,1,"(-\infty, 0]","sympy:Interval(-oo, 0)",1.0,0,False,1,True
+308,fixed_n1,1,919,,,,,1,False,0,False
+309,fixed_n1,1,691,1,15,sympy:15,1.0,0,False,1,False
+310,fixed_n1,1,387,1,49,sympy:49,1.0,0,False,1,True
+311,fixed_n1,1,652,1,3,sympy:3,1.0,0,False,1,True
+312,fixed_n1,1,369,1,"(5, \infty)","sympy:Interval.open(5, oo)",1.0,0,False,1,True
+313,fixed_n1,1,381,1,12\pi,sympy:12*pi,1.0,0,False,1,True
+314,fixed_n1,1,331,1,"(2, 4)","sympy:Interval.open(2, 4)",1.0,0,False,1,True
+315,fixed_n1,1,435,1,41,sympy:41,1.0,0,False,1,True
+316,fixed_n1,1,891,1,12,sympy:12,1.0,0,False,1,True
+317,fixed_n1,1,761,1,2,sympy:2,1.0,0,False,1,False
+318,fixed_n1,1,546,1,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,1.0,0,False,1,True
+319,fixed_n1,1,371,1,-128,sympy:-128,1.0,0,False,1,True
+320,fixed_n1,1,520,1,-\frac{24}{25},sympy:-24/25,1.0,0,False,1,True
+321,fixed_n1,1,293,1,10,sympy:10,1.0,0,False,1,True
+322,fixed_n1,1,392,1,-1,sympy:-1,1.0,0,False,1,True
+323,fixed_n1,1,379,1,\frac{1}{3},sympy:1/3,1.0,0,False,1,True
+324,fixed_n1,1,772,1,120,sympy:120,1.0,0,False,1,True
+325,fixed_n1,1,484,1,4,sympy:4,1.0,0,False,1,True
+326,fixed_n1,1,1024,,,,,1,False,0,False
+327,fixed_n1,1,1024,1,35,sympy:35,1.0,0,False,1,False
+328,fixed_n1,1,1024,,,,,1,False,0,False
+329,fixed_n1,1,208,1,4,sympy:4,1.0,0,False,1,True
+330,fixed_n1,1,430,1,1940,sympy:1940,1.0,0,False,1,True
+331,fixed_n1,1,676,1,\dfrac{13}{6},sympy:13/6,1.0,0,False,1,True
+332,fixed_n1,1,817,1,2\sqrt{2},sympy:2*sqrt(2),1.0,0,False,1,False
+333,fixed_n1,1,1024,1,3,sympy:3,1.0,0,False,1,True
+334,fixed_n1,1,434,1,-120,sympy:-120,1.0,0,False,1,True
+335,fixed_n1,1,742,1,3,sympy:3,1.0,0,False,1,True
+336,fixed_n1,1,267,1,26000,sympy:26000,1.0,0,False,1,True
+337,fixed_n1,1,563,1,6,sympy:6,1.0,0,False,1,True
+338,fixed_n1,1,327,1,4343,sympy:4343,1.0,0,False,1,True
+339,fixed_n1,1,814,1,2k,sympy:2*k,1.0,0,False,1,True
+340,fixed_n1,1,1024,,,,,1,False,0,False
+341,fixed_n1,1,360,1,-2,sympy:-2,1.0,0,False,1,True
+342,fixed_n1,1,329,1,2,sympy:2,1.0,0,False,1,True
+343,fixed_n1,1,353,1,58500,sympy:58500,1.0,0,False,1,True
+344,fixed_n1,1,366,1,5,sympy:5,1.0,0,False,1,True
+345,fixed_n1,1,297,1,1,sympy:1,1.0,0,False,1,True
+346,fixed_n1,1,468,1,66,sympy:66,1.0,0,False,1,True
+347,fixed_n1,1,394,1,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,1.0,0,False,1,True
+348,fixed_n1,1,430,1,4495,sympy:4495,1.0,0,False,1,True
+349,fixed_n1,1,336,1,5040,sympy:5040,1.0,0,False,1,False
+350,fixed_n1,1,375,1,4,sympy:4,1.0,0,False,1,True
+351,fixed_n1,1,502,1,-\frac{1}{16},sympy:-1/16,1.0,0,False,1,False
+352,fixed_n1,1,1024,,,,,1,False,0,False
+353,fixed_n1,1,449,1,480,sympy:480,1.0,0,False,1,True
+354,fixed_n1,1,426,1,81,sympy:81,1.0,0,False,1,True
+355,fixed_n1,1,802,1,120,sympy:120,1.0,0,False,1,False
+356,fixed_n1,1,746,1,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",1.0,0,False,1,True
+357,fixed_n1,1,388,1,3,sympy:3,1.0,0,False,1,False
+358,fixed_n1,1,371,1,\text{circle},sympy:E*c*c*i*l*r,1.0,0,False,1,False
+359,fixed_n1,1,1024,,,,,1,False,0,False
+360,fixed_n1,1,431,1,\frac{7}{4},sympy:7/4,1.0,0,False,1,True
+361,fixed_n1,1,629,1,16\sqrt{3},sympy:16*sqrt(3),1.0,0,False,1,True
+362,fixed_n1,1,191,1,\frac{1}{4},sympy:1/4,1.0,0,False,1,True
+363,fixed_n1,1,240,1,2,sympy:2,1.0,0,False,1,True
+364,fixed_n1,1,718,1,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",1.0,0,False,1,True
+365,fixed_n1,1,638,1,40,sympy:40,1.0,0,False,1,False
+366,fixed_n1,1,479,1,4,sympy:4,1.0,0,False,1,True
+367,fixed_n1,1,272,1,1,sympy:1,1.0,0,False,1,True
+368,fixed_n1,1,324,1,31,sympy:31,1.0,0,False,1,True
+369,fixed_n1,1,300,1,30,sympy:30,1.0,0,False,1,False
+370,fixed_n1,1,303,1,-41,sympy:-41,1.0,0,False,1,True
+371,fixed_n1,1,958,1,9,sympy:9,1.0,0,False,1,False
+372,fixed_n1,1,438,1,100,sympy:100,1.0,0,False,1,False
+373,fixed_n1,1,418,1,1+2i,sympy:2*i + 1,1.0,0,False,1,True
+374,fixed_n1,1,276,1,4,sympy:4,1.0,0,False,1,True
+375,fixed_n1,1,515,1,25,sympy:25,1.0,0,False,1,True
+376,fixed_n1,1,920,1,"(8, -2)","sympy:(8, -2)",1.0,0,False,1,True
+377,fixed_n1,1,434,1,6,sympy:6,1.0,0,False,1,True
+378,fixed_n1,1,537,1,3,sympy:3,1.0,0,False,1,True
+379,fixed_n1,1,736,1,9^{\text{th}},sympy:9,1.0,0,False,1,False
+380,fixed_n1,1,1024,,,,,1,False,0,False
+381,fixed_n1,1,1024,,,,,1,False,0,False
+382,fixed_n1,1,802,1,\frac{20000}{\pi},sympy:20000/pi,1.0,0,False,1,True
+383,fixed_n1,1,725,1,"[-2, 7]","sympy:Interval(-2, 7)",1.0,0,False,1,True
+384,fixed_n1,1,175,1,15x - 80,sympy:15*x - 80,1.0,0,False,1,True
+385,fixed_n1,1,374,1,22,sympy:22,1.0,0,False,1,True
+386,fixed_n1,1,479,1,11,sympy:11,1.0,0,False,1,True
+387,fixed_n1,1,242,1,18,sympy:18,1.0,0,False,1,True
+388,fixed_n1,1,334,1,\frac{11}{2},sympy:11/2,1.0,0,False,1,True
+389,fixed_n1,1,366,1,1,sympy:1,1.0,0,False,1,False
+390,fixed_n1,1,944,1,4,sympy:4,1.0,0,False,1,False
+391,fixed_n1,1,902,1,0,sympy:0,1.0,0,False,1,True
+392,fixed_n1,1,1024,1,11,sympy:11,1.0,0,False,1,False
+393,fixed_n1,1,460,1,\frac{3}{4},sympy:3/4,1.0,0,False,1,True
+394,fixed_n1,1,780,1,-\frac{3}{8},sympy:-3/8,1.0,0,False,1,True
+395,fixed_n1,1,349,1,4,sympy:4,1.0,0,False,1,True
+396,fixed_n1,1,375,1,2,sympy:2,1.0,0,False,1,True
+397,fixed_n1,1,306,1,23,sympy:23,1.0,0,False,1,True
+398,fixed_n1,1,1024,1,39.68,sympy:39.6800000000000,1.0,0,False,1,False
+399,fixed_n1,1,273,1,326.5,sympy:326.500000000000,1.0,0,False,1,True
+400,fixed_n1,1,570,1,\frac{14}{3},sympy:14/3,1.0,0,False,1,True
+401,fixed_n1,1,1024,,,,,1,False,0,False
+402,fixed_n1,1,315,1,-4 - 8i,sympy:-1*8*i - 4,1.0,0,False,1,False
+403,fixed_n1,1,528,1,1,sympy:1,1.0,0,False,1,False
+404,fixed_n1,1,331,1,3,sympy:3,1.0,0,False,1,True
+405,fixed_n1,1,425,1,60,sympy:60,1.0,0,False,1,True
+406,fixed_n1,1,230,1,0,sympy:0,1.0,0,False,1,True
+407,fixed_n1,1,249,1,9,sympy:9,1.0,0,False,1,True
+408,fixed_n1,1,1024,,,,,1,False,0,False
+409,fixed_n1,1,672,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,1,True
+410,fixed_n1,1,443,1,6,sympy:6,1.0,0,False,1,True
+411,fixed_n1,1,187,1,60,sympy:60,1.0,0,False,1,True
+412,fixed_n1,1,772,1,306,sympy:306,1.0,0,False,1,False
+413,fixed_n1,1,338,1,5r^5,sympy:5*r**5,1.0,0,False,1,True
+414,fixed_n1,1,459,1,10,sympy:10,1.0,0,False,1,True
+415,fixed_n1,1,1005,1,9,sympy:9,1.0,0,False,1,True
+416,fixed_n1,1,499,1,\frac{1}{8},sympy:1/8,1.0,0,False,1,True
+417,fixed_n1,1,666,1,-2,sympy:-2,1.0,0,False,1,True
+418,fixed_n1,1,1024,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,1,True
+419,fixed_n1,1,791,1,\begin{pmatrix} -30 \\ -30 \\ 120 \end{pmatrix},sympy:-30,1.0,0,False,1,False
+420,fixed_n1,1,565,1,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",1.0,0,False,1,False
+421,fixed_n1,1,951,1,15,sympy:15,1.0,0,False,1,False
+422,fixed_n1,1,1024,,,,,1,False,0,False
+423,fixed_n1,1,864,1,1440,sympy:1440,1.0,0,False,1,True
+424,fixed_n1,1,423,1,600,sympy:600,1.0,0,False,1,True
+425,fixed_n1,1,826,1,6R^2 - \frac{1}{3}(a^2 + b^2 + c^2),sympy:6*r**2 - 1*1/3*(a**2 + b**2 + c**2),1.0,0,False,1,False
+426,fixed_n1,1,528,1,6\sqrt{2},sympy:6*sqrt(2),1.0,0,False,1,True
+427,fixed_n1,1,438,1,29,sympy:29,1.0,0,False,1,True
+428,fixed_n1,1,1024,,,,,1,False,0,False
+429,fixed_n1,1,521,1,50,sympy:50,1.0,0,False,1,True
+430,fixed_n1,1,212,1,4.5,sympy:4.50000000000000,1.0,0,False,1,True
+431,fixed_n1,1,744,1,"\left[ \frac{\pi^2}{8}, \frac{\pi^2}{4} \right]","sympy:Interval(pi**2/8, pi**2/4)",1.0,0,False,1,False
+432,fixed_n1,1,1024,,,,,1,False,0,False
+433,fixed_n1,1,618,1,0.35625,sympy:0.356250000000000,1.0,0,False,1,True
+434,fixed_n1,1,457,1,32,sympy:32,1.0,0,False,1,True
+435,fixed_n1,1,606,1,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",1.0,0,False,1,True
+436,fixed_n1,1,1004,1,4,sympy:4,1.0,0,False,1,True
+437,fixed_n1,1,897,1,3,sympy:3,1.0,0,False,1,True
+438,fixed_n1,1,296,1,4,sympy:4,1.0,0,False,1,True
+439,fixed_n1,1,832,1,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,1.0,0,False,1,True
+440,fixed_n1,1,495,1,14,sympy:14,1.0,0,False,1,True
+441,fixed_n1,1,353,1,550,sympy:550,1.0,0,False,1,True
+442,fixed_n1,1,250,1,256,sympy:256,1.0,0,False,1,True
+443,fixed_n1,1,273,1,45,sympy:45,1.0,0,False,1,True
+444,fixed_n1,1,680,1,\frac{1}{8},sympy:1/8,1.0,0,False,1,False
+445,fixed_n1,1,1024,,,,,1,False,0,False
+446,fixed_n1,1,847,1,8,sympy:8,1.0,0,False,1,True
+447,fixed_n1,1,407,1,9,sympy:9,1.0,0,False,1,True
+448,fixed_n1,1,1024,1,44,sympy:44,1.0,0,False,1,True
+449,fixed_n1,1,243,1,47,sympy:47,1.0,0,False,1,True
+450,fixed_n1,1,559,1,64,sympy:64,1.0,0,False,1,True
+451,fixed_n1,1,472,1,\frac{639}{40},sympy:639/40,1.0,0,False,1,True
+452,fixed_n1,1,426,1,143,sympy:143,1.0,0,False,1,True
+453,fixed_n1,1,361,1,10,sympy:10,1.0,0,False,1,True
+454,fixed_n1,1,1024,,,,,1,False,0,False
+455,fixed_n1,1,344,1,6,sympy:6,1.0,0,False,1,True
+456,fixed_n1,1,1008,1,"1, -2","sympy:{-2, 1}",1.0,0,False,1,True
+457,fixed_n1,1,157,1,0,sympy:0,1.0,0,False,1,True
+458,fixed_n1,1,536,1,41,sympy:41,1.0,0,False,1,True
+459,fixed_n1,1,792,1,18.90,sympy:18.9000000000000,1.0,0,False,1,True
+460,fixed_n1,1,1024,1,45,sympy:45,1.0,0,False,1,False
+461,fixed_n1,1,771,1,12,sympy:12,1.0,0,False,1,True
+462,fixed_n1,1,400,1,159,sympy:159,1.0,0,False,1,False
+463,fixed_n1,1,330,1,2,sympy:2,1.0,0,False,1,True
+464,fixed_n1,1,752,1,9,sympy:9,1.0,0,False,1,True
+465,fixed_n1,1,267,1,121,sympy:121,1.0,0,False,1,True
+466,fixed_n1,1,723,1,8\pi,sympy:8*pi,1.0,0,False,1,True
+467,fixed_n1,1,274,1,15,sympy:15,1.0,0,False,1,True
+468,fixed_n1,1,329,1,8,sympy:8,1.0,0,False,1,True
+469,fixed_n1,1,265,1,25,sympy:25,1.0,0,False,1,True
+470,fixed_n1,1,1024,,,,,1,False,0,False
+471,fixed_n1,1,320,1,84,sympy:84,1.0,0,False,1,True
+472,fixed_n1,1,467,1,137\frac{1}{2},sympy:275/2,1.0,0,False,1,True
+473,fixed_n1,1,712,1,7,sympy:7,1.0,0,False,1,True
+474,fixed_n1,1,631,1,3,sympy:3,1.0,0,False,1,True
+475,fixed_n1,1,1024,,,,,1,False,0,False
+476,fixed_n1,1,393,1,200,sympy:200,1.0,0,False,1,True
+477,fixed_n1,1,1006,1,2,sympy:2,1.0,0,False,1,True
+478,fixed_n1,1,531,1,0,sympy:0,1.0,0,False,1,False
+479,fixed_n1,1,479,1,2,sympy:2,1.0,0,False,1,True
+480,fixed_n1,1,457,1,1,sympy:1,1.0,0,False,1,True
+481,fixed_n1,1,599,1,2,sympy:2,1.0,0,False,1,False
+482,fixed_n1,1,696,1,202,sympy:202,1.0,0,False,1,True
+483,fixed_n1,1,926,1,\frac{8}{15},sympy:8/15,1.0,0,False,1,True
+484,fixed_n1,1,794,1,10,sympy:10,1.0,0,False,1,True
+485,fixed_n1,1,1024,,,,,1,False,0,False
+486,fixed_n1,1,207,1,216,sympy:216,1.0,0,False,1,True
+487,fixed_n1,1,304,1,2,sympy:2,1.0,0,False,1,True
+488,fixed_n1,1,241,1,36,sympy:36,1.0,0,False,1,True
+489,fixed_n1,1,467,1,15,sympy:15,1.0,0,False,1,True
+490,fixed_n1,1,1024,,,,,1,False,0,False
+491,fixed_n1,1,527,1,4374,sympy:4374,1.0,0,False,1,False
+492,fixed_n1,1,471,1,y = -2x,"sympy:Eq(y, -1*2*x)",1.0,0,False,1,True
+493,fixed_n1,1,742,1,20,sympy:20,1.0,0,False,1,True
+494,fixed_n1,1,1024,,,,,1,False,0,False
+495,fixed_n1,1,548,1,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",1.0,0,False,1,True
+496,fixed_n1,1,479,1,\dfrac{5}{13},sympy:5/13,1.0,0,False,1,True
+497,fixed_n1,1,677,1,\frac{3}{2},sympy:3/2,1.0,0,False,1,False
+498,fixed_n1,1,733,1,1,sympy:1,1.0,0,False,1,False
+499,fixed_n1,1,342,1,106,sympy:106,1.0,0,False,1,True
+0,fixed_n2,2,651,1,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",1.0,0,False,2,True
+1,fixed_n2,2,1173,1,p - q,sympy:p - q,1.0,0,False,2,True
+2,fixed_n2,2,1013,1,\frac{14}{3},sympy:14/3,1.0,0,False,2,True
+3,fixed_n2,2,898,1,9,sympy:9,1.0,0,False,2,True
+4,fixed_n2,2,1036,1,Evelyn,sympy:E*e*l*n*v*y,1.0,0,False,2,True
+5,fixed_n2,2,523,1,42,sympy:42,1.0,0,False,2,True
+6,fixed_n2,2,850,1,27,sympy:27,1.0,0,False,2,True
+7,fixed_n2,2,1464,1,90,sympy:90,1.0,0,False,2,True
+8,fixed_n2,2,749,1,3\sqrt{13},sympy:3*sqrt(13),1.0,0,False,2,True
+9,fixed_n2,2,1872,1,1,sympy:1,1.0,1,False,1,False
+10,fixed_n2,2,796,1,2220,sympy:2220,1.0,0,False,2,True
+11,fixed_n2,2,1853,1,\frac{8}{63},sympy:8/63,1.0,0,False,2,False
+12,fixed_n2,2,1078,1,90,sympy:90,0.0,0,True,2,False
+13,fixed_n2,2,462,1,5,sympy:5,1.0,0,False,2,True
+14,fixed_n2,2,469,1,10,sympy:10,1.0,0,False,2,False
+15,fixed_n2,2,1104,1,6 - 5i,sympy:-1*5*i + 6,1.0,0,False,2,True
+16,fixed_n2,2,1267,1,-50,sympy:-50,1.0,0,False,2,True
+17,fixed_n2,2,1028,1,\frac{\pi}{2},sympy:pi/2,0.0,0,True,2,False
+18,fixed_n2,2,998,1,62,sympy:62,0.0,0,True,2,False
+19,fixed_n2,2,906,1,3,sympy:3,1.0,0,False,2,True
+20,fixed_n2,2,382,1,6+9i,sympy:9*i + 6,1.0,0,False,2,True
+21,fixed_n2,2,1314,1,13586,sympy:13586,0.0,0,True,2,False
+22,fixed_n2,2,1587,1,5,sympy:5,1.0,0,False,2,True
+23,fixed_n2,2,1132,1,5,sympy:5,1.0,0,False,2,True
+24,fixed_n2,2,937,1,49,sympy:49,0.0,0,True,2,False
+25,fixed_n2,2,1642,1,"0, 1","sympy:{0, 1}",0.0,0,True,2,False
+26,fixed_n2,2,1194,1,480,sympy:480,0.0,0,True,2,False
+27,fixed_n2,2,726,1,78,sympy:78,1.0,0,False,2,True
+28,fixed_n2,2,635,1,-2 + 7i,sympy:7*i - 2,1.0,0,False,2,True
+29,fixed_n2,2,1143,1,225,sympy:225,1.0,0,False,2,True
+30,fixed_n2,2,739,1,52,sympy:52,1.0,0,False,2,True
+31,fixed_n2,2,1069,1,11\sqrt{2},sympy:11*sqrt(2),1.0,0,False,2,True
+32,fixed_n2,2,730,1,720,sympy:720,1.0,0,False,2,True
+33,fixed_n2,2,1337,1,\frac{81}{200},sympy:81/200,1.0,0,False,2,False
+34,fixed_n2,2,1371,1,-125,sympy:-125,1.0,0,False,2,True
+35,fixed_n2,2,810,1,3,sympy:3,1.0,0,False,2,True
+36,fixed_n2,2,1737,1,"3, 5, 7","sympy:{3, 5, 7}",1.0,1,False,1,True
+37,fixed_n2,2,467,1,72,sympy:72,1.0,0,False,2,True
+38,fixed_n2,2,513,1,2000,sympy:2000,1.0,0,False,2,True
+39,fixed_n2,2,1109,1,23,sympy:23,1.0,0,False,2,True
+40,fixed_n2,2,487,1,12,sympy:12,1.0,0,False,2,True
+41,fixed_n2,2,1219,1,22,sympy:22,0.0,0,True,2,False
+42,fixed_n2,2,1280,1,4,sympy:4,1.0,0,False,2,True
+43,fixed_n2,2,1314,1,50 + 20\sqrt{5},sympy:20*sqrt(5) + 50,0.0,0,True,2,False
+44,fixed_n2,2,884,1,1.25,sympy:1.25000000000000,1.0,0,False,2,True
+45,fixed_n2,2,710,1,2,sympy:2,1.0,0,False,2,True
+46,fixed_n2,2,1600,2,6,sympy:6,1.0,1,False,1,True
+47,fixed_n2,2,875,1,5,sympy:5,1.0,0,False,2,True
+48,fixed_n2,2,488,1,\frac{3}{2},sympy:3/2,1.0,0,False,2,True
+49,fixed_n2,2,553,1,83,sympy:83,1.0,0,False,2,True
+50,fixed_n2,2,1408,1,203,sympy:203,1.0,0,False,2,True
+51,fixed_n2,2,1697,2,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,1.0,1,False,1,True
+52,fixed_n2,2,532,1,12,sympy:12,1.0,0,False,2,True
+53,fixed_n2,2,680,1,-\frac{\pi}{6},sympy:-1*pi/6,1.0,0,False,2,True
+54,fixed_n2,2,577,1,0.15,sympy:0.150000000000000,1.0,0,False,2,True
+55,fixed_n2,2,658,1,3,sympy:3,1.0,0,False,2,True
+56,fixed_n2,2,361,1,11,sympy:11,1.0,0,False,2,True
+57,fixed_n2,2,1115,1,16,sympy:16,1.0,0,False,2,True
+58,fixed_n2,2,515,1,9901,sympy:9901,1.0,0,False,2,True
+59,fixed_n2,2,952,1,5,sympy:5,1.0,0,False,2,True
+60,fixed_n2,2,1849,1,"(1, 1, 1)","sympy:(1, 1, 1)",1.0,1,False,1,False
+61,fixed_n2,2,757,1,-256,sympy:-256,1.0,0,False,2,True
+62,fixed_n2,2,1422,1,4,sympy:4,1.0,0,False,2,True
+63,fixed_n2,2,1049,1,9,sympy:9,1.0,0,False,2,False
+64,fixed_n2,2,1948,1,-\frac{35}{64},sympy:-35/64,1.0,1,False,1,False
+65,fixed_n2,2,473,1,1,sympy:1,1.0,0,False,2,True
+66,fixed_n2,2,754,1,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,1.0,0,False,2,True
+67,fixed_n2,2,647,1,10,sympy:10,1.0,0,False,2,True
+68,fixed_n2,2,1707,1,46,sympy:46,1.0,0,False,2,True
+69,fixed_n2,2,905,1,-1,sympy:-1,1.0,0,False,2,True
+70,fixed_n2,2,1121,1,40_9,sympy:40,1.0,0,False,2,True
+71,fixed_n2,2,808,1,2516,sympy:2516,0.0,0,True,2,True
+72,fixed_n2,2,718,1,3,sympy:3,1.0,0,False,2,True
+73,fixed_n2,2,650,1,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,1.0,0,False,2,True
+74,fixed_n2,2,993,1,\cot x,sympy:cot(x),1.0,0,False,2,True
+75,fixed_n2,2,927,1,\frac{11}{36},sympy:11/36,1.0,0,False,2,True
+76,fixed_n2,2,645,1,0,sympy:0,1.0,0,False,2,True
+77,fixed_n2,2,419,1,4,sympy:4,1.0,0,False,2,True
+78,fixed_n2,2,1506,1,"(-2, 1)","sympy:Interval.open(-2, 1)",1.0,0,False,2,True
+79,fixed_n2,2,555,1,2,sympy:2,1.0,0,False,2,True
+80,fixed_n2,2,1407,1,2,sympy:2,0.0,0,True,2,False
+81,fixed_n2,2,1093,1,3,sympy:3,1.0,0,False,2,True
+82,fixed_n2,2,974,1,\frac{3}{4},sympy:3/4,1.0,0,False,2,False
+83,fixed_n2,2,821,1,2,sympy:2,1.0,0,False,2,True
+84,fixed_n2,2,1582,1,-1,sympy:-1,1.0,0,False,2,True
+85,fixed_n2,2,632,1,\sqrt{5},sympy:sqrt(5),1.0,0,False,2,True
+86,fixed_n2,2,523,1,240,sympy:240,1.0,0,False,2,True
+87,fixed_n2,2,1191,1,1,sympy:1,1.0,0,False,2,True
+88,fixed_n2,2,1735,1,2,sympy:2,1.0,0,False,2,True
+89,fixed_n2,2,1787,1,21,sympy:21,1.0,0,False,2,True
+90,fixed_n2,2,522,1,\frac{3}{2},sympy:3/2,1.0,0,False,2,True
+91,fixed_n2,2,704,1,1,sympy:1,1.0,0,False,2,True
+92,fixed_n2,2,1333,1,\frac{2240}{78125},sympy:448/15625,1.0,0,False,2,True
+93,fixed_n2,2,1217,1,33,sympy:33,1.0,0,False,2,True
+94,fixed_n2,2,1299,1,70,sympy:70,1.0,0,False,2,False
+95,fixed_n2,2,1638,1,-4,sympy:-4,1.0,0,False,2,True
+96,fixed_n2,2,2048,,,,,2,False,0,False
+97,fixed_n2,2,511,1,east,sympy:E*a*s*t,1.0,0,False,2,True
+98,fixed_n2,2,504,1,2k + 2,sympy:2*k + 2,1.0,0,False,2,True
+99,fixed_n2,2,1764,1,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",1.0,0,False,2,False
+100,fixed_n2,2,1574,1,145,sympy:145,0.0,0,True,2,True
+101,fixed_n2,2,1795,1,1,sympy:1,0.0,0,True,2,False
+102,fixed_n2,2,716,1,(a+5)(b+2),sympy:(a + 5)*(b + 2),1.0,0,False,2,True
+103,fixed_n2,2,1960,1,"[1,2]","sympy:Interval(1, 2)",1.0,1,False,1,False
+104,fixed_n2,2,1904,2,32,sympy:32,1.0,1,False,1,False
+105,fixed_n2,2,666,1,17.5,sympy:17.5000000000000,0.0,0,True,2,False
+106,fixed_n2,2,645,1,\frac{4}{3},sympy:4/3,1.0,0,False,2,True
+107,fixed_n2,2,886,1,9,sympy:9,1.0,0,False,2,True
+108,fixed_n2,2,1592,1,2,sympy:2,1.0,0,False,2,True
+109,fixed_n2,2,1755,2,30,sympy:30,1.0,1,False,1,False
+110,fixed_n2,2,2039,2,3,sympy:3,1.0,1,False,1,False
+111,fixed_n2,2,929,1,210,sympy:210,1.0,0,False,2,True
+112,fixed_n2,2,1041,1,13,sympy:13,1.0,0,False,2,True
+113,fixed_n2,2,635,1,8000,sympy:8000,1.0,0,False,2,True
+114,fixed_n2,2,1329,1,-5,sympy:-5,1.0,0,False,2,True
+115,fixed_n2,2,743,1,**,parsed:**,0.0,0,True,2,False
+116,fixed_n2,2,576,1,2,sympy:2,1.0,0,False,2,True
+117,fixed_n2,2,679,1,3,sympy:3,1.0,0,False,2,True
+118,fixed_n2,2,1812,1,81,sympy:81,1.0,1,False,1,True
+119,fixed_n2,2,803,1,-9,sympy:-9,1.0,0,False,2,True
+120,fixed_n2,2,980,1,\text{odd},sympy:dd*o,0.0,0,True,2,False
+121,fixed_n2,2,600,1,6,sympy:6,1.0,0,False,2,True
+122,fixed_n2,2,700,1,9,sympy:9,1.0,0,False,2,True
+123,fixed_n2,2,1911,2,6,sympy:6,1.0,1,False,1,False
+124,fixed_n2,2,1531,1,\frac{11}{2},sympy:11/2,1.0,0,False,2,True
+125,fixed_n2,2,657,1,-3,sympy:-3,1.0,0,False,2,True
+126,fixed_n2,2,1759,1,\frac{37413 + i}{37265},sympy:(i + 37413)/37265,1.0,1,False,1,False
+127,fixed_n2,2,792,1,4210,sympy:4210,1.0,0,False,2,True
+128,fixed_n2,2,404,1,36,sympy:36,1.0,0,False,2,True
+129,fixed_n2,2,1567,1,48,sympy:48,0.0,0,True,2,False
+130,fixed_n2,2,860,1,13,sympy:13,1.0,0,False,2,True
+131,fixed_n2,2,1255,1,8,sympy:8,1.0,0,False,2,True
+132,fixed_n2,2,573,1,4,sympy:4,1.0,0,False,2,True
+133,fixed_n2,2,769,1,120,sympy:120,1.0,0,False,2,True
+134,fixed_n2,2,1222,1,16,sympy:16,1.0,0,False,2,True
+135,fixed_n2,2,877,1,9,sympy:9,1.0,0,False,2,True
+136,fixed_n2,2,1979,2,64,sympy:64,1.0,1,False,1,True
+137,fixed_n2,2,1088,1,204_5,sympy:204,1.0,0,False,2,True
+138,fixed_n2,2,1399,1,\frac{1}{30},sympy:1/30,0.0,0,True,2,False
+139,fixed_n2,2,1652,2,1,sympy:1,1.0,1,False,1,True
+140,fixed_n2,2,1015,1,13,sympy:13,1.0,0,False,2,True
+141,fixed_n2,2,475,1,2,sympy:2,0.0,0,True,2,True
+142,fixed_n2,2,931,1,3456000,sympy:3456000,1.0,0,False,2,False
+143,fixed_n2,2,1400,1,3\sqrt{5},sympy:3*sqrt(5),1.0,0,False,2,True
+144,fixed_n2,2,478,1,"(15, -29)","sympy:(15, -29)",1.0,0,False,2,True
+145,fixed_n2,2,1440,1,-2,sympy:-2,1.0,0,False,2,True
+146,fixed_n2,2,668,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,2,True
+147,fixed_n2,2,1779,2,12\sqrt{2},sympy:12*sqrt(2),1.0,1,False,1,False
+148,fixed_n2,2,622,1,11,sympy:11,1.0,0,False,2,True
+149,fixed_n2,2,1569,1,49,sympy:49,0.0,0,True,2,True
+150,fixed_n2,2,2048,,,,,2,False,0,False
+151,fixed_n2,2,1255,1,36,sympy:36,0.0,0,True,2,False
+152,fixed_n2,2,1246,1,16,sympy:16,0.0,0,True,2,False
+153,fixed_n2,2,914,1,\frac{2}{21},sympy:2/21,1.0,0,False,2,True
+154,fixed_n2,2,857,1,2\sqrt{34},sympy:2*sqrt(34),0.0,0,True,2,False
+155,fixed_n2,2,852,1,\frac{1}{4},sympy:1/4,1.0,0,False,2,True
+156,fixed_n2,2,2048,1,90,sympy:90,1.0,1,False,1,False
+157,fixed_n2,2,678,1,\frac{6}{5},sympy:6/5,1.0,0,False,2,True
+158,fixed_n2,2,1534,1,2107,sympy:2107,1.0,0,False,2,True
+159,fixed_n2,2,806,1,3.21,sympy:3.21000000000000,1.0,0,False,2,True
+160,fixed_n2,2,1049,1,18,sympy:18,0.0,0,True,2,True
+161,fixed_n2,2,1210,1,6,sympy:6,1.0,0,False,2,True
+162,fixed_n2,2,1656,1,\frac{17}{50},sympy:17/50,1.0,0,False,2,True
+163,fixed_n2,2,907,1,-\frac{323}{9},sympy:-323/9,1.0,0,False,2,False
+164,fixed_n2,2,1800,2,-2,sympy:-2,1.0,1,False,1,False
+165,fixed_n2,2,682,1,0,sympy:0,0.0,0,True,2,False
+166,fixed_n2,2,1461,1,\(\boxed{\frac{270}{7}}\)  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \],sympy:270/7,1.0,0,False,2,True
+167,fixed_n2,2,463,1,65,sympy:65,1.0,0,False,2,True
+168,fixed_n2,2,2048,1,8,sympy:8,0.0,0,True,2,False
+169,fixed_n2,2,676,1,12,sympy:12,1.0,0,False,2,True
+170,fixed_n2,2,1947,1,-44,sympy:-44,1.0,1,False,1,False
+171,fixed_n2,2,782,1,\frac{13}{15},sympy:13/15,1.0,0,False,2,True
+172,fixed_n2,2,829,1,350,sympy:350,1.0,0,False,2,True
+173,fixed_n2,2,1485,1,4,sympy:4,1.0,0,False,2,True
+174,fixed_n2,2,914,1,2,sympy:2,1.0,0,False,2,True
+175,fixed_n2,2,1816,1,3,sympy:3,1.0,0,False,2,True
+176,fixed_n2,2,779,1,0.0000672,sympy:6.72000000000000e-5,0.0,0,True,2,True
+177,fixed_n2,2,448,1,60,sympy:60,1.0,0,False,2,False
+178,fixed_n2,2,464,1,60,sympy:60,1.0,0,False,2,True
+179,fixed_n2,2,1891,1,-5x + 7y - 11z - 4 = 0,"sympy:Eq(-1*5*x + 7*y - 1*11*z - 4, 0)",1.0,1,False,1,True
+180,fixed_n2,2,1337,1,3,sympy:3,0.0,0,True,2,True
+181,fixed_n2,2,791,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,2,True
+182,fixed_n2,2,479,1,1251,sympy:1251,1.0,0,False,2,True
+183,fixed_n2,2,1430,1,23,sympy:23,1.0,0,False,2,True
+184,fixed_n2,2,1800,1,"(1, 3)","sympy:Interval.open(1, 3)",0.0,0,True,2,False
+185,fixed_n2,2,553,1,1,sympy:1,1.0,0,False,2,True
+186,fixed_n2,2,1287,1,7,sympy:7,1.0,0,False,2,True
+187,fixed_n2,2,791,1,7,sympy:7,1.0,0,False,2,True
+188,fixed_n2,2,2048,,,,,2,False,0,False
+189,fixed_n2,2,2048,1,240,sympy:240,0.0,0,True,2,False
+190,fixed_n2,2,1492,1,**,parsed:**,0.0,0,True,2,False
+191,fixed_n2,2,537,1,0,sympy:0,1.0,0,False,2,True
+192,fixed_n2,2,820,1,30,sympy:30,1.0,0,False,2,True
+193,fixed_n2,2,711,1,4,sympy:4,1.0,0,False,2,True
+194,fixed_n2,2,1255,1,\frac{1}{4},sympy:1/4,0.0,0,True,2,True
+195,fixed_n2,2,640,1,24,sympy:24,1.0,0,False,2,True
+196,fixed_n2,2,519,1,1600,sympy:1600,1.0,0,False,2,True
+197,fixed_n2,2,1403,1,6,sympy:6,1.0,0,False,2,True
+198,fixed_n2,2,783,1,10080,sympy:10080,1.0,0,False,2,True
+199,fixed_n2,2,616,1,17,sympy:17,1.0,0,False,2,True
+200,fixed_n2,2,703,1,40,sympy:40,1.0,0,False,2,True
+201,fixed_n2,2,1410,1,66,sympy:66,1.0,0,False,2,True
+202,fixed_n2,2,1161,1,\frac{2}{3},sympy:2/3,1.0,0,False,2,True
+203,fixed_n2,2,1137,1,12,sympy:12,1.0,0,False,2,True
+204,fixed_n2,2,1291,1,256,sympy:256,1.0,0,False,2,False
+205,fixed_n2,2,2027,1,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,1.0,0,False,2,True
+206,fixed_n2,2,807,1,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",1.0,0,False,2,True
+207,fixed_n2,2,714,1,28,sympy:28,1.0,0,False,2,True
+208,fixed_n2,2,748,1,1,sympy:1,1.0,0,False,2,True
+209,fixed_n2,2,901,1,16,sympy:16,1.0,0,False,2,True
+210,fixed_n2,2,829,1,20,sympy:20,0.0,0,True,2,False
+211,fixed_n2,2,1299,1,5,sympy:5,1.0,0,False,2,True
+212,fixed_n2,2,896,1,56,sympy:56,1.0,0,False,2,True
+213,fixed_n2,2,1209,1,1,sympy:1,1.0,0,False,2,False
+214,fixed_n2,2,1052,1,95,sympy:95,0.0,0,True,2,False
+215,fixed_n2,2,700,1,2,sympy:2,1.0,0,False,2,True
+216,fixed_n2,2,796,1,6,sympy:6,0.0,0,True,2,True
+217,fixed_n2,2,1530,1,11111111100,sympy:11111111100,1.0,1,False,1,False
+218,fixed_n2,2,766,1,"(-1, 6)","sympy:Interval.open(-1, 6)",1.0,0,False,2,True
+219,fixed_n2,2,1179,1,\frac{2}{15},sympy:2/15,0.0,0,True,2,False
+220,fixed_n2,2,1359,1,\frac{2}{27},sympy:2/27,1.0,0,False,2,False
+221,fixed_n2,2,962,1,900,sympy:900,1.0,0,False,2,True
+222,fixed_n2,2,1276,1,6.75,sympy:6.75000000000000,0.0,0,True,2,False
+223,fixed_n2,2,719,1,**,parsed:**,0.0,0,True,2,False
+224,fixed_n2,2,1304,1,\frac{1}{16},sympy:1/16,0.0,0,True,2,False
+225,fixed_n2,2,594,1,11,sympy:11,1.0,0,False,2,True
+226,fixed_n2,2,629,1,3,sympy:3,1.0,0,False,2,True
+227,fixed_n2,2,566,1,C,sympy:c,1.0,0,False,2,True
+228,fixed_n2,2,2048,1,6\sqrt{6},sympy:6*sqrt(6),1.0,1,False,1,False
+229,fixed_n2,2,485,1,90,sympy:90,1.0,0,False,2,True
+230,fixed_n2,2,1691,1,\frac{16}{5},sympy:16/5,0.0,0,True,2,True
+231,fixed_n2,2,1684,1,10,sympy:10,1.0,0,False,2,True
+232,fixed_n2,2,1894,1,\frac{1997}{2},sympy:1997/2,1.0,0,False,2,True
+233,fixed_n2,2,985,1,30,sympy:30,1.0,0,False,2,True
+234,fixed_n2,2,900,1,34,sympy:34,0.0,0,True,2,True
+235,fixed_n2,2,1344,1,\frac{5}{9},sympy:5/9,1.0,0,False,2,True
+236,fixed_n2,2,1063,1,12,sympy:12,0.0,0,True,2,True
+237,fixed_n2,2,965,1,22,sympy:22,1.0,0,False,2,True
+238,fixed_n2,2,871,1,-4,sympy:-4,1.0,0,False,2,True
+239,fixed_n2,2,2048,,,,,2,False,0,False
+240,fixed_n2,2,894,1,\frac{104}{3},sympy:104/3,0.0,0,True,2,False
+241,fixed_n2,2,1605,1,17,sympy:17,1.0,0,False,2,True
+242,fixed_n2,2,834,1,32349,sympy:32349,1.0,0,False,2,False
+243,fixed_n2,2,563,1,3,sympy:3,1.0,0,False,2,True
+244,fixed_n2,2,1762,1,**,parsed:**,0.0,0,True,2,False
+245,fixed_n2,2,2029,1,-9x - 15,sympy:-1*9*x - 15,1.0,1,False,1,False
+246,fixed_n2,2,588,1,8,sympy:8,1.0,0,False,2,True
+247,fixed_n2,2,983,1,\frac{10}{11},sympy:10/11,1.0,0,False,2,True
+248,fixed_n2,2,2048,,,,,2,False,0,False
+249,fixed_n2,2,1666,1,11,sympy:11,1.0,0,False,2,False
+250,fixed_n2,2,1147,1,13,sympy:13,1.0,0,False,2,True
+251,fixed_n2,2,1020,1,540,sympy:540,1.0,0,False,2,True
+252,fixed_n2,2,1069,1,81,sympy:81,1.0,0,False,2,True
+253,fixed_n2,2,432,1,\frac{1}{8},sympy:1/8,1.0,0,False,2,True
+254,fixed_n2,2,797,1,28,sympy:28,1.0,0,False,2,True
+255,fixed_n2,2,698,1,\text{E},sympy:e,1.0,0,False,2,True
+256,fixed_n2,2,784,1,\frac{8}{21},sympy:8/21,1.0,0,False,2,True
+257,fixed_n2,2,798,1,864,sympy:864,1.0,0,False,2,True
+258,fixed_n2,2,1080,1,16,sympy:16,1.0,0,False,2,True
+259,fixed_n2,2,541,1,22,sympy:22,1.0,0,False,2,True
+260,fixed_n2,2,1270,1,120,sympy:120,1.0,0,False,2,True
+261,fixed_n2,2,753,1,76,sympy:76,1.0,0,False,2,True
+262,fixed_n2,2,466,1,4,sympy:4,1.0,0,False,2,True
+263,fixed_n2,2,790,1,15,sympy:15,1.0,0,False,2,True
+264,fixed_n2,2,906,1,6,sympy:6,0.0,0,True,2,False
+265,fixed_n2,2,446,1,4005,sympy:4005,1.0,0,False,2,True
+266,fixed_n2,2,860,1,\frac{33}{100},sympy:33/100,1.0,0,False,2,True
+267,fixed_n2,2,1065,1,180,sympy:180,1.0,0,False,2,True
+268,fixed_n2,2,555,1,1,sympy:1,1.0,0,False,2,True
+269,fixed_n2,2,735,1,6,sympy:6,1.0,0,False,2,True
+270,fixed_n2,2,709,1,10,sympy:10,1.0,0,False,2,True
+271,fixed_n2,2,1486,1,333,sympy:333,1.0,0,False,2,True
+272,fixed_n2,2,1439,1,1030,sympy:1030,1.0,0,False,2,True
+273,fixed_n2,2,761,1,1250,sympy:1250,1.0,0,False,2,True
+274,fixed_n2,2,565,1,36,sympy:36,0.0,0,True,2,False
+275,fixed_n2,2,569,1,7,sympy:7,1.0,0,False,2,True
+276,fixed_n2,2,942,1,11,sympy:11,1.0,0,False,2,True
+277,fixed_n2,2,668,1,\sqrt{53},sympy:sqrt(53),1.0,0,False,2,True
+278,fixed_n2,2,831,1,255,sympy:255,1.0,0,False,2,True
+279,fixed_n2,2,992,1,4\pi,sympy:4*pi,1.0,0,False,2,False
+280,fixed_n2,2,641,1,8,sympy:8,1.0,0,False,2,True
+281,fixed_n2,2,989,1,36^\circ,sympy:36,0.0,0,True,2,True
+282,fixed_n2,2,731,1,497,sympy:497,1.0,0,False,2,False
+283,fixed_n2,2,827,1,1,sympy:1,1.0,0,False,2,True
+284,fixed_n2,2,1166,1,"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",0.0,0,True,2,True
+285,fixed_n2,2,1553,1,314,sympy:314,0.0,0,True,2,False
+286,fixed_n2,2,1444,1,\frac{1}{2},sympy:1/2,0.0,0,True,2,False
+287,fixed_n2,2,993,1,36,sympy:36,1.0,0,False,2,True
+288,fixed_n2,2,2048,,,,,2,False,0,False
+289,fixed_n2,2,1068,1,16,sympy:16,1.0,0,False,2,True
+290,fixed_n2,2,2028,1,4,sympy:4,1.0,0,False,2,True
+291,fixed_n2,2,716,1,63,sympy:63,0.0,0,True,2,True
+292,fixed_n2,2,1907,1,256,sympy:256,1.0,1,False,1,False
+293,fixed_n2,2,1133,1,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",1.0,0,False,2,True
+294,fixed_n2,2,827,1,38,sympy:38,0.0,0,True,2,False
+295,fixed_n2,2,1245,1,3,sympy:3,0.0,0,True,2,False
+296,fixed_n2,2,1933,1,B,sympy:b,1.0,1,False,1,True
+297,fixed_n2,2,1494,1,103,sympy:103,1.0,0,False,2,True
+298,fixed_n2,2,1584,1,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},sympy:-18,0.0,0,True,2,True
+299,fixed_n2,2,780,1,63,sympy:63,1.0,0,False,2,True
+300,fixed_n2,2,534,1,12,sympy:12,1.0,0,False,2,True
+301,fixed_n2,2,1019,1,5.5,sympy:5.50000000000000,0.0,0,True,2,False
+302,fixed_n2,2,1534,1,4,sympy:4,0.0,0,True,2,False
+303,fixed_n2,2,1516,1,21,sympy:21,1.0,0,False,2,False
+304,fixed_n2,2,1579,1,9,sympy:9,1.0,0,False,2,True
+305,fixed_n2,2,1196,1,\frac{9}{19},sympy:9/19,1.0,0,False,2,True
+306,fixed_n2,2,1526,1,3,sympy:3,1.0,0,False,2,False
+307,fixed_n2,2,1162,1,"(-\infty, 0]","sympy:Interval(-oo, 0)",1.0,0,False,2,True
+308,fixed_n2,2,1943,2,4sqrt(3)```python,sympy:4,1.0,1,False,1,False
+309,fixed_n2,2,1715,1,15,sympy:15,1.0,1,False,1,False
+310,fixed_n2,2,785,1,49,sympy:49,1.0,0,False,2,True
+311,fixed_n2,2,1354,1,3,sympy:3,1.0,0,False,2,True
+312,fixed_n2,2,871,1,"(5, \infty)","sympy:Interval.open(5, oo)",1.0,0,False,2,True
+313,fixed_n2,2,798,1,12\pi,sympy:12*pi,1.0,0,False,2,True
+314,fixed_n2,2,694,1,"(2, 4)","sympy:Interval.open(2, 4)",1.0,0,False,2,True
+315,fixed_n2,2,900,1,41,sympy:41,1.0,0,False,2,True
+316,fixed_n2,2,1915,1,12,sympy:12,1.0,0,False,2,True
+317,fixed_n2,2,1212,1,2,sympy:2,1.0,0,False,2,False
+318,fixed_n2,2,962,1,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,1.0,0,False,2,True
+319,fixed_n2,2,684,1,-128,sympy:-128,1.0,0,False,2,True
+320,fixed_n2,2,992,1,-\frac{24}{25},sympy:-24/25,1.0,0,False,2,True
+321,fixed_n2,2,698,1,10,sympy:10,1.0,0,False,2,True
+322,fixed_n2,2,705,1,-1,sympy:-1,1.0,0,False,2,True
+323,fixed_n2,2,844,1,\frac{1}{3},sympy:1/3,1.0,0,False,2,True
+324,fixed_n2,2,1640,1,120,sympy:120,0.0,0,True,2,True
+325,fixed_n2,2,941,1,4,sympy:4,1.0,0,False,2,True
+326,fixed_n2,2,2048,,,,,2,False,0,False
+327,fixed_n2,2,2048,1,35,sympy:35,1.0,1,False,1,False
+328,fixed_n2,2,2048,,,,,2,False,0,False
+329,fixed_n2,2,439,1,4,sympy:4,1.0,0,False,2,True
+330,fixed_n2,2,1019,1,1940,sympy:1940,1.0,0,False,2,True
+331,fixed_n2,2,1366,1,\dfrac{13}{6},sympy:13/6,1.0,0,False,2,True
+332,fixed_n2,2,1290,1,2\sqrt{2},sympy:2*sqrt(2),0.0,0,True,2,False
+333,fixed_n2,2,2048,1,3,sympy:3,1.0,1,False,1,True
+334,fixed_n2,2,930,1,-120,sympy:-120,1.0,0,False,2,True
+335,fixed_n2,2,1472,1,3,sympy:3,1.0,0,False,2,True
+336,fixed_n2,2,504,1,26000,sympy:26000,1.0,0,False,2,True
+337,fixed_n2,2,944,1,6,sympy:6,1.0,0,False,2,True
+338,fixed_n2,2,633,1,4343,sympy:4343,1.0,0,False,2,True
+339,fixed_n2,2,1372,1,2k,sympy:2*k,1.0,0,False,2,True
+340,fixed_n2,2,2048,,,,,2,False,0,False
+341,fixed_n2,2,783,1,-2,sympy:-2,1.0,0,False,2,True
+342,fixed_n2,2,692,1,2,sympy:2,1.0,0,False,2,True
+343,fixed_n2,2,721,1,58500,sympy:58500,1.0,0,False,2,True
+344,fixed_n2,2,848,1,5,sympy:5,1.0,0,False,2,True
+345,fixed_n2,2,629,1,1,sympy:1,1.0,0,False,2,True
+346,fixed_n2,2,1123,1,66,sympy:66,1.0,0,False,2,True
+347,fixed_n2,2,759,1,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,1.0,0,False,2,True
+348,fixed_n2,2,840,1,4495,sympy:4495,1.0,0,False,2,True
+349,fixed_n2,2,625,1,5040,sympy:5040,1.0,0,False,2,False
+350,fixed_n2,2,658,1,4,sympy:4,1.0,0,False,2,True
+351,fixed_n2,2,1067,1,-\frac{1}{16},sympy:-1/16,1.0,0,False,2,False
+352,fixed_n2,2,1917,2,44,sympy:44,1.0,1,False,1,False
+353,fixed_n2,2,882,1,480,sympy:480,1.0,0,False,2,True
+354,fixed_n2,2,1450,1,81,sympy:81,0.0,0,True,2,True
+355,fixed_n2,2,1219,1,120,sympy:120,0.0,0,True,2,False
+356,fixed_n2,2,1453,1,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",1.0,0,False,2,True
+357,fixed_n2,2,991,1,3,sympy:3,0.0,0,True,2,False
+358,fixed_n2,2,818,1,\text{circle},sympy:E*c*c*i*l*r,0.0,0,True,2,False
+359,fixed_n2,2,1803,2,6,sympy:6,1.0,1,False,1,True
+360,fixed_n2,2,826,1,\frac{7}{4},sympy:7/4,1.0,0,False,2,True
+361,fixed_n2,2,1424,1,16\sqrt{3},sympy:16*sqrt(3),1.0,0,False,2,True
+362,fixed_n2,2,364,1,\frac{1}{4},sympy:1/4,1.0,0,False,2,True
+363,fixed_n2,2,543,1,2,sympy:2,1.0,0,False,2,True
+364,fixed_n2,2,1507,1,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",1.0,0,False,2,True
+365,fixed_n2,2,1433,1,40,sympy:40,1.0,0,False,2,False
+366,fixed_n2,2,950,1,4,sympy:4,1.0,0,False,2,True
+367,fixed_n2,2,560,1,1,sympy:1,1.0,0,False,2,True
+368,fixed_n2,2,568,1,31,sympy:31,1.0,0,False,2,True
+369,fixed_n2,2,625,1,30,sympy:30,0.0,0,True,2,False
+370,fixed_n2,2,636,1,-41,sympy:-41,1.0,0,False,2,True
+371,fixed_n2,2,1982,1,9,sympy:9,0.0,0,True,2,False
+372,fixed_n2,2,1379,1,100,sympy:100,0.0,0,True,2,False
+373,fixed_n2,2,878,1,1+2i,sympy:2*i + 1,1.0,0,False,2,True
+374,fixed_n2,2,540,1,4,sympy:4,1.0,0,False,2,True
+375,fixed_n2,2,1118,1,25,sympy:25,1.0,0,False,2,True
+376,fixed_n2,2,1913,1,"(8, -2)","sympy:(8, -2)",1.0,0,False,2,True
+377,fixed_n2,2,876,1,6,sympy:6,1.0,0,False,2,True
+378,fixed_n2,2,1139,1,3,sympy:3,1.0,0,False,2,True
+379,fixed_n2,2,1566,1,9^{\text{th}},sympy:9,0.0,0,True,2,False
+380,fixed_n2,2,1426,2,"(0, 36)","sympy:Interval.open(0, 36)",1.0,1,False,1,False
+381,fixed_n2,2,2048,2,\frac{1}{2},sympy:1/2,1.0,1,False,1,True
+382,fixed_n2,2,1450,1,\frac{20000}{\pi},sympy:20000/pi,1.0,0,False,2,True
+383,fixed_n2,2,1299,1,"[-2, 7]","sympy:Interval(-2, 7)",1.0,0,False,2,True
+384,fixed_n2,2,345,1,15x - 80,sympy:15*x - 80,1.0,0,False,2,True
+385,fixed_n2,2,752,1,22,sympy:22,1.0,0,False,2,True
+386,fixed_n2,2,895,1,11,sympy:11,1.0,0,False,2,True
+387,fixed_n2,2,639,1,18,sympy:18,1.0,0,False,2,True
+388,fixed_n2,2,792,1,\frac{11}{2},sympy:11/2,1.0,0,False,2,True
+389,fixed_n2,2,836,1,1,sympy:1,0.0,0,True,2,False
+390,fixed_n2,2,1968,1,4,sympy:4,1.0,1,False,1,False
+391,fixed_n2,2,1749,1,0,sympy:0,1.0,0,False,2,True
+392,fixed_n2,2,1835,1,11,sympy:11,0.0,0,True,2,False
+393,fixed_n2,2,883,1,\frac{3}{4},sympy:3/4,1.0,0,False,2,True
+394,fixed_n2,2,1612,1,-\frac{3}{8},sympy:-3/8,1.0,0,False,2,True
+395,fixed_n2,2,675,1,4,sympy:4,1.0,0,False,2,True
+396,fixed_n2,2,862,1,2,sympy:2,0.0,0,True,2,True
+397,fixed_n2,2,713,1,23,sympy:23,1.0,0,False,2,True
+398,fixed_n2,2,2048,1,39.68,sympy:39.6800000000000,1.0,1,False,1,False
+399,fixed_n2,2,544,1,326.5,sympy:326.500000000000,1.0,0,False,2,True
+400,fixed_n2,2,1484,1,\frac{14}{3},sympy:14/3,0.0,0,True,2,True
+401,fixed_n2,2,1990,2,3,sympy:3,1.0,1,False,1,False
+402,fixed_n2,2,743,1,-4 - 8i,sympy:-1*8*i - 4,0.0,0,True,2,False
+403,fixed_n2,2,1114,1,1,sympy:1,1.0,0,False,2,False
+404,fixed_n2,2,641,1,3,sympy:3,1.0,0,False,2,True
+405,fixed_n2,2,1449,1,60,sympy:60,1.0,0,False,2,True
+406,fixed_n2,2,646,1,0,sympy:0,1.0,0,False,2,True
+407,fixed_n2,2,546,1,9,sympy:9,1.0,0,False,2,True
+408,fixed_n2,2,2048,,,,,2,False,0,False
+409,fixed_n2,2,1234,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,2,True
+410,fixed_n2,2,792,1,6,sympy:6,1.0,0,False,2,True
+411,fixed_n2,2,391,1,60,sympy:60,1.0,0,False,2,True
+412,fixed_n2,2,1443,1,306,sympy:306,0.0,0,True,2,False
+413,fixed_n2,2,627,1,5r^5,sympy:5*r**5,1.0,0,False,2,True
+414,fixed_n2,2,994,1,10,sympy:10,1.0,0,False,2,True
+415,fixed_n2,2,1693,1,9,sympy:9,1.0,0,False,2,True
+416,fixed_n2,2,1088,1,\frac{1}{8},sympy:1/8,1.0,0,False,2,True
+417,fixed_n2,2,1421,1,-2,sympy:-2,1.0,0,False,2,True
+418,fixed_n2,2,1401,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,2,True
+419,fixed_n2,2,1815,1,\begin{pmatrix} -30 \\ -30 \\ 120 \end{pmatrix},sympy:-30,1.0,1,False,1,False
+420,fixed_n2,2,1066,1,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",1.0,0,False,2,False
+421,fixed_n2,2,1788,1,15,sympy:15,0.0,0,True,2,False
+422,fixed_n2,2,2048,,,,,2,False,0,False
+423,fixed_n2,2,1621,1,1440,sympy:1440,0.0,0,True,2,True
+424,fixed_n2,2,828,1,600,sympy:600,1.0,0,False,2,True
+425,fixed_n2,2,1258,1,6R^2 - \frac{1}{3}(a^2 + b^2 + c^2),sympy:6*r**2 - 1*1/3*(a**2 + b**2 + c**2),0.0,0,True,2,False
+426,fixed_n2,2,984,1,6\sqrt{2},sympy:6*sqrt(2),1.0,0,False,2,True
+427,fixed_n2,2,858,1,29,sympy:29,1.0,0,False,2,True
+428,fixed_n2,2,1817,2,64,sympy:64,1.0,1,False,1,True
+429,fixed_n2,2,1056,1,50,sympy:50,1.0,0,False,2,True
+430,fixed_n2,2,507,1,4.5,sympy:4.50000000000000,1.0,0,False,2,True
+431,fixed_n2,2,1614,1,"\left[ \frac{\pi^2}{8}, \frac{\pi^2}{4} \right]","sympy:Interval(pi**2/8, pi**2/4)",0.0,0,True,2,False
+432,fixed_n2,2,1908,2,0,sympy:0,1.0,1,False,1,False
+433,fixed_n2,2,1203,1,0.35625,sympy:0.356250000000000,1.0,0,False,2,True
+434,fixed_n2,2,983,1,32,sympy:32,1.0,0,False,2,True
+435,fixed_n2,2,1311,1,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",1.0,0,False,2,True
+436,fixed_n2,2,2028,1,4,sympy:4,1.0,1,False,1,True
+437,fixed_n2,2,1473,1,3,sympy:3,1.0,0,False,2,True
+438,fixed_n2,2,640,1,4,sympy:4,1.0,0,False,2,True
+439,fixed_n2,2,1856,1,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,1.0,1,False,1,True
+440,fixed_n2,2,891,1,14,sympy:14,1.0,0,False,2,True
+441,fixed_n2,2,794,1,550,sympy:550,1.0,0,False,2,True
+442,fixed_n2,2,483,1,256,sympy:256,1.0,0,False,2,True
+443,fixed_n2,2,592,1,45,sympy:45,1.0,0,False,2,True
+444,fixed_n2,2,1459,1,\frac{1}{8},sympy:1/8,0.0,0,True,2,False
+445,fixed_n2,2,1875,2,24,sympy:24,1.0,1,False,1,False
+446,fixed_n2,2,1476,1,8,sympy:8,1.0,0,False,2,True
+447,fixed_n2,2,757,1,9,sympy:9,1.0,0,False,2,True
+448,fixed_n2,2,1603,1,44,sympy:44,1.0,0,False,2,True
+449,fixed_n2,2,514,1,47,sympy:47,1.0,0,False,2,True
+450,fixed_n2,2,1125,1,64,sympy:64,1.0,0,False,2,True
+451,fixed_n2,2,988,1,\frac{639}{40},sympy:639/40,1.0,0,False,2,True
+452,fixed_n2,2,845,1,143,sympy:143,1.0,0,False,2,True
+453,fixed_n2,2,716,1,10,sympy:10,1.0,0,False,2,True
+454,fixed_n2,2,2048,,,,,2,False,0,False
+455,fixed_n2,2,690,1,6,sympy:6,1.0,0,False,2,True
+456,fixed_n2,2,1931,1,"1, -2","sympy:{-2, 1}",1.0,0,False,2,True
+457,fixed_n2,2,285,1,0,sympy:0,1.0,0,False,2,True
+458,fixed_n2,2,1270,1,41,sympy:41,1.0,0,False,2,True
+459,fixed_n2,2,1575,1,18.90,sympy:18.9000000000000,1.0,0,False,2,True
+460,fixed_n2,2,1430,1,45,sympy:45,0.0,0,True,2,False
+461,fixed_n2,2,1337,1,12,sympy:12,1.0,0,False,2,True
+462,fixed_n2,2,859,1,159,sympy:159,0.0,0,True,2,False
+463,fixed_n2,2,644,1,2,sympy:2,1.0,0,False,2,True
+464,fixed_n2,2,1410,1,9,sympy:9,1.0,0,False,2,True
+465,fixed_n2,2,558,1,121,sympy:121,1.0,0,False,2,True
+466,fixed_n2,2,1570,1,8\pi,sympy:8*pi,0.0,0,True,2,True
+467,fixed_n2,2,506,1,15,sympy:15,1.0,0,False,2,True
+468,fixed_n2,2,587,1,8,sympy:8,1.0,0,False,2,True
+469,fixed_n2,2,547,1,25,sympy:25,1.0,0,False,2,True
+470,fixed_n2,2,2048,,,,,2,False,0,False
+471,fixed_n2,2,548,1,84,sympy:84,1.0,0,False,2,True
+472,fixed_n2,2,899,1,137\frac{1}{2},sympy:275/2,1.0,0,False,2,True
+473,fixed_n2,2,1416,1,7,sympy:7,1.0,0,False,2,True
+474,fixed_n2,2,1466,1,3,sympy:3,1.0,0,False,2,True
+475,fixed_n2,2,1957,2,139,sympy:139,1.0,1,False,1,False
+476,fixed_n2,2,740,1,200,sympy:200,1.0,0,False,2,True
+477,fixed_n2,2,1798,1,2,sympy:2,0.0,0,True,2,True
+478,fixed_n2,2,948,1,0,sympy:0,1.0,0,False,2,False
+479,fixed_n2,2,804,1,2,sympy:2,1.0,0,False,2,True
+480,fixed_n2,2,1039,1,1,sympy:1,1.0,0,False,2,True
+481,fixed_n2,2,1623,1,2,sympy:2,1.0,1,False,1,False
+482,fixed_n2,2,1346,1,202,sympy:202,0.0,0,True,2,True
+483,fixed_n2,2,1950,1,\frac{8}{15},sympy:8/15,1.0,1,False,1,True
+484,fixed_n2,2,1475,1,10,sympy:10,1.0,0,False,2,True
+485,fixed_n2,2,2048,,,,,2,False,0,False
+486,fixed_n2,2,415,1,216,sympy:216,1.0,0,False,2,True
+487,fixed_n2,2,1328,1,2,sympy:2,1.0,0,False,2,True
+488,fixed_n2,2,451,1,36,sympy:36,1.0,0,False,2,True
+489,fixed_n2,2,1009,1,15,sympy:15,1.0,0,False,2,True
+490,fixed_n2,2,1989,2,18,sympy:18,1.0,1,False,1,False
+491,fixed_n2,2,922,1,4374,sympy:4374,0.0,0,True,2,False
+492,fixed_n2,2,881,1,y = -2x,"sympy:Eq(y, -1*2*x)",1.0,0,False,2,True
+493,fixed_n2,2,1280,1,20,sympy:20,1.0,0,False,2,True
+494,fixed_n2,2,2048,,,,,2,False,0,False
+495,fixed_n2,2,1047,1,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",1.0,0,False,2,True
+496,fixed_n2,2,919,1,\dfrac{5}{13},sympy:5/13,1.0,0,False,2,True
+497,fixed_n2,2,1284,1,\frac{3}{2},sympy:3/2,0.0,0,True,2,False
+498,fixed_n2,2,1614,1,1,sympy:1,0.0,0,True,2,False
+499,fixed_n2,2,720,1,106,sympy:106,1.0,0,False,2,True
+0,fixed_n4,4,1243,1,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",1.0,0,False,4,True
+1,fixed_n4,4,2484,1,p - q,sympy:p - q,1.0,0,False,4,True
+2,fixed_n4,4,1961,1,\frac{14}{3},sympy:14/3,1.0,0,False,4,True
+3,fixed_n4,4,1751,1,9,sympy:9,1.0,0,False,4,True
+4,fixed_n4,4,1920,1,Evelyn,sympy:E*e*l*n*v*y,1.0,0,False,4,True
+5,fixed_n4,4,1074,1,42,sympy:42,1.0,0,False,4,True
+6,fixed_n4,4,1570,1,27,sympy:27,1.0,0,False,4,True
+7,fixed_n4,4,2927,1,90,sympy:90,1.0,0,False,4,True
+8,fixed_n4,4,1534,1,3\sqrt{13},sympy:3*sqrt(13),1.0,0,False,4,True
+9,fixed_n4,4,3519,1,1,sympy:1,0.0,2,True,2,False
+10,fixed_n4,4,1515,1,2220,sympy:2220,1.0,0,False,4,True
+11,fixed_n4,4,3862,1,\frac{8}{63},sympy:8/63,0.3333333333333333,1,False,3,False
+12,fixed_n4,4,2354,2,284,sympy:284,0.5,0,False,4,True
+13,fixed_n4,4,947,1,5,sympy:5,1.0,0,False,4,True
+14,fixed_n4,4,913,1,10,sympy:10,1.0,0,False,4,False
+15,fixed_n4,4,2420,1,6 - 5i,sympy:-1*5*i + 6,1.0,0,False,4,True
+16,fixed_n4,4,1797,1,-50,sympy:-50,1.0,0,False,4,True
+17,fixed_n4,4,2498,1,\frac{\pi}{2},sympy:pi/2,0.0,0,True,4,False
+18,fixed_n4,4,1706,2,56,sympy:56,0.5,0,False,4,False
+19,fixed_n4,4,1922,1,3,sympy:3,1.0,0,False,4,True
+20,fixed_n4,4,758,1,6+9i,sympy:9*i + 6,1.0,0,False,4,True
+21,fixed_n4,4,2750,1,13586,sympy:13586,0.0,0,True,4,False
+22,fixed_n4,4,3176,1,5,sympy:5,0.3333333333333333,1,False,3,True
+23,fixed_n4,4,2799,1,5,sympy:5,1.0,1,False,3,True
+24,fixed_n4,4,1901,1,49,sympy:49,0.0,0,True,4,False
+25,fixed_n4,4,3690,1,"0, 1","sympy:{0, 1}",0.0,2,True,2,False
+26,fixed_n4,4,2852,2,576,sympy:576,0.25,0,False,4,False
+27,fixed_n4,4,1432,1,78,sympy:78,1.0,0,False,4,True
+28,fixed_n4,4,1255,1,-2 + 7i,sympy:7*i - 2,1.0,0,False,4,True
+29,fixed_n4,4,2018,1,225,sympy:225,1.0,0,False,4,True
+30,fixed_n4,4,1438,1,52,sympy:52,1.0,0,False,4,True
+31,fixed_n4,4,1934,1,11\sqrt{2},sympy:11*sqrt(2),1.0,0,False,4,True
+32,fixed_n4,4,1488,1,720,sympy:720,1.0,0,False,4,True
+33,fixed_n4,4,2776,1,\frac{81}{200},sympy:81/200,0.5,0,False,4,False
+34,fixed_n4,4,2823,1,-125,sympy:-125,1.0,0,False,4,True
+35,fixed_n4,4,1553,1,3,sympy:3,1.0,0,False,4,True
+36,fixed_n4,4,3086,1,"3, 5, 7","sympy:{3, 5, 7}",0.3333333333333333,1,False,3,True
+37,fixed_n4,4,862,1,72,sympy:72,1.0,0,False,4,True
+38,fixed_n4,4,1011,1,2000,sympy:2000,1.0,0,False,4,True
+39,fixed_n4,4,2166,1,23,sympy:23,1.0,1,False,3,True
+40,fixed_n4,4,938,1,12,sympy:12,1.0,0,False,4,True
+41,fixed_n4,4,2288,2,5,sympy:5,0.25,0,False,4,False
+42,fixed_n4,4,1835,1,4,sympy:4,1.0,0,False,4,True
+43,fixed_n4,4,3138,1,50 + 20\sqrt{5},sympy:20*sqrt(5) + 50,0.0,1,True,3,False
+44,fixed_n4,4,1873,1,1.25,sympy:1.25000000000000,1.0,0,False,4,True
+45,fixed_n4,4,1197,1,2,sympy:2,1.0,0,False,4,True
+46,fixed_n4,4,3164,2,6,sympy:6,0.3333333333333333,1,False,3,True
+47,fixed_n4,4,1766,1,5,sympy:5,1.0,0,False,4,True
+48,fixed_n4,4,1751,1,\frac{3}{2},sympy:3/2,0.5,0,False,4,True
+49,fixed_n4,4,1088,1,83,sympy:83,1.0,0,False,4,True
+50,fixed_n4,4,3016,1,203,sympy:203,0.3333333333333333,1,False,3,True
+51,fixed_n4,4,3050,2,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,1.0,1,False,3,True
+52,fixed_n4,4,1310,1,12,sympy:12,1.0,0,False,4,True
+53,fixed_n4,4,1349,1,-\frac{\pi}{6},sympy:-1*pi/6,1.0,0,False,4,True
+54,fixed_n4,4,1146,1,0.15,sympy:0.150000000000000,1.0,0,False,4,True
+55,fixed_n4,4,1339,1,3,sympy:3,1.0,0,False,4,True
+56,fixed_n4,4,719,1,11,sympy:11,1.0,0,False,4,True
+57,fixed_n4,4,2104,1,16,sympy:16,1.0,0,False,4,True
+58,fixed_n4,4,1086,1,9901,sympy:9901,0.5,0,False,4,True
+59,fixed_n4,4,1891,1,5,sympy:5,1.0,0,False,4,True
+60,fixed_n4,4,3573,1,"(1, 1, 1)","sympy:(1, 1, 1)",0.0,1,True,3,False
+61,fixed_n4,4,1473,1,-256,sympy:-256,1.0,0,False,4,True
+62,fixed_n4,4,2932,1,4,sympy:4,0.25,0,False,4,True
+63,fixed_n4,4,2131,1,9,sympy:9,1.0,0,False,4,False
+64,fixed_n4,4,3467,1,-\frac{35}{64},sympy:-35/64,0.0,2,True,2,False
+65,fixed_n4,4,847,1,1,sympy:1,1.0,0,False,4,True
+66,fixed_n4,4,1589,1,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,1.0,0,False,4,True
+67,fixed_n4,4,1458,1,10,sympy:10,0.5,0,False,4,True
+68,fixed_n4,4,3339,1,46,sympy:46,0.25,0,False,4,True
+69,fixed_n4,4,1768,1,-1,sympy:-1,1.0,0,False,4,True
+70,fixed_n4,4,2079,1,40_9,sympy:40,1.0,0,False,4,True
+71,fixed_n4,4,1685,1,2516,sympy:2516,0.5,0,False,4,True
+72,fixed_n4,4,1458,1,3,sympy:3,1.0,0,False,4,True
+73,fixed_n4,4,1298,1,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,1.0,0,False,4,True
+74,fixed_n4,4,1888,1,\cot x,sympy:cot(x),1.0,0,False,4,True
+75,fixed_n4,4,1690,1,\frac{11}{36},sympy:11/36,1.0,0,False,4,True
+76,fixed_n4,4,1158,1,0,sympy:0,1.0,0,False,4,True
+77,fixed_n4,4,825,1,4,sympy:4,1.0,0,False,4,True
+78,fixed_n4,4,2914,1,"(-2, 1)","sympy:Interval.open(-2, 1)",1.0,0,False,4,True
+79,fixed_n4,4,1173,1,2,sympy:2,1.0,0,False,4,True
+80,fixed_n4,4,3056,2,1,sympy:1,0.5,0,False,4,False
+81,fixed_n4,4,2426,1,3,sympy:3,1.0,0,False,4,True
+82,fixed_n4,4,1860,1,\frac{3}{4},sympy:3/4,0.5,0,False,4,False
+83,fixed_n4,4,2004,1,2,sympy:2,1.0,0,False,4,True
+84,fixed_n4,4,3136,1,-1,sympy:-1,1.0,0,False,4,True
+85,fixed_n4,4,1457,1,\sqrt{5},sympy:sqrt(5),1.0,0,False,4,True
+86,fixed_n4,4,1063,1,240,sympy:240,1.0,0,False,4,True
+87,fixed_n4,4,2509,1,1,sympy:1,1.0,0,False,4,True
+88,fixed_n4,4,3433,1,2,sympy:2,0.5,0,False,4,True
+89,fixed_n4,4,3668,1,21,sympy:21,1.0,0,False,4,True
+90,fixed_n4,4,984,1,\frac{3}{2},sympy:3/2,0.5,0,False,4,True
+91,fixed_n4,4,1442,1,1,sympy:1,0.5,0,False,4,True
+92,fixed_n4,4,2516,1,\frac{2240}{78125},sympy:448/15625,1.0,0,False,4,True
+93,fixed_n4,4,2352,1,33,sympy:33,1.0,0,False,4,True
+94,fixed_n4,4,2940,1,70,sympy:70,0.5,0,False,4,False
+95,fixed_n4,4,3017,1,-4,sympy:-4,1.0,0,False,4,True
+96,fixed_n4,4,3768,3,-1,sympy:-1,1.0,3,False,1,False
+97,fixed_n4,4,1040,1,east,sympy:E*a*s*t,1.0,0,False,4,True
+98,fixed_n4,4,1786,1,2k + 2,sympy:2*k + 2,1.0,0,False,4,True
+99,fixed_n4,4,3774,1,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",1.0,1,False,3,False
+100,fixed_n4,4,2866,2,75,sympy:75,0.5,0,False,4,False
+101,fixed_n4,4,3286,1,1,sympy:1,0.25,0,False,4,False
+102,fixed_n4,4,1399,1,(a+5)(b+2),sympy:(a + 5)*(b + 2),1.0,0,False,4,True
+103,fixed_n4,4,4008,1,"[1,2]","sympy:Interval(1, 2)",0.0,2,True,2,False
+104,fixed_n4,4,3259,2,32,sympy:32,0.0,1,True,3,False
+105,fixed_n4,4,1162,1,17.5,sympy:17.5000000000000,0.0,0,True,4,False
+106,fixed_n4,4,1332,1,\frac{4}{3},sympy:4/3,1.0,0,False,4,True
+107,fixed_n4,4,1788,1,9,sympy:9,1.0,0,False,4,True
+108,fixed_n4,4,3208,1,2,sympy:2,1.0,0,False,4,True
+109,fixed_n4,4,3803,2,30,sympy:30,0.0,2,True,2,False
+110,fixed_n4,4,4087,2,3,sympy:3,1.0,3,False,1,False
+111,fixed_n4,4,2384,1,210,sympy:210,1.0,1,False,3,True
+112,fixed_n4,4,2226,1,13,sympy:13,1.0,0,False,4,True
+113,fixed_n4,4,1191,1,8000,sympy:8000,1.0,0,False,4,True
+114,fixed_n4,4,2630,1,-5,sympy:-5,1.0,0,False,4,True
+115,fixed_n4,4,1814,1,**,parsed:**,0.0,0,True,4,False
+116,fixed_n4,4,1219,1,2,sympy:2,1.0,0,False,4,True
+117,fixed_n4,4,1361,1,3,sympy:3,1.0,0,False,4,True
+118,fixed_n4,4,3573,1,81,sympy:81,1.0,1,False,3,True
+119,fixed_n4,4,1802,1,-9,sympy:-9,0.25,0,False,4,True
+120,fixed_n4,4,2066,1,\text{odd},sympy:dd*o,0.0,0,True,4,False
+121,fixed_n4,4,1242,1,6,sympy:6,1.0,0,False,4,True
+122,fixed_n4,4,1335,1,9,sympy:9,1.0,0,False,4,True
+123,fixed_n4,4,3783,2,6,sympy:6,0.3333333333333333,1,False,3,False
+124,fixed_n4,4,2929,1,\frac{11}{2},sympy:11/2,1.0,0,False,4,True
+125,fixed_n4,4,1198,1,-3,sympy:-3,1.0,0,False,4,True
+126,fixed_n4,4,3492,1,\frac{37413 + i}{37265},sympy:(i + 37413)/37265,0.0,2,True,2,False
+127,fixed_n4,4,1560,1,4210,sympy:4210,1.0,0,False,4,True
+128,fixed_n4,4,831,1,36,sympy:36,0.5,0,False,4,True
+129,fixed_n4,4,3166,1,48,sympy:48,0.25,0,False,4,False
+130,fixed_n4,4,1754,1,13,sympy:13,1.0,0,False,4,True
+131,fixed_n4,4,2310,1,8,sympy:8,1.0,0,False,4,True
+132,fixed_n4,4,1268,1,4,sympy:4,1.0,0,False,4,True
+133,fixed_n4,4,1774,1,120,sympy:120,0.5,0,False,4,True
+134,fixed_n4,4,2524,1,16,sympy:16,1.0,0,False,4,True
+135,fixed_n4,4,1799,1,9,sympy:9,1.0,0,False,4,True
+136,fixed_n4,4,4027,2,64,sympy:64,1.0,3,False,1,True
+137,fixed_n4,4,2079,1,204_5,sympy:204,1.0,0,False,4,True
+138,fixed_n4,4,3127,2,\frac{1}{6},sympy:1/6,0.3333333333333333,1,False,3,False
+139,fixed_n4,4,3171,2,1,sympy:1,1.0,1,False,3,True
+140,fixed_n4,4,1995,1,13,sympy:13,1.0,0,False,4,True
+141,fixed_n4,4,918,1,2,sympy:2,0.5,0,False,4,True
+142,fixed_n4,4,1801,1,3456000,sympy:3456000,1.0,0,False,4,False
+143,fixed_n4,4,2871,1,3\sqrt{5},sympy:3*sqrt(5),1.0,0,False,4,True
+144,fixed_n4,4,965,1,"(15, -29)","sympy:(15, -29)",1.0,0,False,4,True
+145,fixed_n4,4,3031,1,-2,sympy:-2,0.5,0,False,4,True
+146,fixed_n4,4,1288,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,4,True
+147,fixed_n4,4,3483,3,12,sympy:12,0.3333333333333333,1,False,3,False
+148,fixed_n4,4,1159,1,11,sympy:11,1.0,0,False,4,True
+149,fixed_n4,4,2993,1,49,sympy:49,0.5,0,False,4,True
+150,fixed_n4,4,4096,,,,,4,False,0,False
+151,fixed_n4,4,2632,2,144,sympy:144,0.25,0,False,4,True
+152,fixed_n4,4,2519,1,16,sympy:16,0.0,0,True,4,False
+153,fixed_n4,4,2076,1,\frac{2}{21},sympy:2/21,1.0,0,False,4,True
+154,fixed_n4,4,1828,1,2\sqrt{34},sympy:2*sqrt(34),0.0,0,True,4,False
+155,fixed_n4,4,1629,1,\frac{1}{4},sympy:1/4,1.0,0,False,4,True
+156,fixed_n4,4,4026,1,90,sympy:90,1.0,2,False,2,False
+157,fixed_n4,4,1353,1,\frac{6}{5},sympy:6/5,1.0,0,False,4,True
+158,fixed_n4,4,2941,1,2107,sympy:2107,1.0,0,False,4,True
+159,fixed_n4,4,1611,1,3.21,sympy:3.21000000000000,1.0,0,False,4,True
+160,fixed_n4,4,1868,1,18,sympy:18,0.5,0,False,4,True
+161,fixed_n4,4,1562,1,6,sympy:6,1.0,0,False,4,True
+162,fixed_n4,4,3322,1,\frac{17}{50},sympy:17/50,1.0,0,False,4,True
+163,fixed_n4,4,1990,1,-\frac{323}{9},sympy:-323/9,0.5,0,False,4,False
+164,fixed_n4,4,3267,2,-2,sympy:-2,0.0,1,True,3,False
+165,fixed_n4,4,1404,2,\frac{4}{9},sympy:4/9,0.5,0,False,4,True
+166,fixed_n4,4,2692,1,\(\boxed{\frac{270}{7}}\)  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \],sympy:270/7,1.0,0,False,4,True
+167,fixed_n4,4,885,1,65,sympy:65,1.0,0,False,4,True
+168,fixed_n4,4,3748,1,8,sympy:8,0.0,0,True,4,False
+169,fixed_n4,4,1462,1,12,sympy:12,1.0,0,False,4,True
+170,fixed_n4,4,3995,1,-44,sympy:-44,1.0,3,False,1,False
+171,fixed_n4,4,1558,1,\frac{13}{15},sympy:13/15,1.0,0,False,4,True
+172,fixed_n4,4,1675,1,350,sympy:350,1.0,0,False,4,True
+173,fixed_n4,4,3057,1,4,sympy:4,1.0,0,False,4,True
+174,fixed_n4,4,2093,1,2,sympy:2,1.0,0,False,4,True
+175,fixed_n4,4,3367,1,3,sympy:3,1.0,0,False,4,True
+176,fixed_n4,4,1861,1,0.0000672,sympy:6.72000000000000e-5,0.25,0,False,4,True
+177,fixed_n4,4,1521,1,60,sympy:60,0.5,0,False,4,False
+178,fixed_n4,4,1122,1,60,sympy:60,1.0,0,False,4,True
+179,fixed_n4,4,3774,1,-5x + 7y - 11z - 4 = 0,"sympy:Eq(-1*5*x + 7*y - 1*11*z - 4, 0)",0.3333333333333333,1,False,3,True
+180,fixed_n4,4,1987,2,2,sympy:2,0.5,0,False,4,False
+181,fixed_n4,4,1510,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,4,True
+182,fixed_n4,4,964,1,1251,sympy:1251,1.0,0,False,4,True
+183,fixed_n4,4,2932,1,23,sympy:23,1.0,0,False,4,True
+184,fixed_n4,4,3444,1,"(1, 3)","sympy:Interval.open(1, 3)",0.0,0,True,4,False
+185,fixed_n4,4,1018,1,1,sympy:1,1.0,0,False,4,True
+186,fixed_n4,4,2297,1,7,sympy:7,0.5,0,False,4,True
+187,fixed_n4,4,1579,1,7,sympy:7,1.0,0,False,4,True
+188,fixed_n4,4,3844,4,2,sympy:2,1.0,3,False,1,False
+189,fixed_n4,4,4096,1,240,sympy:240,0.0,1,True,3,False
+190,fixed_n4,4,2915,3,\frac{13}{18},sympy:13/18,0.25,0,False,4,True
+191,fixed_n4,4,1030,1,0,sympy:0,1.0,0,False,4,True
+192,fixed_n4,4,1770,1,30,sympy:30,1.0,0,False,4,True
+193,fixed_n4,4,1383,1,4,sympy:4,1.0,0,False,4,True
+194,fixed_n4,4,2856,1,\frac{1}{4},sympy:1/4,0.5,0,False,4,True
+195,fixed_n4,4,1277,1,24,sympy:24,1.0,0,False,4,True
+196,fixed_n4,4,1052,1,1600,sympy:1600,1.0,0,False,4,True
+197,fixed_n4,4,2722,1,6,sympy:6,0.5,0,False,4,True
+198,fixed_n4,4,1535,1,10080,sympy:10080,1.0,0,False,4,True
+199,fixed_n4,4,1288,1,17,sympy:17,1.0,0,False,4,True
+200,fixed_n4,4,1580,1,40,sympy:40,0.5,0,False,4,True
+201,fixed_n4,4,2728,1,66,sympy:66,1.0,0,False,4,True
+202,fixed_n4,4,2047,1,\frac{2}{3},sympy:2/3,1.0,0,False,4,True
+203,fixed_n4,4,2195,1,12,sympy:12,1.0,0,False,4,True
+204,fixed_n4,4,2667,1,256,sympy:256,0.5,0,False,4,False
+205,fixed_n4,4,3675,1,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,1.0,0,False,4,True
+206,fixed_n4,4,1638,1,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",1.0,0,False,4,True
+207,fixed_n4,4,1393,1,28,sympy:28,1.0,0,False,4,True
+208,fixed_n4,4,1515,1,1,sympy:1,1.0,0,False,4,True
+209,fixed_n4,4,2358,1,16,sympy:16,0.25,0,False,4,True
+210,fixed_n4,4,1929,2,10,sympy:10,0.5,0,False,4,True
+211,fixed_n4,4,2661,1,5,sympy:5,1.0,0,False,4,True
+212,fixed_n4,4,1788,1,56,sympy:56,1.0,0,False,4,True
+213,fixed_n4,4,3003,1,1,sympy:1,1.0,0,False,4,False
+214,fixed_n4,4,2214,3,110,sympy:110,0.25,0,False,4,True
+215,fixed_n4,4,1580,1,2,sympy:2,1.0,0,False,4,True
+216,fixed_n4,4,1666,1,6,sympy:6,0.5,0,False,4,True
+217,fixed_n4,4,2376,1,11111111100,sympy:11111111100,1.0,1,False,3,False
+218,fixed_n4,4,1355,1,"(-1, 6)","sympy:Interval.open(-1, 6)",1.0,0,False,4,True
+219,fixed_n4,4,2370,2,\frac{1}{9},sympy:1/9,0.25,0,False,4,False
+220,fixed_n4,4,1980,1,\frac{2}{27},sympy:2/27,1.0,0,False,4,False
+221,fixed_n4,4,2237,1,900,sympy:900,1.0,0,False,4,True
+222,fixed_n4,4,2361,2,96,sympy:96,0.25,0,False,4,False
+223,fixed_n4,4,1510,2,14,sympy:14,0.25,0,False,4,True
+224,fixed_n4,4,2965,1,\frac{1}{16},sympy:1/16,0.5,0,False,4,False
+225,fixed_n4,4,1333,1,11,sympy:11,1.0,0,False,4,True
+226,fixed_n4,4,1158,1,3,sympy:3,1.0,0,False,4,True
+227,fixed_n4,4,1079,1,C,sympy:c,1.0,0,False,4,True
+228,fixed_n4,4,3947,1,6\sqrt{6},sympy:6*sqrt(6),0.0,2,True,2,False
+229,fixed_n4,4,969,1,90,sympy:90,1.0,0,False,4,True
+230,fixed_n4,4,3257,1,\frac{16}{5},sympy:16/5,0.5,0,False,4,True
+231,fixed_n4,4,3527,1,10,sympy:10,1.0,0,False,4,True
+232,fixed_n4,4,3453,1,\frac{1997}{2},sympy:1997/2,0.5,0,False,4,True
+233,fixed_n4,4,1992,1,30,sympy:30,1.0,0,False,4,True
+234,fixed_n4,4,1874,1,34,sympy:34,0.5,0,False,4,True
+235,fixed_n4,4,2512,1,\frac{5}{9},sympy:5/9,1.0,0,False,4,True
+236,fixed_n4,4,2486,2,15,sympy:15,0.25,0,False,4,False
+237,fixed_n4,4,2009,1,22,sympy:22,1.0,0,False,4,True
+238,fixed_n4,4,1909,1,-4,sympy:-4,1.0,0,False,4,True
+239,fixed_n4,4,4096,,,,,4,False,0,False
+240,fixed_n4,4,2168,1,\frac{104}{3},sympy:104/3,0.0,0,True,4,False
+241,fixed_n4,4,3344,1,17,sympy:17,1.0,0,False,4,True
+242,fixed_n4,4,1697,1,32349,sympy:32349,1.0,0,False,4,False
+243,fixed_n4,4,1159,1,3,sympy:3,1.0,0,False,4,True
+244,fixed_n4,4,3492,2,8,sympy:8,0.5,0,False,4,True
+245,fixed_n4,4,3885,1,-9x - 15,sympy:-1*9*x - 15,0.0,1,True,3,False
+246,fixed_n4,4,1007,1,8,sympy:8,0.5,0,False,4,True
+247,fixed_n4,4,1961,1,\frac{10}{11},sympy:10/11,1.0,0,False,4,True
+248,fixed_n4,4,4096,,,,,4,False,0,False
+249,fixed_n4,4,3423,1,11,sympy:11,0.3333333333333333,1,False,3,False
+250,fixed_n4,4,2365,1,13,sympy:13,1.0,0,False,4,True
+251,fixed_n4,4,2507,1,540,sympy:540,1.0,0,False,4,True
+252,fixed_n4,4,2269,1,81,sympy:81,1.0,0,False,4,True
+253,fixed_n4,4,889,1,\frac{1}{8},sympy:1/8,1.0,0,False,4,True
+254,fixed_n4,4,1776,1,28,sympy:28,1.0,0,False,4,True
+255,fixed_n4,4,1376,1,\text{E},sympy:e,1.0,0,False,4,True
+256,fixed_n4,4,1615,1,\frac{8}{21},sympy:8/21,1.0,0,False,4,True
+257,fixed_n4,4,1612,1,864,sympy:864,1.0,0,False,4,True
+258,fixed_n4,4,2125,1,16,sympy:16,1.0,0,False,4,True
+259,fixed_n4,4,1091,1,22,sympy:22,1.0,0,False,4,True
+260,fixed_n4,4,2376,1,120,sympy:120,1.0,0,False,4,True
+261,fixed_n4,4,1553,1,76,sympy:76,1.0,0,False,4,True
+262,fixed_n4,4,892,1,4,sympy:4,1.0,0,False,4,True
+263,fixed_n4,4,1507,1,15,sympy:15,1.0,0,False,4,True
+264,fixed_n4,4,2529,3,3,sympy:3,0.25,0,False,4,False
+265,fixed_n4,4,896,1,4005,sympy:4005,1.0,0,False,4,True
+266,fixed_n4,4,1889,1,\frac{33}{100},sympy:33/100,1.0,0,False,4,True
+267,fixed_n4,4,2223,1,180,sympy:180,1.0,0,False,4,True
+268,fixed_n4,4,1106,1,1,sympy:1,1.0,0,False,4,True
+269,fixed_n4,4,1363,1,6,sympy:6,1.0,0,False,4,True
+270,fixed_n4,4,1390,1,10,sympy:10,1.0,0,False,4,True
+271,fixed_n4,4,2571,1,333,sympy:333,1.0,0,False,4,True
+272,fixed_n4,4,2822,1,1030,sympy:1030,1.0,0,False,4,True
+273,fixed_n4,4,1394,1,1250,sympy:1250,1.0,0,False,4,True
+274,fixed_n4,4,1257,1,36,sympy:36,0.5,0,False,4,False
+275,fixed_n4,4,1156,1,7,sympy:7,1.0,0,False,4,True
+276,fixed_n4,4,2056,1,11,sympy:11,0.0,0,True,4,True
+277,fixed_n4,4,1288,1,\sqrt{53},sympy:sqrt(53),1.0,0,False,4,True
+278,fixed_n4,4,1726,1,255,sympy:255,1.0,0,False,4,True
+279,fixed_n4,4,2029,1,4\pi,sympy:4*pi,0.25,0,False,4,False
+280,fixed_n4,4,1418,1,8,sympy:8,1.0,0,False,4,True
+281,fixed_n4,4,2109,1,36^\circ,sympy:36,0.5,0,False,4,True
+282,fixed_n4,4,1476,1,497,sympy:497,0.5,0,False,4,False
+283,fixed_n4,4,1535,1,1,sympy:1,1.0,0,False,4,True
+284,fixed_n4,4,2212,1,"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",0.0,0,True,4,True
+285,fixed_n4,4,3601,1,314,sympy:314,0.0,2,True,2,False
+286,fixed_n4,4,3320,1,\frac{1}{2},sympy:1/2,0.0,1,True,3,False
+287,fixed_n4,4,2171,1,36,sympy:36,1.0,0,False,4,True
+288,fixed_n4,4,3810,3,\sqrt{\frac{138}{89}},sympy:sqrt(138/89),1.0,3,False,1,False
+289,fixed_n4,4,2696,1,16,sympy:16,1.0,1,False,3,True
+290,fixed_n4,4,3860,1,4,sympy:4,1.0,0,False,4,True
+291,fixed_n4,4,1398,1,63,sympy:63,0.5,0,False,4,True
+292,fixed_n4,4,3812,1,256,sympy:256,1.0,2,False,2,False
+293,fixed_n4,4,2252,1,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",1.0,0,False,4,True
+294,fixed_n4,4,2330,1,38,sympy:38,0.0,0,True,4,False
+295,fixed_n4,4,2377,3,4,sympy:4,0.25,0,False,4,False
+296,fixed_n4,4,2907,1,B,sympy:b,0.3333333333333333,1,False,3,True
+297,fixed_n4,4,2750,1,103,sympy:103,1.0,0,False,4,True
+298,fixed_n4,4,3632,1,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},sympy:-18,0.0,2,True,2,True
+299,fixed_n4,4,1501,1,63,sympy:63,1.0,0,False,4,True
+300,fixed_n4,4,1046,1,12,sympy:12,1.0,0,False,4,True
+301,fixed_n4,4,1850,3,5.4,sympy:5.40000000000000,0.25,0,False,4,True
+302,fixed_n4,4,3153,1,4,sympy:4,0.0,1,True,3,False
+303,fixed_n4,4,3399,1,21,sympy:21,1.0,0,False,4,False
+304,fixed_n4,4,3091,1,9,sympy:9,1.0,0,False,4,True
+305,fixed_n4,4,2272,1,\frac{9}{19},sympy:9/19,1.0,0,False,4,True
+306,fixed_n4,4,3170,1,3,sympy:3,0.5,0,False,4,False
+307,fixed_n4,4,2160,1,"(-\infty, 0]","sympy:Interval(-oo, 0)",1.0,0,False,4,True
+308,fixed_n4,4,3169,2,4sqrt(3)```python,sympy:4,0.0,1,True,3,False
+309,fixed_n4,4,2985,1,15,sympy:15,0.3333333333333333,1,False,3,False
+310,fixed_n4,4,1656,1,49,sympy:49,1.0,0,False,4,True
+311,fixed_n4,4,2815,1,3,sympy:3,1.0,0,False,4,True
+312,fixed_n4,4,1690,1,"(5, \infty)","sympy:Interval.open(5, oo)",1.0,0,False,4,True
+313,fixed_n4,4,1630,1,12\pi,sympy:12*pi,1.0,0,False,4,True
+314,fixed_n4,4,1326,1,"(2, 4)","sympy:Interval.open(2, 4)",1.0,0,False,4,True
+315,fixed_n4,4,1926,1,41,sympy:41,1.0,0,False,4,True
+316,fixed_n4,4,2976,1,12,sympy:12,1.0,0,False,4,True
+317,fixed_n4,4,2572,1,2,sympy:2,0.0,0,True,4,False
+318,fixed_n4,4,3010,1,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,1.0,0,False,4,True
+319,fixed_n4,4,1345,1,-128,sympy:-128,1.0,0,False,4,True
+320,fixed_n4,4,1954,1,-\frac{24}{25},sympy:-24/25,1.0,0,False,4,True
+321,fixed_n4,4,1331,1,10,sympy:10,1.0,0,False,4,True
+322,fixed_n4,4,1467,1,-1,sympy:-1,1.0,0,False,4,True
+323,fixed_n4,4,2313,1,\frac{1}{3},sympy:1/3,1.0,0,False,4,True
+324,fixed_n4,4,3360,1,120,sympy:120,0.5,0,False,4,True
+325,fixed_n4,4,1791,1,4,sympy:4,1.0,0,False,4,True
+326,fixed_n4,4,4048,3,0.09,sympy:0.0900000000000000,1.0,3,False,1,True
+327,fixed_n4,4,3989,1,35,sympy:35,0.3333333333333333,1,False,3,False
+328,fixed_n4,4,3940,3,3,sympy:3,0.0,2,True,2,True
+329,fixed_n4,4,909,1,4,sympy:4,1.0,0,False,4,True
+330,fixed_n4,4,2006,1,1940,sympy:1940,1.0,0,False,4,True
+331,fixed_n4,4,2625,1,\dfrac{13}{6},sympy:13/6,1.0,0,False,4,True
+332,fixed_n4,4,3076,3,2,sympy:2,0.25,0,False,4,True
+333,fixed_n4,4,4096,1,3,sympy:3,1.0,3,False,1,True
+334,fixed_n4,4,2018,1,-120,sympy:-120,1.0,0,False,4,True
+335,fixed_n4,4,2910,1,3,sympy:3,1.0,0,False,4,True
+336,fixed_n4,4,1086,1,26000,sympy:26000,1.0,0,False,4,True
+337,fixed_n4,4,2186,1,6,sympy:6,1.0,0,False,4,True
+338,fixed_n4,4,1258,1,4343,sympy:4343,1.0,0,False,4,True
+339,fixed_n4,4,2506,1,2k,sympy:2*k,1.0,0,False,4,True
+340,fixed_n4,4,4096,,,,,4,False,0,False
+341,fixed_n4,4,1511,1,-2,sympy:-2,1.0,0,False,4,True
+342,fixed_n4,4,1669,1,2,sympy:2,1.0,0,False,4,True
+343,fixed_n4,4,1416,1,58500,sympy:58500,1.0,0,False,4,True
+344,fixed_n4,4,1662,1,5,sympy:5,1.0,0,False,4,True
+345,fixed_n4,4,1258,1,1,sympy:1,1.0,0,False,4,True
+346,fixed_n4,4,2069,1,66,sympy:66,1.0,0,False,4,True
+347,fixed_n4,4,1536,1,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,1.0,0,False,4,True
+348,fixed_n4,4,1652,1,4495,sympy:4495,1.0,0,False,4,True
+349,fixed_n4,4,1234,1,5040,sympy:5040,0.5,0,False,4,False
+350,fixed_n4,4,1356,1,4,sympy:4,1.0,0,False,4,True
+351,fixed_n4,4,2449,1,-\frac{1}{16},sympy:-1/16,0.5,0,False,4,False
+352,fixed_n4,4,3965,2,44,sympy:44,1.0,3,False,1,False
+353,fixed_n4,4,1683,1,480,sympy:480,1.0,0,False,4,True
+354,fixed_n4,4,2463,1,81,sympy:81,0.5,0,False,4,True
+355,fixed_n4,4,2794,1,120,sympy:120,0.25,0,False,4,False
+356,fixed_n4,4,3185,1,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",1.0,0,False,4,True
+357,fixed_n4,4,1976,2,4,sympy:4,0.25,0,False,4,True
+358,fixed_n4,4,1915,2,\text{ellipse},sympy:E*E*i*l*l*p*s,0.5,0,False,4,True
+359,fixed_n4,4,3325,2,6,sympy:6,1.0,1,False,3,True
+360,fixed_n4,4,1641,1,\frac{7}{4},sympy:7/4,0.5,0,False,4,True
+361,fixed_n4,4,3258,1,16\sqrt{3},sympy:16*sqrt(3),0.3333333333333333,1,False,3,True
+362,fixed_n4,4,733,1,\frac{1}{4},sympy:1/4,1.0,0,False,4,True
+363,fixed_n4,4,1136,1,2,sympy:2,1.0,0,False,4,True
+364,fixed_n4,4,2756,1,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",1.0,0,False,4,True
+365,fixed_n4,4,2809,1,40,sympy:40,0.5,0,False,4,False
+366,fixed_n4,4,2115,1,4,sympy:4,1.0,0,False,4,True
+367,fixed_n4,4,1087,1,1,sympy:1,1.0,0,False,4,True
+368,fixed_n4,4,1239,1,31,sympy:31,1.0,0,False,4,True
+369,fixed_n4,4,1277,2,144,sympy:144,0.25,0,False,4,False
+370,fixed_n4,4,1347,1,-41,sympy:-41,1.0,0,False,4,True
+371,fixed_n4,4,3880,1,9,sympy:9,0.0,1,True,3,False
+372,fixed_n4,4,2095,1,100,sympy:100,0.0,0,True,4,False
+373,fixed_n4,4,1682,1,1+2i,sympy:2*i + 1,1.0,0,False,4,True
+374,fixed_n4,4,1086,1,4,sympy:4,1.0,0,False,4,True
+375,fixed_n4,4,2172,1,25,sympy:25,0.5,0,False,4,True
+376,fixed_n4,4,3270,1,"(8, -2)","sympy:(8, -2)",1.0,0,False,4,True
+377,fixed_n4,4,1925,1,6,sympy:6,1.0,0,False,4,True
+378,fixed_n4,4,2171,1,3,sympy:3,1.0,1,False,3,True
+379,fixed_n4,4,3068,1,9^{\text{th}},sympy:9,0.5,0,False,4,False
+380,fixed_n4,4,2987,2,"(0, 36)","sympy:Interval.open(0, 36)",0.0,2,True,2,False
+381,fixed_n4,4,4096,2,\frac{1}{2},sympy:1/2,0.3333333333333333,1,False,3,True
+382,fixed_n4,4,2830,1,\frac{20000}{\pi},sympy:20000/pi,1.0,0,False,4,True
+383,fixed_n4,4,2663,1,"[-2, 7]","sympy:Interval(-2, 7)",1.0,0,False,4,True
+384,fixed_n4,4,671,1,15x - 80,sympy:15*x - 80,1.0,0,False,4,True
+385,fixed_n4,4,2225,1,22,sympy:22,0.25,0,False,4,True
+386,fixed_n4,4,1734,1,11,sympy:11,1.0,0,False,4,True
+387,fixed_n4,4,1437,1,18,sympy:18,1.0,0,False,4,True
+388,fixed_n4,4,1557,1,\frac{11}{2},sympy:11/2,0.0,0,True,4,True
+389,fixed_n4,4,1919,2,\frac{2}{5},sympy:2/5,0.25,0,False,4,False
+390,fixed_n4,4,3605,3,12,sympy:12,0.3333333333333333,1,False,3,True
+391,fixed_n4,4,3580,1,0,sympy:0,1.0,0,False,4,True
+392,fixed_n4,4,3869,1,11,sympy:11,0.0,0,True,4,False
+393,fixed_n4,4,1777,1,\frac{3}{4},sympy:3/4,1.0,0,False,4,True
+394,fixed_n4,4,3600,1,-\frac{3}{8},sympy:-3/8,1.0,0,False,4,True
+395,fixed_n4,4,1370,1,4,sympy:4,1.0,0,False,4,True
+396,fixed_n4,4,1936,1,2,sympy:2,0.25,0,False,4,True
+397,fixed_n4,4,1428,1,23,sympy:23,1.0,0,False,4,True
+398,fixed_n4,4,3734,1,39.68,sympy:39.6800000000000,0.0,2,True,2,False
+399,fixed_n4,4,1158,1,326.5,sympy:326.500000000000,1.0,0,False,4,True
+400,fixed_n4,4,3492,1,\frac{14}{3},sympy:14/3,0.25,0,False,4,True
+401,fixed_n4,4,3863,2,3,sympy:3,1.0,2,False,2,False
+402,fixed_n4,4,1571,2,1 - 12i,sympy:-1*12*i + 1,0.5,0,False,4,True
+403,fixed_n4,4,2433,1,1,sympy:1,1.0,0,False,4,False
+404,fixed_n4,4,1484,1,3,sympy:3,1.0,0,False,4,True
+405,fixed_n4,4,2046,1,60,sympy:60,1.0,0,False,4,True
+406,fixed_n4,4,1150,1,0,sympy:0,1.0,0,False,4,True
+407,fixed_n4,4,1089,1,9,sympy:9,1.0,0,False,4,True
+408,fixed_n4,4,4096,,,,,4,False,0,False
+409,fixed_n4,4,2494,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,4,True
+410,fixed_n4,4,1652,1,6,sympy:6,1.0,0,False,4,True
+411,fixed_n4,4,721,1,60,sympy:60,1.0,0,False,4,True
+412,fixed_n4,4,3491,1,306,sympy:306,0.0,2,True,2,False
+413,fixed_n4,4,1239,1,5r^5,sympy:5*r**5,1.0,0,False,4,True
+414,fixed_n4,4,1944,1,10,sympy:10,1.0,0,False,4,True
+415,fixed_n4,4,2950,1,9,sympy:9,1.0,0,False,4,True
+416,fixed_n4,4,2241,1,\frac{1}{8},sympy:1/8,1.0,0,False,4,True
+417,fixed_n4,4,2897,1,-2,sympy:-2,1.0,0,False,4,True
+418,fixed_n4,4,2300,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,4,True
+419,fixed_n4,4,3863,1,\begin{pmatrix} -30 \\ -30 \\ 120 \end{pmatrix},sympy:-30,1.0,3,False,1,False
+420,fixed_n4,4,2165,1,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",1.0,0,False,4,False
+421,fixed_n4,4,3775,1,15,sympy:15,0.3333333333333333,1,False,3,False
+422,fixed_n4,4,3897,3,2,sympy:2,1.0,3,False,1,False
+423,fixed_n4,4,3019,1,1440,sympy:1440,0.25,0,False,4,True
+424,fixed_n4,4,1725,1,600,sympy:600,1.0,0,False,4,True
+425,fixed_n4,4,2675,1,6R^2 - \frac{1}{3}(a^2 + b^2 + c^2),sympy:6*r**2 - 1*1/3*(a**2 + b**2 + c**2),0.0,1,True,3,False
+426,fixed_n4,4,2015,1,6\sqrt{2},sympy:6*sqrt(2),1.0,0,False,4,True
+427,fixed_n4,4,1568,1,29,sympy:29,1.0,0,False,4,True
+428,fixed_n4,4,3661,2,64,sympy:64,1.0,2,False,2,True
+429,fixed_n4,4,2249,1,50,sympy:50,1.0,0,False,4,True
+430,fixed_n4,4,967,1,4.5,sympy:4.50000000000000,1.0,0,False,4,True
+431,fixed_n4,4,3158,1,"\left[ \frac{\pi^2}{8}, \frac{\pi^2}{4} \right]","sympy:Interval(pi**2/8, pi**2/4)",0.0,0,True,4,False
+432,fixed_n4,4,3900,2,0,sympy:0,0.0,1,True,3,False
+433,fixed_n4,4,2083,1,0.35625,sympy:0.356250000000000,1.0,0,False,4,True
+434,fixed_n4,4,2001,1,32,sympy:32,0.5,0,False,4,True
+435,fixed_n4,4,2403,1,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",1.0,0,False,4,True
+436,fixed_n4,4,4076,1,4,sympy:4,1.0,3,False,1,True
+437,fixed_n4,4,2263,1,3,sympy:3,1.0,0,False,4,True
+438,fixed_n4,4,1302,1,4,sympy:4,1.0,0,False,4,True
+439,fixed_n4,4,3470,1,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,1.0,1,False,3,True
+440,fixed_n4,4,1663,1,14,sympy:14,1.0,0,False,4,True
+441,fixed_n4,4,1470,1,550,sympy:550,1.0,0,False,4,True
+442,fixed_n4,4,952,1,256,sympy:256,1.0,0,False,4,True
+443,fixed_n4,4,1294,1,45,sympy:45,1.0,0,False,4,True
+444,fixed_n4,4,2718,2,\frac{1}{4},sympy:1/4,0.5,0,False,4,False
+445,fixed_n4,4,3142,2,24,sympy:24,0.0,1,True,3,False
+446,fixed_n4,4,2796,1,8,sympy:8,1.0,0,False,4,True
+447,fixed_n4,4,1549,1,9,sympy:9,0.0,0,True,4,True
+448,fixed_n4,4,3172,1,44,sympy:44,1.0,0,False,4,True
+449,fixed_n4,4,1168,1,47,sympy:47,1.0,0,False,4,True
+450,fixed_n4,4,2343,1,64,sympy:64,1.0,0,False,4,True
+451,fixed_n4,4,1984,1,\frac{639}{40},sympy:639/40,1.0,0,False,4,True
+452,fixed_n4,4,1723,1,143,sympy:143,1.0,0,False,4,True
+453,fixed_n4,4,1467,1,10,sympy:10,1.0,0,False,4,True
+454,fixed_n4,4,3908,3,y = 4x + 1,"sympy:Eq(y, 4*x + 1)",1.0,2,False,2,False
+455,fixed_n4,4,1288,1,6,sympy:6,1.0,0,False,4,True
+456,fixed_n4,4,3870,1,"1, -2","sympy:{-2, 1}",1.0,1,False,3,True
+457,fixed_n4,4,732,1,0,sympy:0,1.0,0,False,4,True
+458,fixed_n4,4,3318,1,41,sympy:41,1.0,2,False,2,True
+459,fixed_n4,4,3248,1,18.90,sympy:18.9000000000000,0.3333333333333333,1,False,3,True
+460,fixed_n4,4,2281,1,45,sympy:45,0.0,0,True,4,False
+461,fixed_n4,4,2561,1,12,sympy:12,1.0,0,False,4,True
+462,fixed_n4,4,2370,2,59,sympy:59,0.25,0,False,4,True
+463,fixed_n4,4,1336,1,2,sympy:2,1.0,0,False,4,True
+464,fixed_n4,4,3064,1,9,sympy:9,1.0,0,False,4,True
+465,fixed_n4,4,1086,1,121,sympy:121,1.0,0,False,4,True
+466,fixed_n4,4,3081,2,\frac{64\pi}{9},sympy:(64*pi)/9,0.25,0,False,4,False
+467,fixed_n4,4,1020,1,15,sympy:15,1.0,0,False,4,True
+468,fixed_n4,4,1044,1,8,sympy:8,1.0,0,False,4,True
+469,fixed_n4,4,1048,1,25,sympy:25,1.0,0,False,4,True
+470,fixed_n4,4,3806,3,937.5,sympy:937.500000000000,0.0,2,True,2,False
+471,fixed_n4,4,1020,1,84,sympy:84,1.0,0,False,4,True
+472,fixed_n4,4,1670,1,137\frac{1}{2},sympy:275/2,1.0,0,False,4,True
+473,fixed_n4,4,3155,1,7,sympy:7,1.0,0,False,4,True
+474,fixed_n4,4,2639,1,3,sympy:3,1.0,0,False,4,True
+475,fixed_n4,4,4005,2,139,sympy:139,1.0,3,False,1,False
+476,fixed_n4,4,1439,1,200,sympy:200,1.0,0,False,4,True
+477,fixed_n4,4,3561,1,2,sympy:2,0.5,0,False,4,True
+478,fixed_n4,4,2628,1,0,sympy:0,1.0,0,False,4,False
+479,fixed_n4,4,1695,1,2,sympy:2,1.0,0,False,4,True
+480,fixed_n4,4,2116,1,1,sympy:1,1.0,0,False,4,True
+481,fixed_n4,4,3516,1,2,sympy:2,0.0,2,True,2,False
+482,fixed_n4,4,2446,1,202,sympy:202,0.0,0,True,4,True
+483,fixed_n4,4,3998,1,\frac{8}{15},sympy:8/15,1.0,3,False,1,True
+484,fixed_n4,4,3146,1,10,sympy:10,1.0,0,False,4,True
+485,fixed_n4,4,3538,4,12,sympy:12,1.0,3,False,1,False
+486,fixed_n4,4,842,1,216,sympy:216,1.0,0,False,4,True
+487,fixed_n4,4,2072,1,2,sympy:2,1.0,0,False,4,True
+488,fixed_n4,4,907,1,36,sympy:36,1.0,0,False,4,True
+489,fixed_n4,4,1925,1,15,sympy:15,1.0,0,False,4,True
+490,fixed_n4,4,3799,2,18,sympy:18,0.0,2,True,2,False
+491,fixed_n4,4,2251,1,4374,sympy:4374,0.0,1,True,3,False
+492,fixed_n4,4,1957,1,y = -2x,"sympy:Eq(y, -1*2*x)",1.0,0,False,4,True
+493,fixed_n4,4,2657,1,20,sympy:20,1.0,0,False,4,True
+494,fixed_n4,4,3793,3,\frac{1}{4},sympy:1/4,0.0,2,True,2,True
+495,fixed_n4,4,2149,1,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",1.0,0,False,4,True
+496,fixed_n4,4,2346,1,\dfrac{5}{13},sympy:5/13,1.0,0,False,4,True
+497,fixed_n4,4,3332,1,\frac{3}{2},sympy:3/2,0.0,0,True,4,False
+498,fixed_n4,4,3439,1,1,sympy:1,0.0,0,True,4,False
+499,fixed_n4,4,1373,1,106,sympy:106,1.0,0,False,4,True
+0,fixed_n8,8,2485,1,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",1.0,0,False,8,True
+1,fixed_n8,8,5006,1,p - q,sympy:p - q,1.0,0,False,8,True
+2,fixed_n8,8,3903,1,\frac{14}{3},sympy:14/3,1.0,0,False,8,True
+3,fixed_n8,8,3626,1,9,sympy:9,1.0,0,False,8,True
+4,fixed_n8,8,4647,1,Evelyn,sympy:E*e*l*n*v*y,1.0,0,False,8,True
+5,fixed_n8,8,2154,1,42,sympy:42,1.0,0,False,8,True
+6,fixed_n8,8,3936,1,27,sympy:27,1.0,0,False,8,True
+7,fixed_n8,8,5559,1,90,sympy:90,0.75,0,False,8,True
+8,fixed_n8,8,3053,1,3\sqrt{13},sympy:3*sqrt(13),1.0,0,False,8,True
+9,fixed_n8,8,6657,1,1,sympy:1,0.16666666666666666,2,False,6,False
+10,fixed_n8,8,3080,1,2220,sympy:2220,1.0,0,False,8,True
+11,fixed_n8,8,7502,1,\frac{8}{63},sympy:8/63,0.16666666666666666,2,False,6,False
+12,fixed_n8,8,5497,2,284,sympy:284,0.625,0,False,8,True
+13,fixed_n8,8,1880,1,5,sympy:5,1.0,0,False,8,True
+14,fixed_n8,8,2012,1,10,sympy:10,0.75,0,False,8,False
+15,fixed_n8,8,5344,1,6 - 5i,sympy:-1*5*i + 6,0.75,0,False,8,True
+16,fixed_n8,8,2882,1,-50,sympy:-50,1.0,0,False,8,True
+17,fixed_n8,8,5124,5,\frac{\pi}{3},sympy:pi/3,0.0,0,True,8,False
+18,fixed_n8,8,3930,1,62,sympy:62,0.125,0,False,8,False
+19,fixed_n8,8,4610,1,3,sympy:3,1.0,0,False,8,True
+20,fixed_n8,8,1447,1,6+9i,sympy:9*i + 6,1.0,0,False,8,True
+21,fixed_n8,8,6422,1,13586,sympy:13586,0.0,1,True,7,False
+22,fixed_n8,8,5897,1,5,sympy:5,0.7142857142857143,1,False,7,True
+23,fixed_n8,8,5481,1,5,sympy:5,1.0,1,False,7,True
+24,fixed_n8,8,4074,1,49,sympy:49,0.25,0,False,8,False
+25,fixed_n8,8,7722,5,0,sympy:0,0.2,3,False,5,False
+26,fixed_n8,8,5451,2,576,sympy:576,0.375,0,False,8,False
+27,fixed_n8,8,2989,1,78,sympy:78,1.0,0,False,8,True
+28,fixed_n8,8,2482,1,-2 + 7i,sympy:7*i - 2,0.75,0,False,8,True
+29,fixed_n8,8,3685,1,225,sympy:225,1.0,0,False,8,True
+30,fixed_n8,8,2868,1,52,sympy:52,1.0,0,False,8,True
+31,fixed_n8,8,3633,1,11\sqrt{2},sympy:11*sqrt(2),1.0,0,False,8,True
+32,fixed_n8,8,2913,1,720,sympy:720,1.0,0,False,8,True
+33,fixed_n8,8,5885,1,\frac{81}{200},sympy:81/200,0.25,0,False,8,False
+34,fixed_n8,8,5855,1,-125,sympy:-125,1.0,0,False,8,True
+35,fixed_n8,8,3323,1,3,sympy:3,1.0,0,False,8,True
+36,fixed_n8,8,6596,1,"3, 5, 7","sympy:{3, 5, 7}",0.6666666666666666,2,False,6,True
+37,fixed_n8,8,1733,1,72,sympy:72,1.0,0,False,8,True
+38,fixed_n8,8,2067,1,2000,sympy:2000,1.0,0,False,8,True
+39,fixed_n8,8,4403,1,23,sympy:23,1.0,2,False,6,True
+40,fixed_n8,8,1937,1,12,sympy:12,1.0,0,False,8,True
+41,fixed_n8,8,4661,2,5,sympy:5,0.25,0,False,8,False
+42,fixed_n8,8,4445,1,4,sympy:4,1.0,0,False,8,True
+43,fixed_n8,8,6459,1,50 + 20\sqrt{5},sympy:20*sqrt(5) + 50,0.0,3,True,5,False
+44,fixed_n8,8,3666,1,1.25,sympy:1.25000000000000,1.0,0,False,8,True
+45,fixed_n8,8,2654,1,2,sympy:2,1.0,0,False,8,True
+46,fixed_n8,8,6183,2,6,sympy:6,0.6666666666666666,2,False,6,True
+47,fixed_n8,8,3583,1,5,sympy:5,1.0,0,False,8,True
+48,fixed_n8,8,4324,1,\frac{3}{2},sympy:3/2,0.75,0,False,8,True
+49,fixed_n8,8,2229,1,83,sympy:83,1.0,0,False,8,True
+50,fixed_n8,8,6399,1,203,sympy:203,0.5,2,False,6,True
+51,fixed_n8,8,5817,2,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,0.7142857142857143,1,False,7,True
+52,fixed_n8,8,2722,1,12,sympy:12,1.0,0,False,8,True
+53,fixed_n8,8,2705,1,-\frac{\pi}{6},sympy:-1*pi/6,1.0,0,False,8,True
+54,fixed_n8,8,2305,1,0.15,sympy:0.150000000000000,1.0,0,False,8,True
+55,fixed_n8,8,2795,1,3,sympy:3,1.0,0,False,8,True
+56,fixed_n8,8,1476,1,11,sympy:11,1.0,0,False,8,True
+57,fixed_n8,8,4655,1,16,sympy:16,1.0,0,False,8,True
+58,fixed_n8,8,1961,1,9901,sympy:9901,0.5,0,False,8,True
+59,fixed_n8,8,3619,1,5,sympy:5,1.0,0,False,8,True
+60,fixed_n8,8,7571,1,"(1, 1, 1)","sympy:(1, 1, 1)",0.0,4,True,4,False
+61,fixed_n8,8,2927,1,-256,sympy:-256,1.0,0,False,8,True
+62,fixed_n8,8,6372,1,4,sympy:4,0.42857142857142855,1,False,7,True
+63,fixed_n8,8,4228,1,9,sympy:9,1.0,0,False,8,False
+64,fixed_n8,8,6531,1,-\frac{35}{64},sympy:-35/64,0.0,3,True,5,False
+65,fixed_n8,8,1668,1,1,sympy:1,0.75,0,False,8,True
+66,fixed_n8,8,3195,1,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,1.0,0,False,8,True
+67,fixed_n8,8,2990,1,10,sympy:10,0.25,0,False,8,True
+68,fixed_n8,8,5877,1,46,sympy:46,0.125,0,False,8,True
+69,fixed_n8,8,3381,1,-1,sympy:-1,1.0,0,False,8,True
+70,fixed_n8,8,4139,1,40_9,sympy:40,1.0,0,False,8,True
+71,fixed_n8,8,3103,1,2516,sympy:2516,0.75,0,False,8,True
+72,fixed_n8,8,3016,1,3,sympy:3,1.0,0,False,8,True
+73,fixed_n8,8,2536,1,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,1.0,0,False,8,True
+74,fixed_n8,8,3766,1,\cot x,sympy:cot(x),1.0,0,False,8,True
+75,fixed_n8,8,3470,1,\frac{11}{36},sympy:11/36,1.0,0,False,8,True
+76,fixed_n8,8,2090,1,0,sympy:0,1.0,0,False,8,True
+77,fixed_n8,8,1649,1,4,sympy:4,1.0,0,False,8,True
+78,fixed_n8,8,5909,1,"(-2, 1)","sympy:Interval.open(-2, 1)",1.0,0,False,8,True
+79,fixed_n8,8,2258,1,2,sympy:2,1.0,0,False,8,True
+80,fixed_n8,8,5904,2,1,sympy:1,0.5,0,False,8,False
+81,fixed_n8,8,4454,1,3,sympy:3,1.0,0,False,8,True
+82,fixed_n8,8,3883,1,\frac{3}{4},sympy:3/4,0.25,0,False,8,False
+83,fixed_n8,8,3359,1,2,sympy:2,1.0,0,False,8,True
+84,fixed_n8,8,6459,1,-1,sympy:-1,1.0,0,False,8,True
+85,fixed_n8,8,3009,1,\sqrt{5},sympy:sqrt(5),1.0,0,False,8,True
+86,fixed_n8,8,2129,1,240,sympy:240,1.0,0,False,8,True
+87,fixed_n8,8,4843,1,1,sympy:1,1.0,0,False,8,True
+88,fixed_n8,8,7235,1,2,sympy:2,0.5714285714285714,1,False,7,True
+89,fixed_n8,8,7131,1,21,sympy:21,0.75,0,False,8,True
+90,fixed_n8,8,1840,4,15,sympy:15,0.25,0,False,8,False
+91,fixed_n8,8,2894,1,1,sympy:1,0.25,0,False,8,True
+92,fixed_n8,8,5072,1,\frac{2240}{78125},sympy:448/15625,0.625,0,False,8,True
+93,fixed_n8,8,4877,1,33,sympy:33,1.0,0,False,8,True
+94,fixed_n8,8,5325,1,70,sympy:70,0.375,0,False,8,False
+95,fixed_n8,8,5959,1,-4,sympy:-4,1.0,0,False,8,True
+96,fixed_n8,8,7684,3,-1,sympy:-1,0.0,5,True,3,False
+97,fixed_n8,8,2040,1,east,sympy:E*a*s*t,1.0,0,False,8,True
+98,fixed_n8,8,2759,1,2k + 2,sympy:2*k + 2,1.0,0,False,8,True
+99,fixed_n8,8,7529,1,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",1.0,2,False,6,False
+100,fixed_n8,8,4989,2,75,sympy:75,0.25,0,False,8,False
+101,fixed_n8,8,6838,1,1,sympy:1,0.0,2,True,6,False
+102,fixed_n8,8,2761,1,(a+5)(b+2),sympy:(a + 5)*(b + 2),1.0,0,False,8,True
+103,fixed_n8,8,7912,4,"(1, 3)","sympy:Interval.open(1, 3)",0.2,3,False,5,False
+104,fixed_n8,8,5937,4,40,sympy:40,0.14285714285714285,1,False,7,True
+105,fixed_n8,8,2346,4,18,sympy:18,0.0,0,True,8,False
+106,fixed_n8,8,2760,1,\frac{4}{3},sympy:4/3,1.0,0,False,8,True
+107,fixed_n8,8,3549,1,9,sympy:9,1.0,0,False,8,True
+108,fixed_n8,8,6217,1,2,sympy:2,1.0,1,False,7,True
+109,fixed_n8,8,7828,2,30,sympy:30,0.0,5,True,3,False
+110,fixed_n8,8,8182,2,3,sympy:3,0.0,6,True,2,False
+111,fixed_n8,8,5223,1,210,sympy:210,1.0,1,False,7,True
+112,fixed_n8,8,4237,1,13,sympy:13,1.0,0,False,8,True
+113,fixed_n8,8,2498,1,8000,sympy:8000,1.0,0,False,8,True
+114,fixed_n8,8,5220,1,-5,sympy:-5,1.0,0,False,8,True
+115,fixed_n8,8,3941,5,30240,sympy:30240,0.25,0,False,8,False
+116,fixed_n8,8,2513,1,2,sympy:2,1.0,0,False,8,True
+117,fixed_n8,8,2785,1,3,sympy:3,1.0,0,False,8,True
+118,fixed_n8,8,7669,1,81,sympy:81,1.0,4,False,4,True
+119,fixed_n8,8,4168,1,-9,sympy:-9,0.125,0,False,8,True
+120,fixed_n8,8,4410,1,\text{odd},sympy:dd*o,0.25,0,False,8,False
+121,fixed_n8,8,2691,1,6,sympy:6,1.0,0,False,8,True
+122,fixed_n8,8,2793,1,9,sympy:9,1.0,0,False,8,True
+123,fixed_n8,8,7772,2,6,sympy:6,0.6,3,False,5,False
+124,fixed_n8,8,5769,1,\frac{11}{2},sympy:11/2,1.0,0,False,8,True
+125,fixed_n8,8,3248,1,-3,sympy:-3,1.0,0,False,8,True
+126,fixed_n8,8,7237,3,2+i,sympy:i + 2,0.3333333333333333,5,False,3,False
+127,fixed_n8,8,3125,1,4210,sympy:4210,1.0,0,False,8,True
+128,fixed_n8,8,1695,1,36,sympy:36,0.75,0,False,8,True
+129,fixed_n8,8,6127,1,48,sympy:48,0.125,0,False,8,False
+130,fixed_n8,8,3492,1,13,sympy:13,1.0,0,False,8,True
+131,fixed_n8,8,4383,1,8,sympy:8,1.0,0,False,8,True
+132,fixed_n8,8,2983,1,4,sympy:4,1.0,0,False,8,True
+133,fixed_n8,8,3215,1,120,sympy:120,0.75,0,False,8,True
+134,fixed_n8,8,5078,1,16,sympy:16,1.0,0,False,8,True
+135,fixed_n8,8,3682,1,9,sympy:9,1.0,0,False,8,True
+136,fixed_n8,8,7749,2,64,sympy:64,1.0,5,False,3,True
+137,fixed_n8,8,4201,1,204_5,sympy:204,1.0,0,False,8,True
+138,fixed_n8,8,5906,2,\frac{1}{6},sympy:1/6,0.14285714285714285,1,False,7,False
+139,fixed_n8,8,6229,2,1,sympy:1,1.0,1,False,7,True
+140,fixed_n8,8,4244,1,13,sympy:13,1.0,0,False,8,True
+141,fixed_n8,8,2032,1,2,sympy:2,0.75,0,False,8,True
+142,fixed_n8,8,3547,1,3456000,sympy:3456000,0.25,0,False,8,False
+143,fixed_n8,8,5521,1,3\sqrt{5},sympy:3*sqrt(5),1.0,0,False,8,True
+144,fixed_n8,8,1973,1,"(15, -29)","sympy:(15, -29)",1.0,0,False,8,True
+145,fixed_n8,8,5741,1,-2,sympy:-2,0.75,0,False,8,True
+146,fixed_n8,8,3299,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,8,True
+147,fixed_n8,8,7028,3,12,sympy:12,0.3333333333333333,2,False,6,False
+148,fixed_n8,8,2299,1,11,sympy:11,1.0,0,False,8,True
+149,fixed_n8,8,6023,1,49,sympy:49,0.75,0,False,8,True
+150,fixed_n8,8,7875,6,3,sympy:3,1.0,7,False,1,False
+151,fixed_n8,8,5448,2,144,sympy:144,0.25,0,False,8,True
+152,fixed_n8,8,5907,1,16,sympy:16,0.0,0,True,8,False
+153,fixed_n8,8,4260,1,\frac{2}{21},sympy:2/21,1.0,0,False,8,True
+154,fixed_n8,8,3902,3,2\sqrt{41},sympy:2*sqrt(41),0.0,0,True,8,False
+155,fixed_n8,8,3046,1,\frac{1}{4},sympy:1/4,1.0,0,False,8,True
+156,fixed_n8,8,7664,1,90,sympy:90,0.4,3,False,5,False
+157,fixed_n8,8,2756,1,\frac{6}{5},sympy:6/5,1.0,0,False,8,True
+158,fixed_n8,8,5677,1,2107,sympy:2107,1.0,0,False,8,True
+159,fixed_n8,8,3306,1,3.21,sympy:3.21000000000000,1.0,0,False,8,True
+160,fixed_n8,8,3445,1,18,sympy:18,0.75,0,False,8,True
+161,fixed_n8,8,2269,1,6,sympy:6,1.0,0,False,8,True
+162,fixed_n8,8,6010,1,\frac{17}{50},sympy:17/50,1.0,0,False,8,True
+163,fixed_n8,8,4169,1,-\frac{323}{9},sympy:-323/9,0.125,0,False,8,False
+164,fixed_n8,8,6430,3,\sqrt{3},sympy:sqrt(3),0.0,2,True,6,False
+165,fixed_n8,8,2806,2,\frac{4}{9},sympy:4/9,0.625,0,False,8,True
+166,fixed_n8,8,4999,1,\(\boxed{\frac{270}{7}}\)  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \],sympy:270/7,0.75,0,False,8,True
+167,fixed_n8,8,1744,1,65,sympy:65,1.0,0,False,8,True
+168,fixed_n8,8,6635,3,10,sympy:10,0.125,0,False,8,False
+169,fixed_n8,8,2834,1,12,sympy:12,1.0,0,False,8,True
+170,fixed_n8,8,7117,6,20,sympy:20,0.25,4,False,4,False
+171,fixed_n8,8,3229,1,\frac{13}{15},sympy:13/15,1.0,0,False,8,True
+172,fixed_n8,8,3380,1,350,sympy:350,1.0,0,False,8,True
+173,fixed_n8,8,5872,1,4,sympy:4,1.0,0,False,8,True
+174,fixed_n8,8,4497,1,2,sympy:2,1.0,0,False,8,True
+175,fixed_n8,8,6815,1,3,sympy:3,1.0,1,False,7,True
+176,fixed_n8,8,2937,1,0.0000672,sympy:6.72000000000000e-5,0.625,0,False,8,True
+177,fixed_n8,8,3256,1,60,sympy:60,0.5714285714285714,1,False,7,False
+178,fixed_n8,8,1856,1,60,sympy:60,1.0,0,False,8,True
+179,fixed_n8,8,7324,1,-5x + 7y - 11z - 4 = 0,"sympy:Eq(-1*5*x + 7*y - 1*11*z - 4, 0)",0.0,2,True,6,True
+180,fixed_n8,8,4146,2,2,sympy:2,0.25,0,False,8,False
+181,fixed_n8,8,3043,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,8,True
+182,fixed_n8,8,1964,1,1251,sympy:1251,1.0,0,False,8,True
+183,fixed_n8,8,5829,1,23,sympy:23,1.0,0,False,8,True
+184,fixed_n8,8,6818,4,"[3, \infty)","sympy:Interval(3, oo)",0.125,0,False,8,False
+185,fixed_n8,8,1877,1,1,sympy:1,1.0,0,False,8,True
+186,fixed_n8,8,3917,1,7,sympy:7,0.5,0,False,8,True
+187,fixed_n8,8,3171,1,7,sympy:7,1.0,0,False,8,True
+188,fixed_n8,8,7940,4,2,sympy:2,0.0,6,True,2,False
+189,fixed_n8,8,8086,2,130,sympy:130,0.0,3,True,5,False
+190,fixed_n8,8,5460,3,\frac{13}{18},sympy:13/18,0.25,0,False,8,True
+191,fixed_n8,8,2089,1,0,sympy:0,1.0,0,False,8,True
+192,fixed_n8,8,4105,1,30,sympy:30,1.0,0,False,8,True
+193,fixed_n8,8,2988,1,4,sympy:4,1.0,0,False,8,True
+194,fixed_n8,8,5925,1,\frac{1}{4},sympy:1/4,0.375,0,False,8,True
+195,fixed_n8,8,3282,1,24,sympy:24,1.0,1,False,7,True
+196,fixed_n8,8,2166,1,1600,sympy:1600,1.0,0,False,8,True
+197,fixed_n8,8,5944,1,6,sympy:6,0.75,0,False,8,True
+198,fixed_n8,8,3081,1,10080,sympy:10080,1.0,0,False,8,True
+199,fixed_n8,8,2508,1,17,sympy:17,1.0,0,False,8,True
+200,fixed_n8,8,3843,1,40,sympy:40,0.75,0,False,8,True
+201,fixed_n8,8,5138,1,66,sympy:66,1.0,0,False,8,True
+202,fixed_n8,8,3817,1,\frac{2}{3},sympy:2/3,1.0,0,False,8,True
+203,fixed_n8,8,4241,1,12,sympy:12,1.0,0,False,8,True
+204,fixed_n8,8,5584,1,256,sympy:256,0.25,0,False,8,False
+205,fixed_n8,8,7370,1,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,1.0,0,False,8,True
+206,fixed_n8,8,3336,1,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",1.0,0,False,8,True
+207,fixed_n8,8,2717,1,28,sympy:28,1.0,0,False,8,True
+208,fixed_n8,8,2989,1,1,sympy:1,1.0,0,False,8,True
+209,fixed_n8,8,4311,1,16,sympy:16,0.625,0,False,8,True
+210,fixed_n8,8,4536,2,10,sympy:10,0.75,0,False,8,True
+211,fixed_n8,8,3761,1,5,sympy:5,1.0,0,False,8,True
+212,fixed_n8,8,3631,1,56,sympy:56,1.0,0,False,8,True
+213,fixed_n8,8,6360,1,1,sympy:1,1.0,0,False,8,False
+214,fixed_n8,8,4369,3,110,sympy:110,0.375,0,False,8,True
+215,fixed_n8,8,3076,1,2,sympy:2,1.0,0,False,8,True
+216,fixed_n8,8,3216,1,6,sympy:6,0.75,0,False,8,True
+217,fixed_n8,8,4164,1,11111111100,sympy:11111111100,1.0,1,False,7,False
+218,fixed_n8,8,2502,1,"(-1, 6)","sympy:Interval.open(-1, 6)",1.0,0,False,8,True
+219,fixed_n8,8,4398,2,\frac{1}{9},sympy:1/9,0.25,0,False,8,False
+220,fixed_n8,8,3189,1,\frac{2}{27},sympy:2/27,0.375,0,False,8,False
+221,fixed_n8,8,4217,1,900,sympy:900,1.0,0,False,8,True
+222,fixed_n8,8,4188,3,150,sympy:150,0.125,0,False,8,False
+223,fixed_n8,8,3071,2,14,sympy:14,0.125,0,False,8,True
+224,fixed_n8,8,6302,1,\frac{1}{16},sympy:1/16,0.375,0,False,8,False
+225,fixed_n8,8,2657,1,11,sympy:11,1.0,0,False,8,True
+226,fixed_n8,8,2376,1,3,sympy:3,1.0,0,False,8,True
+227,fixed_n8,8,2155,1,C,sympy:c,1.0,0,False,8,True
+228,fixed_n8,8,7780,3,6,sympy:6,0.25,4,False,4,False
+229,fixed_n8,8,2056,1,90,sympy:90,1.0,0,False,8,True
+230,fixed_n8,8,6360,1,\frac{16}{5},sympy:16/5,0.5,0,False,8,True
+231,fixed_n8,8,6779,1,10,sympy:10,1.0,0,False,8,True
+232,fixed_n8,8,6630,1,\frac{1997}{2},sympy:1997/2,0.5714285714285714,1,False,7,True
+233,fixed_n8,8,3819,1,30,sympy:30,1.0,0,False,8,True
+234,fixed_n8,8,3398,1,34,sympy:34,0.625,0,False,8,True
+235,fixed_n8,8,4943,1,\frac{5}{9},sympy:5/9,1.0,0,False,8,True
+236,fixed_n8,8,5525,1,12,sympy:12,0.0,0,True,8,True
+237,fixed_n8,8,4316,1,22,sympy:22,1.0,0,False,8,True
+238,fixed_n8,8,3983,1,-4,sympy:-4,1.0,0,False,8,True
+239,fixed_n8,8,8192,,,,,8,False,0,False
+240,fixed_n8,8,4046,2,60,sympy:60,0.0,0,True,8,False
+241,fixed_n8,8,7036,1,17,sympy:17,1.0,0,False,8,True
+242,fixed_n8,8,3657,1,32349,sympy:32349,0.75,0,False,8,False
+243,fixed_n8,8,2309,1,3,sympy:3,1.0,0,False,8,True
+244,fixed_n8,8,6910,2,8,sympy:8,0.75,0,False,8,True
+245,fixed_n8,8,7367,6,-10x,sympy:-1*10*x,0.14285714285714285,1,False,7,False
+246,fixed_n8,8,2025,1,8,sympy:8,0.25,0,False,8,True
+247,fixed_n8,8,4050,1,\frac{10}{11},sympy:10/11,1.0,0,False,8,True
+248,fixed_n8,8,8192,,,,,8,False,0,False
+249,fixed_n8,8,6724,1,11,sympy:11,0.16666666666666666,2,False,6,False
+250,fixed_n8,8,4805,1,13,sympy:13,0.75,0,False,8,True
+251,fixed_n8,8,5600,1,540,sympy:540,1.0,0,False,8,True
+252,fixed_n8,8,4596,1,81,sympy:81,1.0,0,False,8,True
+253,fixed_n8,8,1810,1,\frac{1}{8},sympy:1/8,1.0,0,False,8,True
+254,fixed_n8,8,3368,1,28,sympy:28,1.0,0,False,8,True
+255,fixed_n8,8,2790,1,\text{E},sympy:e,1.0,0,False,8,True
+256,fixed_n8,8,4408,1,\frac{8}{21},sympy:8/21,1.0,0,False,8,True
+257,fixed_n8,8,3056,1,864,sympy:864,1.0,0,False,8,True
+258,fixed_n8,8,4211,1,16,sympy:16,1.0,0,False,8,True
+259,fixed_n8,8,2209,1,22,sympy:22,1.0,0,False,8,True
+260,fixed_n8,8,4688,1,120,sympy:120,1.0,0,False,8,True
+261,fixed_n8,8,3031,1,76,sympy:76,1.0,0,False,8,True
+262,fixed_n8,8,1843,1,4,sympy:4,1.0,0,False,8,True
+263,fixed_n8,8,3007,1,15,sympy:15,1.0,0,False,8,True
+264,fixed_n8,8,4732,3,3,sympy:3,0.125,0,False,8,False
+265,fixed_n8,8,2169,1,4005,sympy:4005,1.0,0,False,8,True
+266,fixed_n8,8,3723,1,\frac{33}{100},sympy:33/100,0.75,0,False,8,True
+267,fixed_n8,8,5288,1,180,sympy:180,0.75,0,False,8,True
+268,fixed_n8,8,2042,1,1,sympy:1,1.0,0,False,8,True
+269,fixed_n8,8,2858,1,6,sympy:6,1.0,0,False,8,True
+270,fixed_n8,8,2835,1,10,sympy:10,1.0,0,False,8,True
+271,fixed_n8,8,4593,1,333,sympy:333,1.0,0,False,8,True
+272,fixed_n8,8,5380,1,1030,sympy:1030,0.75,0,False,8,True
+273,fixed_n8,8,2667,1,1250,sympy:1250,1.0,0,False,8,True
+274,fixed_n8,8,2739,1,36,sympy:36,0.25,0,False,8,False
+275,fixed_n8,8,2349,1,7,sympy:7,1.0,0,False,8,True
+276,fixed_n8,8,4570,3,21,sympy:21,0.25,0,False,8,False
+277,fixed_n8,8,2113,1,\sqrt{53},sympy:sqrt(53),1.0,0,False,8,True
+278,fixed_n8,8,3428,1,255,sympy:255,1.0,0,False,8,True
+279,fixed_n8,8,3870,4,7\pi,sympy:7*pi,0.375,0,False,8,True
+280,fixed_n8,8,3044,1,8,sympy:8,1.0,0,False,8,True
+281,fixed_n8,8,4435,1,36^\circ,sympy:36,0.375,0,False,8,True
+282,fixed_n8,8,2965,1,497,sympy:497,0.5,0,False,8,False
+283,fixed_n8,8,3232,1,1,sympy:1,1.0,0,False,8,True
+284,fixed_n8,8,4392,1,"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",0.125,0,False,8,True
+285,fixed_n8,8,7697,1,314,sympy:314,0.0,6,True,2,False
+286,fixed_n8,8,6596,1,\frac{1}{2},sympy:1/2,0.2857142857142857,1,False,7,False
+287,fixed_n8,8,4785,1,36,sympy:36,1.0,0,False,8,True
+288,fixed_n8,8,7511,3,\sqrt{\frac{138}{89}},sympy:sqrt(138/89),0.0,4,True,4,False
+289,fixed_n8,8,5259,1,16,sympy:16,1.0,1,False,7,True
+290,fixed_n8,8,7580,1,4,sympy:4,1.0,0,False,8,True
+291,fixed_n8,8,2866,1,63,sympy:63,0.5,0,False,8,True
+292,fixed_n8,8,7738,1,256,sympy:256,0.3333333333333333,5,False,3,False
+293,fixed_n8,8,4318,1,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",1.0,0,False,8,True
+294,fixed_n8,8,5680,4,58,sympy:58,0.42857142857142855,1,False,7,True
+295,fixed_n8,8,6036,3,4,sympy:4,0.42857142857142855,1,False,7,False
+296,fixed_n8,8,5916,4,E,sympy:e,0.14285714285714285,1,False,7,False
+297,fixed_n8,8,5557,1,103,sympy:103,1.0,0,False,8,True
+298,fixed_n8,8,7611,1,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},sympy:-18,0.5,4,False,4,True
+299,fixed_n8,8,2881,1,63,sympy:63,0.75,0,False,8,True
+300,fixed_n8,8,2035,1,12,sympy:12,1.0,0,False,8,True
+301,fixed_n8,8,3689,1,5.5,sympy:5.50000000000000,0.25,0,False,8,False
+302,fixed_n8,8,5733,1,4,sympy:4,0.16666666666666666,2,False,6,False
+303,fixed_n8,8,6635,1,21,sympy:21,0.75,0,False,8,False
+304,fixed_n8,8,6900,1,9,sympy:9,1.0,2,False,6,True
+305,fixed_n8,8,4578,1,\frac{9}{19},sympy:9/19,1.0,0,False,8,True
+306,fixed_n8,8,6194,1,3,sympy:3,0.125,0,False,8,False
+307,fixed_n8,8,4189,1,"(-\infty, 0]","sympy:Interval(-oo, 0)",1.0,0,False,8,True
+308,fixed_n8,8,6333,7,\frac{15\sqrt{3}}{4},sympy:(15*sqrt(3))/4,0.16666666666666666,2,False,6,False
+309,fixed_n8,8,4842,1,15,sympy:15,0.5714285714285714,1,False,7,False
+310,fixed_n8,8,3275,1,49,sympy:49,1.0,0,False,8,True
+311,fixed_n8,8,5422,1,3,sympy:3,1.0,0,False,8,True
+312,fixed_n8,8,3618,1,"(5, \infty)","sympy:Interval.open(5, oo)",1.0,0,False,8,True
+313,fixed_n8,8,3424,1,12\pi,sympy:12*pi,1.0,0,False,8,True
+314,fixed_n8,8,2708,1,"(2, 4)","sympy:Interval.open(2, 4)",1.0,0,False,8,True
+315,fixed_n8,8,4102,1,41,sympy:41,1.0,0,False,8,True
+316,fixed_n8,8,5706,1,12,sympy:12,1.0,0,False,8,True
+317,fixed_n8,8,5052,1,2,sympy:2,0.0,0,True,8,False
+318,fixed_n8,8,5459,1,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,1.0,0,False,8,True
+319,fixed_n8,8,2707,1,-128,sympy:-128,1.0,0,False,8,True
+320,fixed_n8,8,3817,1,-\frac{24}{25},sympy:-24/25,1.0,0,False,8,True
+321,fixed_n8,8,2587,1,10,sympy:10,0.75,0,False,8,True
+322,fixed_n8,8,2731,1,-1,sympy:-1,1.0,0,False,8,True
+323,fixed_n8,8,4389,1,\frac{1}{3},sympy:1/3,1.0,0,False,8,True
+324,fixed_n8,8,6942,1,120,sympy:120,0.5,2,False,6,True
+325,fixed_n8,8,3654,1,4,sympy:4,1.0,0,False,8,True
+326,fixed_n8,8,8125,3,0.09,sympy:0.0900000000000000,0.0,6,True,2,True
+327,fixed_n8,8,8085,1,35,sympy:35,0.25,4,False,4,False
+328,fixed_n8,8,6523,3,3,sympy:3,0.16666666666666666,2,False,6,True
+329,fixed_n8,8,1808,1,4,sympy:4,1.0,0,False,8,True
+330,fixed_n8,8,4167,1,1940,sympy:1940,1.0,0,False,8,True
+331,fixed_n8,8,5428,1,\dfrac{13}{6},sympy:13/6,0.5,0,False,8,True
+332,fixed_n8,8,6677,3,2,sympy:2,0.125,0,False,8,True
+333,fixed_n8,8,7818,1,3,sympy:3,1.0,5,False,3,True
+334,fixed_n8,8,3859,1,-120,sympy:-120,1.0,0,False,8,True
+335,fixed_n8,8,5823,1,3,sympy:3,1.0,0,False,8,True
+336,fixed_n8,8,2102,1,26000,sympy:26000,1.0,0,False,8,True
+337,fixed_n8,8,3848,1,6,sympy:6,1.0,0,False,8,True
+338,fixed_n8,8,2579,1,4343,sympy:4343,1.0,0,False,8,True
+339,fixed_n8,8,5141,1,2k,sympy:2*k,0.625,0,False,8,True
+340,fixed_n8,8,8192,,,,,8,False,0,False
+341,fixed_n8,8,3672,1,-2,sympy:-2,1.0,0,False,8,True
+342,fixed_n8,8,3063,1,2,sympy:2,1.0,0,False,8,True
+343,fixed_n8,8,2821,1,58500,sympy:58500,1.0,0,False,8,True
+344,fixed_n8,8,3337,1,5,sympy:5,1.0,0,False,8,True
+345,fixed_n8,8,2355,1,1,sympy:1,1.0,0,False,8,True
+346,fixed_n8,8,3826,1,66,sympy:66,1.0,0,False,8,True
+347,fixed_n8,8,3238,1,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,1.0,0,False,8,True
+348,fixed_n8,8,3411,1,4495,sympy:4495,1.0,0,False,8,True
+349,fixed_n8,8,3303,1,5040,sympy:5040,0.0,0,True,8,False
+350,fixed_n8,8,2713,1,4,sympy:4,1.0,0,False,8,True
+351,fixed_n8,8,5249,1,-\frac{1}{16},sympy:-1/16,0.2857142857142857,1,False,7,False
+352,fixed_n8,8,7767,2,44,sympy:44,0.25,4,False,4,False
+353,fixed_n8,8,3862,1,480,sympy:480,1.0,0,False,8,True
+354,fixed_n8,8,4249,1,81,sympy:81,0.75,0,False,8,True
+355,fixed_n8,8,5128,1,120,sympy:120,0.25,0,False,8,False
+356,fixed_n8,8,6460,1,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",1.0,0,False,8,True
+357,fixed_n8,8,3977,2,4,sympy:4,0.625,0,False,8,True
+358,fixed_n8,8,3728,1,\text{circle},sympy:E*c*c*i*l*r,0.0,0,True,8,False
+359,fixed_n8,8,6889,2,6,sympy:6,1.0,3,False,5,True
+360,fixed_n8,8,3395,1,\frac{7}{4},sympy:7/4,0.5,0,False,8,True
+361,fixed_n8,8,5841,1,16\sqrt{3},sympy:16*sqrt(3),0.42857142857142855,1,False,7,True
+362,fixed_n8,8,1476,1,\frac{1}{4},sympy:1/4,1.0,0,False,8,True
+363,fixed_n8,8,2200,1,2,sympy:2,1.0,0,False,8,True
+364,fixed_n8,8,5516,1,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",1.0,0,False,8,True
+365,fixed_n8,8,6342,1,40,sympy:40,0.375,0,False,8,False
+366,fixed_n8,8,3869,1,4,sympy:4,1.0,0,False,8,True
+367,fixed_n8,8,2083,1,1,sympy:1,1.0,0,False,8,True
+368,fixed_n8,8,2245,1,31,sympy:31,1.0,0,False,8,True
+369,fixed_n8,8,2596,2,144,sympy:144,0.25,0,False,8,False
+370,fixed_n8,8,2761,1,-41,sympy:-41,1.0,0,False,8,True
+371,fixed_n8,8,7385,1,9,sympy:9,0.2,3,False,5,False
+372,fixed_n8,8,4263,3,70,sympy:70,0.125,0,False,8,False
+373,fixed_n8,8,3451,1,1+2i,sympy:2*i + 1,1.0,0,False,8,True
+374,fixed_n8,8,2031,1,4,sympy:4,1.0,0,False,8,True
+375,fixed_n8,8,4197,1,25,sympy:25,0.75,0,False,8,True
+376,fixed_n8,8,6814,1,"(8, -2)","sympy:(8, -2)",0.75,0,False,8,True
+377,fixed_n8,8,3662,1,6,sympy:6,0.75,0,False,8,True
+378,fixed_n8,8,4435,1,3,sympy:3,0.7142857142857143,1,False,7,True
+379,fixed_n8,8,6043,1,9^{\text{th}},sympy:9,0.0,0,True,8,False
+380,fixed_n8,8,5940,4,"(0, 9) \cup (9, 36)","sympy:Union(Interval.open(0, 9), Interval.open(9, 36))",0.16666666666666666,2,False,6,True
+381,fixed_n8,8,7359,2,\frac{1}{2},sympy:1/2,0.3333333333333333,2,False,6,True
+382,fixed_n8,8,5320,1,\frac{20000}{\pi},sympy:20000/pi,0.625,0,False,8,True
+383,fixed_n8,8,5523,1,"[-2, 7]","sympy:Interval(-2, 7)",1.0,0,False,8,True
+384,fixed_n8,8,1384,1,15x - 80,sympy:15*x - 80,1.0,0,False,8,True
+385,fixed_n8,8,4066,1,22,sympy:22,0.375,0,False,8,True
+386,fixed_n8,8,3100,1,11,sympy:11,1.0,0,False,8,True
+387,fixed_n8,8,2914,1,18,sympy:18,1.0,0,False,8,True
+388,fixed_n8,8,3165,3,5.5,sympy:5.50000000000000,0.25,0,False,8,True
+389,fixed_n8,8,4008,3,\frac{\sqrt{21}}{5},sympy:sqrt(21)/5,0.125,0,False,8,True
+390,fixed_n8,8,7249,3,12,sympy:12,0.5714285714285714,1,False,7,True
+391,fixed_n8,8,7071,1,0,sympy:0,0.75,0,False,8,True
+392,fixed_n8,8,7730,3,10,sympy:10,0.25,0,False,8,False
+393,fixed_n8,8,3579,1,\frac{3}{4},sympy:3/4,1.0,0,False,8,True
+394,fixed_n8,8,7414,1,-\frac{3}{8},sympy:-3/8,0.2857142857142857,1,False,7,True
+395,fixed_n8,8,2655,1,4,sympy:4,1.0,0,False,8,True
+396,fixed_n8,8,4040,1,2,sympy:2,0.5,0,False,8,True
+397,fixed_n8,8,2932,1,23,sympy:23,1.0,0,False,8,True
+398,fixed_n8,8,6720,1,39.68,sympy:39.6800000000000,0.5,2,False,6,False
+399,fixed_n8,8,2490,1,326.5,sympy:326.500000000000,1.0,0,False,8,True
+400,fixed_n8,8,5482,1,\frac{14}{3},sympy:14/3,0.125,0,False,8,True
+401,fixed_n8,8,7774,2,3,sympy:3,1.0,4,False,4,False
+402,fixed_n8,8,3387,2,1 - 12i,sympy:-1*12*i + 1,0.75,0,False,8,True
+403,fixed_n8,8,4760,1,1,sympy:1,0.75,0,False,8,False
+404,fixed_n8,8,3501,1,3,sympy:3,1.0,0,False,8,True
+405,fixed_n8,8,3655,1,60,sympy:60,1.0,0,False,8,True
+406,fixed_n8,8,2239,1,0,sympy:0,1.0,0,False,8,True
+407,fixed_n8,8,2182,1,9,sympy:9,1.0,0,False,8,True
+408,fixed_n8,8,8192,,,,,8,False,0,False
+409,fixed_n8,8,5629,1,2\sqrt{5},sympy:2*sqrt(5),0.75,0,False,8,True
+410,fixed_n8,8,3263,1,6,sympy:6,1.0,0,False,8,True
+411,fixed_n8,8,1514,1,60,sympy:60,1.0,0,False,8,True
+412,fixed_n8,8,7575,2,338.5,sympy:338.500000000000,0.3333333333333333,5,False,3,False
+413,fixed_n8,8,2474,1,5r^5,sympy:5*r**5,1.0,0,False,8,True
+414,fixed_n8,8,4090,1,10,sympy:10,1.0,0,False,8,True
+415,fixed_n8,8,6116,1,9,sympy:9,1.0,0,False,8,True
+416,fixed_n8,8,4535,1,\frac{1}{8},sympy:1/8,0.75,0,False,8,True
+417,fixed_n8,8,4721,1,-2,sympy:-2,0.75,0,False,8,True
+418,fixed_n8,8,4004,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,8,True
+419,fixed_n8,8,7422,1,\begin{pmatrix} -30 \\ -30 \\ 120 \end{pmatrix},sympy:-30,1.0,5,False,3,False
+420,fixed_n8,8,4226,1,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",1.0,0,False,8,False
+421,fixed_n8,8,7698,1,15,sympy:15,0.0,3,True,5,False
+422,fixed_n8,8,7993,3,2,sympy:2,1.0,7,False,1,False
+423,fixed_n8,8,6580,1,1440,sympy:1440,0.375,0,False,8,True
+424,fixed_n8,8,3491,1,600,sympy:600,1.0,0,False,8,True
+425,fixed_n8,8,5851,2,\frac{a^2 + b^2 + c^2}{3},sympy:(a**2 + b**2 + c**2)/3,0.14285714285714285,1,False,7,False
+426,fixed_n8,8,3971,1,6\sqrt{2},sympy:6*sqrt(2),1.0,0,False,8,True
+427,fixed_n8,8,3186,1,29,sympy:29,1.0,0,False,8,True
+428,fixed_n8,8,7456,2,64,sympy:64,0.6666666666666666,2,False,6,True
+429,fixed_n8,8,4671,1,50,sympy:50,0.75,0,False,8,True
+430,fixed_n8,8,1870,1,4.5,sympy:4.50000000000000,1.0,0,False,8,True
+431,fixed_n8,8,6461,2,"\left[ \frac{\pi^2}{8}, \frac{3\pi^2}{4} \right]","sympy:Interval(pi**2/8, (3*pi**2)/4)",0.125,0,False,8,False
+432,fixed_n8,8,7813,2,0,sympy:0,0.4,3,False,5,False
+433,fixed_n8,8,4413,1,0.35625,sympy:0.356250000000000,1.0,0,False,8,True
+434,fixed_n8,8,4206,1,32,sympy:32,0.75,0,False,8,True
+435,fixed_n8,8,4976,1,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",1.0,0,False,8,True
+436,fixed_n8,8,8172,1,4,sympy:4,1.0,7,False,1,True
+437,fixed_n8,8,3876,1,3,sympy:3,1.0,0,False,8,True
+438,fixed_n8,8,2198,1,4,sympy:4,1.0,0,False,8,True
+439,fixed_n8,8,6675,1,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,1.0,1,False,7,True
+440,fixed_n8,8,3240,1,14,sympy:14,1.0,0,False,8,True
+441,fixed_n8,8,2818,1,550,sympy:550,1.0,0,False,8,True
+442,fixed_n8,8,2062,1,256,sympy:256,1.0,0,False,8,True
+443,fixed_n8,8,2573,1,45,sympy:45,1.0,0,False,8,True
+444,fixed_n8,8,5263,2,\frac{1}{4},sympy:1/4,0.375,0,False,8,False
+445,fixed_n8,8,7095,2,24,sympy:24,0.0,4,True,4,False
+446,fixed_n8,8,5420,1,8,sympy:8,0.75,0,False,8,True
+447,fixed_n8,8,3151,1,9,sympy:9,0.25,0,False,8,True
+448,fixed_n8,8,6040,1,44,sympy:44,1.0,0,False,8,True
+449,fixed_n8,8,2238,1,47,sympy:47,1.0,0,False,8,True
+450,fixed_n8,8,4694,1,64,sympy:64,1.0,0,False,8,True
+451,fixed_n8,8,3663,1,\frac{639}{40},sympy:639/40,1.0,0,False,8,True
+452,fixed_n8,8,3451,1,143,sympy:143,1.0,0,False,8,True
+453,fixed_n8,8,3317,1,10,sympy:10,1.0,0,False,8,True
+454,fixed_n8,8,8004,3,y = 4x + 1,"sympy:Eq(y, 4*x + 1)",1.0,6,False,2,False
+455,fixed_n8,8,2659,1,6,sympy:6,1.0,0,False,8,True
+456,fixed_n8,8,7749,1,"1, -2","sympy:{-2, 1}",1.0,2,False,6,True
+457,fixed_n8,8,1536,1,0,sympy:0,1.0,0,False,8,True
+458,fixed_n8,8,5898,1,41,sympy:41,0.5,2,False,6,True
+459,fixed_n8,8,6243,1,18.90,sympy:18.9000000000000,0.7142857142857143,1,False,7,True
+460,fixed_n8,8,3936,3,105,sympy:105,0.375,0,False,8,False
+461,fixed_n8,8,4793,1,12,sympy:12,1.0,0,False,8,True
+462,fixed_n8,8,4534,2,59,sympy:59,0.25,0,False,8,True
+463,fixed_n8,8,2623,1,2,sympy:2,1.0,0,False,8,True
+464,fixed_n8,8,6170,1,9,sympy:9,1.0,0,False,8,True
+465,fixed_n8,8,2150,1,121,sympy:121,1.0,0,False,8,True
+466,fixed_n8,8,5908,1,8\pi,sympy:8*pi,0.125,0,False,8,True
+467,fixed_n8,8,2149,1,15,sympy:15,1.0,0,False,8,True
+468,fixed_n8,8,2017,1,8,sympy:8,1.0,0,False,8,True
+469,fixed_n8,8,2060,1,25,sympy:25,1.0,0,False,8,True
+470,fixed_n8,8,7620,3,937.5,sympy:937.500000000000,0.0,4,True,4,False
+471,fixed_n8,8,2101,1,84,sympy:84,1.0,0,False,8,True
+472,fixed_n8,8,3280,1,137\frac{1}{2},sympy:275/2,1.0,0,False,8,True
+473,fixed_n8,8,6273,1,7,sympy:7,1.0,0,False,8,True
+474,fixed_n8,8,5204,1,3,sympy:3,1.0,0,False,8,True
+475,fixed_n8,8,8101,2,139,sympy:139,1.0,7,False,1,False
+476,fixed_n8,8,2843,1,200,sympy:200,1.0,0,False,8,True
+477,fixed_n8,8,5715,1,2,sympy:2,0.5,0,False,8,True
+478,fixed_n8,8,4870,1,0,sympy:0,1.0,0,False,8,False
+479,fixed_n8,8,3372,1,2,sympy:2,1.0,0,False,8,True
+480,fixed_n8,8,4161,1,1,sympy:1,1.0,0,False,8,True
+481,fixed_n8,8,7510,1,2,sympy:2,0.0,4,True,4,False
+482,fixed_n8,8,5073,1,202,sympy:202,0.0,0,True,8,True
+483,fixed_n8,8,7903,1,\frac{8}{15},sympy:8/15,0.0,6,True,2,True
+484,fixed_n8,8,6843,1,10,sympy:10,1.0,1,False,7,True
+485,fixed_n8,8,6535,4,12,sympy:12,0.0,5,True,3,False
+486,fixed_n8,8,1709,1,216,sympy:216,1.0,0,False,8,True
+487,fixed_n8,8,3339,1,2,sympy:2,1.0,0,False,8,True
+488,fixed_n8,8,1743,1,36,sympy:36,1.0,0,False,8,True
+489,fixed_n8,8,4316,1,15,sympy:15,1.0,0,False,8,True
+490,fixed_n8,8,6600,2,18,sympy:18,0.0,3,True,5,False
+491,fixed_n8,8,3548,3,16,sympy:16,0.0,1,True,7,False
+492,fixed_n8,8,4090,1,y = -2x,"sympy:Eq(y, -1*2*x)",1.0,0,False,8,True
+493,fixed_n8,8,5527,1,20,sympy:20,1.0,0,False,8,True
+494,fixed_n8,8,7457,4,\frac{3}{2},sympy:3/2,0.2,3,False,5,False
+495,fixed_n8,8,4278,1,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",1.0,0,False,8,True
+496,fixed_n8,8,4339,1,\dfrac{5}{13},sympy:5/13,1.0,0,False,8,True
+497,fixed_n8,8,5214,7,2,sympy:2,0.125,0,False,8,False
+498,fixed_n8,8,7305,1,1,sympy:1,0.2,3,False,5,False
+499,fixed_n8,8,2600,1,106,sympy:106,1.0,0,False,8,True
+0,fixed_n16,16,5131,1,"\left(3, \frac{\pi}{2}\right)","sympy:(3, pi/2)",1.0,0,False,16,True
+1,fixed_n16,16,9617,1,p - q,sympy:p - q,1.0,0,False,16,True
+2,fixed_n16,16,7720,1,\frac{14}{3},sympy:14/3,1.0,0,False,16,True
+3,fixed_n16,16,7263,1,9,sympy:9,1.0,0,False,16,True
+4,fixed_n16,16,8908,1,Evelyn,sympy:E*e*l*n*v*y,1.0,0,False,16,True
+5,fixed_n16,16,4393,1,42,sympy:42,1.0,0,False,16,True
+6,fixed_n16,16,7728,1,27,sympy:27,1.0,0,False,16,True
+7,fixed_n16,16,11133,1,90,sympy:90,0.5,0,False,16,True
+8,fixed_n16,16,6158,1,3\sqrt{13},sympy:3*sqrt(13),1.0,0,False,16,True
+9,fixed_n16,16,12738,1,1,sympy:1,0.16666666666666666,4,False,12,False
+10,fixed_n16,16,6141,1,2220,sympy:2220,1.0,0,False,16,True
+11,fixed_n16,16,15162,1,\frac{8}{63},sympy:8/63,0.2,6,False,10,False
+12,fixed_n16,16,10887,2,284,sympy:284,0.8125,0,False,16,True
+13,fixed_n16,16,3793,1,5,sympy:5,1.0,0,False,16,True
+14,fixed_n16,16,3843,1,10,sympy:10,0.875,0,False,16,False
+15,fixed_n16,16,11258,1,6 - 5i,sympy:-1*5*i + 6,0.8571428571428571,2,False,14,True
+16,fixed_n16,16,5097,1,-50,sympy:-50,1.0,0,False,16,True
+17,fixed_n16,16,10028,7,\pi,sympy:pi,0.25,0,False,16,True
+18,fixed_n16,16,7789,1,62,sympy:62,0.0625,0,False,16,False
+19,fixed_n16,16,9273,1,3,sympy:3,1.0,0,False,16,True
+20,fixed_n16,16,2906,1,6+9i,sympy:9*i + 6,1.0,0,False,16,True
+21,fixed_n16,16,13470,2,13535,sympy:13535,0.07692307692307693,3,False,13,True
+22,fixed_n16,16,13440,1,5,sympy:5,0.5,2,False,14,True
+23,fixed_n16,16,10388,1,5,sympy:5,0.8666666666666667,1,False,15,True
+24,fixed_n16,16,9978,2,10,sympy:10,0.1875,0,False,16,True
+25,fixed_n16,16,15285,1,"0, 1","sympy:{0, 1}",0.1111111111111111,7,False,9,False
+26,fixed_n16,16,11103,2,576,sympy:576,0.06666666666666667,1,False,15,False
+27,fixed_n16,16,5941,1,78,sympy:78,0.875,0,False,16,True
+28,fixed_n16,16,4958,1,-2 + 7i,sympy:7*i - 2,0.875,0,False,16,True
+29,fixed_n16,16,7906,1,225,sympy:225,1.0,0,False,16,True
+30,fixed_n16,16,6234,1,52,sympy:52,1.0,0,False,16,True
+31,fixed_n16,16,7321,1,11\sqrt{2},sympy:11*sqrt(2),1.0,0,False,16,True
+32,fixed_n16,16,5894,1,720,sympy:720,1.0,0,False,16,True
+33,fixed_n16,16,11817,1,\frac{81}{200},sympy:81/200,0.1875,0,False,16,False
+34,fixed_n16,16,11745,1,-125,sympy:-125,1.0,0,False,16,True
+35,fixed_n16,16,6735,1,3,sympy:3,1.0,0,False,16,True
+36,fixed_n16,16,12904,1,"3, 5, 7","sympy:{3, 5, 7}",0.5,4,False,12,True
+37,fixed_n16,16,3674,1,72,sympy:72,1.0,0,False,16,True
+38,fixed_n16,16,4108,1,2000,sympy:2000,1.0,0,False,16,True
+39,fixed_n16,16,8709,1,23,sympy:23,1.0,2,False,14,True
+40,fixed_n16,16,3876,1,12,sympy:12,1.0,0,False,16,True
+41,fixed_n16,16,8939,2,5,sympy:5,0.1875,0,False,16,False
+42,fixed_n16,16,6743,1,4,sympy:4,1.0,0,False,16,True
+43,fixed_n16,16,13149,1,50 + 20\sqrt{5},sympy:20*sqrt(5) + 50,0.0,5,True,11,False
+44,fixed_n16,16,7298,1,1.25,sympy:1.25000000000000,1.0,0,False,16,True
+45,fixed_n16,16,5824,1,2,sympy:2,1.0,0,False,16,True
+46,fixed_n16,16,13417,2,6,sympy:6,0.6666666666666666,4,False,12,True
+47,fixed_n16,16,7289,1,5,sympy:5,1.0,0,False,16,True
+48,fixed_n16,16,6300,1,\frac{3}{2},sympy:3/2,0.625,0,False,16,True
+49,fixed_n16,16,4394,1,83,sympy:83,1.0,0,False,16,True
+50,fixed_n16,16,13736,1,203,sympy:203,0.5,6,False,10,True
+51,fixed_n16,16,11463,2,x^5 - x^4 + x^3 - x^2 + x - 1,sympy:x**5 - x**4 + x**3 - x**2 + x - 1,0.8,1,False,15,True
+52,fixed_n16,16,5668,1,12,sympy:12,0.875,0,False,16,True
+53,fixed_n16,16,5231,1,-\frac{\pi}{6},sympy:-1*pi/6,1.0,0,False,16,True
+54,fixed_n16,16,4680,1,0.15,sympy:0.150000000000000,1.0,0,False,16,True
+55,fixed_n16,16,5636,1,3,sympy:3,1.0,0,False,16,True
+56,fixed_n16,16,2975,1,11,sympy:11,1.0,0,False,16,True
+57,fixed_n16,16,9214,1,16,sympy:16,1.0,0,False,16,True
+58,fixed_n16,16,3778,1,9901,sympy:9901,0.5,0,False,16,True
+59,fixed_n16,16,6957,1,5,sympy:5,1.0,0,False,16,True
+60,fixed_n16,16,15331,1,"(1, 1, 1)","sympy:(1, 1, 1)",0.0,9,True,7,False
+61,fixed_n16,16,5833,1,-256,sympy:-256,1.0,0,False,16,True
+62,fixed_n16,16,12505,1,4,sympy:4,0.26666666666666666,1,False,15,True
+63,fixed_n16,16,8261,1,9,sympy:9,0.875,0,False,16,False
+64,fixed_n16,16,12793,9,\frac{35}{64},sympy:35/64,0.1,6,False,10,True
+65,fixed_n16,16,3593,1,1,sympy:1,0.875,0,False,16,True
+66,fixed_n16,16,6036,1,x^3 + 3x - 6,sympy:x**3 + 3*x - 6,1.0,0,False,16,True
+67,fixed_n16,16,6051,1,10,sympy:10,0.375,0,False,16,True
+68,fixed_n16,16,11815,1,46,sympy:46,0.3333333333333333,1,False,15,True
+69,fixed_n16,16,6684,1,-1,sympy:-1,1.0,0,False,16,True
+70,fixed_n16,16,8331,1,40_9,sympy:40,1.0,0,False,16,True
+71,fixed_n16,16,6882,1,2516,sympy:2516,0.625,0,False,16,True
+72,fixed_n16,16,6091,1,3,sympy:3,1.0,0,False,16,True
+73,fixed_n16,16,5247,1,\frac{3\sqrt{3}}{4},sympy:(3*sqrt(3))/4,1.0,0,False,16,True
+74,fixed_n16,16,7567,1,\cot x,sympy:cot(x),1.0,0,False,16,True
+75,fixed_n16,16,7552,1,\frac{11}{36},sympy:11/36,1.0,0,False,16,True
+76,fixed_n16,16,4160,1,0,sympy:0,1.0,0,False,16,True
+77,fixed_n16,16,3261,1,4,sympy:4,1.0,0,False,16,True
+78,fixed_n16,16,11740,1,"(-2, 1)","sympy:Interval.open(-2, 1)",0.875,0,False,16,True
+79,fixed_n16,16,5266,1,2,sympy:2,1.0,0,False,16,True
+80,fixed_n16,16,12096,2,1,sympy:1,0.375,0,False,16,False
+81,fixed_n16,16,7353,1,3,sympy:3,1.0,0,False,16,True
+82,fixed_n16,16,6923,3,\frac{3}{5},sympy:3/5,0.25,0,False,16,False
+83,fixed_n16,16,6362,1,2,sympy:2,1.0,0,False,16,True
+84,fixed_n16,16,12926,1,-1,sympy:-1,1.0,0,False,16,True
+85,fixed_n16,16,6164,1,\sqrt{5},sympy:sqrt(5),1.0,0,False,16,True
+86,fixed_n16,16,4230,1,240,sympy:240,1.0,0,False,16,True
+87,fixed_n16,16,11320,1,1,sympy:1,1.0,0,False,16,True
+88,fixed_n16,16,14877,1,2,sympy:2,0.75,4,False,12,True
+89,fixed_n16,16,13557,1,21,sympy:21,0.5,0,False,16,True
+90,fixed_n16,16,4560,4,15,sympy:15,0.125,0,False,16,False
+91,fixed_n16,16,6770,1,1,sympy:1,0.125,0,False,16,True
+92,fixed_n16,16,10922,1,\frac{2240}{78125},sympy:448/15625,0.625,0,False,16,True
+93,fixed_n16,16,9571,1,33,sympy:33,1.0,0,False,16,True
+94,fixed_n16,16,10940,1,70,sympy:70,0.4375,0,False,16,False
+95,fixed_n16,16,11554,1,-4,sympy:-4,1.0,0,False,16,True
+96,fixed_n16,16,14991,3,-1,sympy:-1,0.125,8,False,8,False
+97,fixed_n16,16,4191,1,east,sympy:E*a*s*t,1.0,0,False,16,True
+98,fixed_n16,16,5515,1,2k + 2,sympy:2*k + 2,1.0,0,False,16,True
+99,fixed_n16,16,14773,1,\begin{pmatrix} -\frac{1}{3} \\ \frac{2}{3} \\ \frac{5}{3} \end{pmatrix},"parsed:Matrix([[-1/3], [f*r*a*c*5], [f*r*a*c*8]])",1.0,2,False,14,False
+100,fixed_n16,16,9689,2,75,sympy:75,0.13333333333333333,1,False,15,False
+101,fixed_n16,16,14753,1,1,sympy:1,0.0,8,True,8,False
+102,fixed_n16,16,6256,1,(a+5)(b+2),sympy:(a + 5)*(b + 2),1.0,0,False,16,True
+103,fixed_n16,16,15439,4,"(1, 3)","sympy:Interval.open(1, 3)",0.0,6,True,10,False
+104,fixed_n16,16,12176,3,36,sympy:36,0.14285714285714285,2,False,14,False
+105,fixed_n16,16,5924,5,15.5,sympy:15.5000000000000,0.2,1,False,15,False
+106,fixed_n16,16,5496,1,\frac{4}{3},sympy:4/3,1.0,0,False,16,True
+107,fixed_n16,16,7141,1,9,sympy:9,1.0,0,False,16,True
+108,fixed_n16,16,12914,1,2,sympy:2,1.0,2,False,14,True
+109,fixed_n16,16,15500,2,30,sympy:30,0.0,10,True,6,False
+110,fixed_n16,16,16301,2,3,sympy:3,0.2857142857142857,9,False,7,False
+111,fixed_n16,16,9975,1,210,sympy:210,1.0,2,False,14,True
+112,fixed_n16,16,8353,1,13,sympy:13,0.875,0,False,16,True
+113,fixed_n16,16,5117,1,8000,sympy:8000,1.0,0,False,16,True
+114,fixed_n16,16,10315,1,-5,sympy:-5,1.0,0,False,16,True
+115,fixed_n16,16,7644,5,30240,sympy:30240,0.25,0,False,16,False
+116,fixed_n16,16,5029,1,2,sympy:2,1.0,0,False,16,True
+117,fixed_n16,16,5475,1,3,sympy:3,1.0,0,False,16,True
+118,fixed_n16,16,14669,1,81,sympy:81,1.0,7,False,9,True
+119,fixed_n16,16,9698,1,-9,sympy:-9,0.3125,0,False,16,True
+120,fixed_n16,16,9813,1,\text{odd},sympy:dd*o,0.25,0,False,16,False
+121,fixed_n16,16,5058,1,6,sympy:6,1.0,0,False,16,True
+122,fixed_n16,16,5711,1,9,sympy:9,1.0,0,False,16,True
+123,fixed_n16,16,15309,2,6,sympy:6,0.5454545454545454,5,False,11,False
+124,fixed_n16,16,11344,1,\frac{11}{2},sympy:11/2,1.0,0,False,16,True
+125,fixed_n16,16,5822,1,-3,sympy:-3,1.0,0,False,16,True
+126,fixed_n16,16,15429,3,2+i,sympy:i + 2,0.4,11,False,5,False
+127,fixed_n16,16,6233,1,4210,sympy:4210,1.0,0,False,16,True
+128,fixed_n16,16,4209,1,36,sympy:36,0.875,0,False,16,True
+129,fixed_n16,16,11984,5,\frac{3840}{289},sympy:3840/289,0.0625,0,False,16,True
+130,fixed_n16,16,6987,1,13,sympy:13,1.0,0,False,16,True
+131,fixed_n16,16,8616,1,8,sympy:8,1.0,0,False,16,True
+132,fixed_n16,16,6734,1,4,sympy:4,0.875,0,False,16,True
+133,fixed_n16,16,6094,1,120,sympy:120,0.8125,0,False,16,True
+134,fixed_n16,16,9914,1,16,sympy:16,1.0,0,False,16,True
+135,fixed_n16,16,7210,1,9,sympy:9,1.0,0,False,16,True
+136,fixed_n16,16,15724,2,64,sympy:64,1.0,11,False,5,True
+137,fixed_n16,16,8311,1,204_5,sympy:204,1.0,0,False,16,True
+138,fixed_n16,16,12200,2,\frac{1}{6},sympy:1/6,0.07142857142857142,2,False,14,False
+139,fixed_n16,16,11912,2,1,sympy:1,1.0,2,False,14,True
+140,fixed_n16,16,8199,1,13,sympy:13,1.0,0,False,16,True
+141,fixed_n16,16,3932,1,2,sympy:2,0.875,0,False,16,True
+142,fixed_n16,16,6944,1,3456000,sympy:3456000,0.0,0,True,16,False
+143,fixed_n16,16,11272,1,3\sqrt{5},sympy:3*sqrt(5),1.0,0,False,16,True
+144,fixed_n16,16,3895,1,"(15, -29)","sympy:(15, -29)",1.0,0,False,16,True
+145,fixed_n16,16,12116,1,-2,sympy:-2,0.42857142857142855,2,False,14,True
+146,fixed_n16,16,6325,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,16,True
+147,fixed_n16,16,13907,3,12,sympy:12,0.5,2,False,14,False
+148,fixed_n16,16,4589,1,11,sympy:11,1.0,0,False,16,True
+149,fixed_n16,16,12770,1,49,sympy:49,0.7333333333333333,1,False,15,True
+150,fixed_n16,16,15888,6,3,sympy:3,0.0,14,True,2,False
+151,fixed_n16,16,10753,2,144,sympy:144,0.4666666666666667,1,False,15,True
+152,fixed_n16,16,11741,1,16,sympy:16,0.06666666666666667,1,False,15,False
+153,fixed_n16,16,8460,1,\frac{2}{21},sympy:2/21,1.0,0,False,16,True
+154,fixed_n16,16,8035,1,2\sqrt{34},sympy:2*sqrt(34),0.0,0,True,16,False
+155,fixed_n16,16,6244,1,\frac{1}{4},sympy:1/4,1.0,0,False,16,True
+156,fixed_n16,16,15156,1,90,sympy:90,0.5,6,False,10,False
+157,fixed_n16,16,5719,1,\frac{6}{5},sympy:6/5,1.0,0,False,16,True
+158,fixed_n16,16,11255,1,2107,sympy:2107,1.0,0,False,16,True
+159,fixed_n16,16,6790,1,3.21,sympy:3.21000000000000,1.0,0,False,16,True
+160,fixed_n16,16,6994,1,18,sympy:18,0.875,0,False,16,True
+161,fixed_n16,16,3722,1,6,sympy:6,1.0,0,False,16,True
+162,fixed_n16,16,12280,1,\frac{17}{50},sympy:17/50,1.0,0,False,16,True
+163,fixed_n16,16,8189,5,-\frac{35}{9},sympy:-35/9,0.1875,0,False,16,True
+164,fixed_n16,16,12994,3,\sqrt{3},sympy:sqrt(3),0.07142857142857142,2,False,14,False
+165,fixed_n16,16,5404,2,\frac{4}{9},sympy:4/9,0.5625,0,False,16,True
+166,fixed_n16,16,9262,1,\(\boxed{\frac{270}{7}}\)  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \]  \],sympy:270/7,0.75,0,False,16,True
+167,fixed_n16,16,3468,1,65,sympy:65,1.0,0,False,16,True
+168,fixed_n16,16,13844,1,8,sympy:8,0.0,2,True,14,False
+169,fixed_n16,16,6002,1,12,sympy:12,1.0,0,False,16,True
+170,fixed_n16,16,14931,6,20,sympy:20,0.16666666666666666,10,False,6,False
+171,fixed_n16,16,6269,1,\frac{13}{15},sympy:13/15,1.0,0,False,16,True
+172,fixed_n16,16,6953,1,350,sympy:350,1.0,0,False,16,True
+173,fixed_n16,16,12638,1,4,sympy:4,1.0,1,False,15,True
+174,fixed_n16,16,8156,1,2,sympy:2,1.0,0,False,16,True
+175,fixed_n16,16,12824,1,3,sympy:3,1.0,1,False,15,True
+176,fixed_n16,16,7121,1,0.0000672,sympy:6.72000000000000e-5,0.75,0,False,16,True
+177,fixed_n16,16,6806,1,60,sympy:60,0.2857142857142857,2,False,14,False
+178,fixed_n16,16,3921,1,60,sympy:60,1.0,0,False,16,True
+179,fixed_n16,16,14418,4,5x - 7y + 11z + 4 = 0,"sympy:Eq(5*x - 1*7*y + 11*z + 4, 0)",0.42857142857142855,2,False,14,True
+180,fixed_n16,16,6811,1,3,sympy:3,0.25,0,False,16,True
+181,fixed_n16,16,7309,1,\frac{\sqrt{3}}{3},sympy:sqrt(3)/3,1.0,0,False,16,True
+182,fixed_n16,16,3968,1,1251,sympy:1251,1.0,0,False,16,True
+183,fixed_n16,16,11035,1,23,sympy:23,1.0,0,False,16,True
+184,fixed_n16,16,13647,3,"[2, \infty)","sympy:Interval(2, oo)",0.26666666666666666,1,False,15,False
+185,fixed_n16,16,3708,1,1,sympy:1,1.0,0,False,16,True
+186,fixed_n16,16,8215,1,7,sympy:7,0.5,0,False,16,True
+187,fixed_n16,16,6400,1,7,sympy:7,1.0,0,False,16,True
+188,fixed_n16,16,16117,4,2,sympy:2,0.0,13,True,3,False
+189,fixed_n16,16,15857,2,130,sympy:130,0.0,5,True,11,False
+190,fixed_n16,16,8635,3,\frac{13}{18},sympy:13/18,0.125,0,False,16,True
+191,fixed_n16,16,4189,1,0,sympy:0,1.0,0,False,16,True
+192,fixed_n16,16,7322,1,30,sympy:30,1.0,0,False,16,True
+193,fixed_n16,16,5943,1,4,sympy:4,1.0,0,False,16,True
+194,fixed_n16,16,12390,1,\frac{1}{4},sympy:1/4,0.25,0,False,16,True
+195,fixed_n16,16,5851,1,24,sympy:24,1.0,1,False,15,True
+196,fixed_n16,16,4565,1,1600,sympy:1600,1.0,0,False,16,True
+197,fixed_n16,16,11040,1,6,sympy:6,0.75,0,False,16,True
+198,fixed_n16,16,6091,1,10080,sympy:10080,1.0,0,False,16,True
+199,fixed_n16,16,5220,1,17,sympy:17,1.0,0,False,16,True
+200,fixed_n16,16,6974,1,40,sympy:40,0.875,0,False,16,True
+201,fixed_n16,16,10700,1,66,sympy:66,1.0,0,False,16,True
+202,fixed_n16,16,7905,1,\frac{2}{3},sympy:2/3,0.875,0,False,16,True
+203,fixed_n16,16,8739,1,12,sympy:12,1.0,0,False,16,True
+204,fixed_n16,16,12646,1,256,sympy:256,0.07142857142857142,2,False,14,False
+205,fixed_n16,16,14934,1,\begin{pmatrix} -2 \\ -14 \\ -7 \end{pmatrix},sympy:-2,1.0,0,False,16,True
+206,fixed_n16,16,6777,1,"\left( \frac{3}{2}, -13 \right)","sympy:(3/2, -13)",1.0,0,False,16,True
+207,fixed_n16,16,5378,1,28,sympy:28,1.0,0,False,16,True
+208,fixed_n16,16,6678,1,1,sympy:1,1.0,0,False,16,True
+209,fixed_n16,16,7874,1,16,sympy:16,0.8125,0,False,16,True
+210,fixed_n16,16,9042,2,10,sympy:10,0.4375,0,False,16,True
+211,fixed_n16,16,6612,1,5,sympy:5,1.0,0,False,16,True
+212,fixed_n16,16,7178,1,56,sympy:56,0.875,0,False,16,True
+213,fixed_n16,16,12154,1,1,sympy:1,0.625,0,False,16,False
+214,fixed_n16,16,9007,3,110,sympy:110,0.1875,0,False,16,True
+215,fixed_n16,16,5906,1,2,sympy:2,1.0,0,False,16,True
+216,fixed_n16,16,6533,1,6,sympy:6,0.875,0,False,16,True
+217,fixed_n16,16,7930,1,11111111100,sympy:11111111100,1.0,1,False,15,False
+218,fixed_n16,16,4913,1,"(-1, 6)","sympy:Interval.open(-1, 6)",1.0,0,False,16,True
+219,fixed_n16,16,9900,2,\frac{1}{9},sympy:1/9,0.1875,0,False,16,False
+220,fixed_n16,16,6741,1,\frac{2}{27},sympy:2/27,0.1875,0,False,16,False
+221,fixed_n16,16,8170,1,900,sympy:900,1.0,0,False,16,True
+222,fixed_n16,16,8127,3,150,sympy:150,0.25,0,False,16,False
+223,fixed_n16,16,6261,2,14,sympy:14,0.4375,0,False,16,True
+224,fixed_n16,16,11666,1,\frac{1}{16},sympy:1/16,0.3333333333333333,1,False,15,False
+225,fixed_n16,16,5310,1,11,sympy:11,1.0,0,False,16,True
+226,fixed_n16,16,4406,1,3,sympy:3,0.875,0,False,16,True
+227,fixed_n16,16,4583,1,C,sympy:c,1.0,0,False,16,True
+228,fixed_n16,16,15554,8,288\pi,sympy:288*pi,0.4444444444444444,7,False,9,True
+229,fixed_n16,16,4068,1,90,sympy:90,1.0,0,False,16,True
+230,fixed_n16,16,12480,1,\frac{16}{5},sympy:16/5,0.75,0,False,16,True
+231,fixed_n16,16,13407,1,10,sympy:10,1.0,0,False,16,True
+232,fixed_n16,16,12434,1,\frac{1997}{2},sympy:1997/2,0.5,2,False,14,True
+233,fixed_n16,16,7628,1,30,sympy:30,1.0,0,False,16,True
+234,fixed_n16,16,7443,1,34,sympy:34,0.625,0,False,16,True
+235,fixed_n16,16,9871,1,\frac{5}{9},sympy:5/9,1.0,0,False,16,True
+236,fixed_n16,16,11570,2,15,sympy:15,0.21428571428571427,2,False,14,False
+237,fixed_n16,16,8123,1,22,sympy:22,1.0,0,False,16,True
+238,fixed_n16,16,7947,1,-4,sympy:-4,1.0,0,False,16,True
+239,fixed_n16,16,16384,,,,,16,False,0,False
+240,fixed_n16,16,7365,5,52,sympy:52,0.1875,0,False,16,False
+241,fixed_n16,16,13603,1,17,sympy:17,1.0,0,False,16,True
+242,fixed_n16,16,8007,1,32349,sympy:32349,0.6875,0,False,16,False
+243,fixed_n16,16,4716,1,3,sympy:3,1.0,0,False,16,True
+244,fixed_n16,16,13703,2,8,sympy:8,0.8,1,False,15,True
+245,fixed_n16,16,14692,6,-10x,sympy:-1*10*x,0.06666666666666667,1,False,15,False
+246,fixed_n16,16,4145,1,8,sympy:8,0.4375,0,False,16,True
+247,fixed_n16,16,8458,1,\frac{10}{11},sympy:10/11,1.0,0,False,16,True
+248,fixed_n16,16,16384,,,,,16,False,0,False
+249,fixed_n16,16,13206,1,11,sympy:11,0.5833333333333334,4,False,12,False
+250,fixed_n16,16,9549,1,13,sympy:13,0.875,0,False,16,True
+251,fixed_n16,16,11752,1,540,sympy:540,0.8125,0,False,16,True
+252,fixed_n16,16,9125,1,81,sympy:81,1.0,0,False,16,True
+253,fixed_n16,16,3520,1,\frac{1}{8},sympy:1/8,1.0,0,False,16,True
+254,fixed_n16,16,6654,1,28,sympy:28,1.0,0,False,16,True
+255,fixed_n16,16,5672,1,\text{E},sympy:e,1.0,0,False,16,True
+256,fixed_n16,16,7739,1,\frac{8}{21},sympy:8/21,1.0,0,False,16,True
+257,fixed_n16,16,6518,1,864,sympy:864,1.0,0,False,16,True
+258,fixed_n16,16,8277,1,16,sympy:16,1.0,0,False,16,True
+259,fixed_n16,16,4438,1,22,sympy:22,1.0,0,False,16,True
+260,fixed_n16,16,9680,1,120,sympy:120,1.0,0,False,16,True
+261,fixed_n16,16,6022,1,76,sympy:76,1.0,0,False,16,True
+262,fixed_n16,16,3706,1,4,sympy:4,1.0,0,False,16,True
+263,fixed_n16,16,5937,1,15,sympy:15,1.0,0,False,16,True
+264,fixed_n16,16,8920,3,3,sympy:3,0.0,0,True,16,False
+265,fixed_n16,16,4278,1,4005,sympy:4005,1.0,0,False,16,True
+266,fixed_n16,16,8125,1,\frac{33}{100},sympy:33/100,0.5625,0,False,16,True
+267,fixed_n16,16,11235,1,180,sympy:180,0.8125,0,False,16,True
+268,fixed_n16,16,4775,1,1,sympy:1,1.0,0,False,16,True
+269,fixed_n16,16,6881,1,6,sympy:6,1.0,0,False,16,True
+270,fixed_n16,16,5780,1,10,sympy:10,1.0,0,False,16,True
+271,fixed_n16,16,9093,1,333,sympy:333,1.0,0,False,16,True
+272,fixed_n16,16,11133,1,1030,sympy:1030,0.5333333333333333,1,False,15,True
+273,fixed_n16,16,5633,1,1250,sympy:1250,0.875,0,False,16,True
+274,fixed_n16,16,5764,1,36,sympy:36,0.375,0,False,16,False
+275,fixed_n16,16,4780,1,7,sympy:7,1.0,0,False,16,True
+276,fixed_n16,16,8779,1,11,sympy:11,0.125,0,False,16,True
+277,fixed_n16,16,4283,1,\sqrt{53},sympy:sqrt(53),1.0,0,False,16,True
+278,fixed_n16,16,6705,1,255,sympy:255,1.0,0,False,16,True
+279,fixed_n16,16,7669,4,7\pi,sympy:7*pi,0.5,0,False,16,True
+280,fixed_n16,16,6031,1,8,sympy:8,1.0,0,False,16,True
+281,fixed_n16,16,8688,1,36^\circ,sympy:36,0.4375,0,False,16,True
+282,fixed_n16,16,6062,1,497,sympy:497,0.625,0,False,16,False
+283,fixed_n16,16,6808,1,1,sympy:1,1.0,0,False,16,True
+284,fixed_n16,16,8651,1,"3 + 2\sqrt{2}, 3 - 2\sqrt{2}","sympy:{2*sqrt(2) + 3, -1*2*sqrt(2) + 3}",0.06666666666666667,1,False,15,True
+285,fixed_n16,16,15633,1,314,sympy:314,0.0,12,True,4,False
+286,fixed_n16,16,14282,1,\frac{1}{2},sympy:1/2,0.2727272727272727,5,False,11,False
+287,fixed_n16,16,9832,1,36,sympy:36,0.875,0,False,16,True
+288,fixed_n16,16,15312,5,7,sympy:7,0.0,9,True,7,True
+289,fixed_n16,16,10522,1,16,sympy:16,1.0,1,False,15,True
+290,fixed_n16,16,14787,1,4,sympy:4,0.75,0,False,16,True
+291,fixed_n16,16,6883,1,63,sympy:63,0.5625,0,False,16,True
+292,fixed_n16,16,15752,1,256,sympy:256,0.25,12,False,4,False
+293,fixed_n16,16,8318,1,"\left( \frac{3}{5}, \frac{8}{3} \right]","sympy:Interval.Lopen(3/5, 8/3)",1.0,0,False,16,True
+294,fixed_n16,16,12962,4,58,sympy:58,0.35714285714285715,2,False,14,True
+295,fixed_n16,16,12873,3,4,sympy:4,0.07142857142857142,2,False,14,False
+296,fixed_n16,16,13018,7,\text{C},sympy:c,0.08333333333333333,4,False,12,False
+297,fixed_n16,16,11823,1,103,sympy:103,1.0,0,False,16,True
+298,fixed_n16,16,15407,1,\begin{pmatrix} -18 \\ -49 \\ 96 \end{pmatrix},sympy:-18,0.75,8,False,8,True
+299,fixed_n16,16,5927,1,63,sympy:63,0.8125,0,False,16,True
+300,fixed_n16,16,4068,1,12,sympy:12,1.0,0,False,16,True
+301,fixed_n16,16,7324,1,5.5,sympy:5.50000000000000,0.5625,0,False,16,False
+302,fixed_n16,16,11740,1,4,sympy:4,0.08333333333333333,4,False,12,False
+303,fixed_n16,16,13794,1,21,sympy:21,0.7857142857142857,2,False,14,False
+304,fixed_n16,16,13569,1,9,sympy:9,1.0,3,False,13,True
+305,fixed_n16,16,8982,1,\frac{9}{19},sympy:9/19,1.0,0,False,16,True
+306,fixed_n16,16,12449,1,3,sympy:3,0.0,0,True,16,False
+307,fixed_n16,16,8216,1,"(-\infty, 0]","sympy:Interval(-oo, 0)",1.0,0,False,16,True
+308,fixed_n16,16,11097,9,4\sqrt{3},sympy:4*sqrt(3),0.07142857142857142,2,False,14,False
+309,fixed_n16,16,9491,1,15,sympy:15,0.4,1,False,15,False
+310,fixed_n16,16,6562,1,49,sympy:49,1.0,0,False,16,True
+311,fixed_n16,16,10578,1,3,sympy:3,0.625,0,False,16,True
+312,fixed_n16,16,7267,1,"(5, \infty)","sympy:Interval.open(5, oo)",1.0,0,False,16,True
+313,fixed_n16,16,6722,1,12\pi,sympy:12*pi,1.0,0,False,16,True
+314,fixed_n16,16,5469,1,"(2, 4)","sympy:Interval.open(2, 4)",1.0,0,False,16,True
+315,fixed_n16,16,9496,1,41,sympy:41,1.0,0,False,16,True
+316,fixed_n16,16,10445,1,12,sympy:12,1.0,0,False,16,True
+317,fixed_n16,16,10942,1,2,sympy:2,0.375,0,False,16,False
+318,fixed_n16,16,9544,1,\frac{11 + 9a}{20},sympy:(9*a + 11)/20,1.0,0,False,16,True
+319,fixed_n16,16,5318,1,-128,sympy:-128,1.0,0,False,16,True
+320,fixed_n16,16,8230,1,-\frac{24}{25},sympy:-24/25,1.0,0,False,16,True
+321,fixed_n16,16,4941,1,10,sympy:10,0.75,0,False,16,True
+322,fixed_n16,16,5409,1,-1,sympy:-1,1.0,0,False,16,True
+323,fixed_n16,16,8422,1,\frac{1}{3},sympy:1/3,0.875,0,False,16,True
+324,fixed_n16,16,13415,1,120,sympy:120,0.3076923076923077,3,False,13,True
+325,fixed_n16,16,7329,1,4,sympy:4,1.0,0,False,16,True
+326,fixed_n16,16,16317,3,0.09,sympy:0.0900000000000000,0.0,14,True,2,True
+327,fixed_n16,16,15761,1,35,sympy:35,0.16666666666666666,10,False,6,False
+328,fixed_n16,16,12576,4,2,sympy:2,0.07142857142857142,2,False,14,False
+329,fixed_n16,16,3533,1,4,sympy:4,1.0,0,False,16,True
+330,fixed_n16,16,8629,1,1940,sympy:1940,1.0,0,False,16,True
+331,fixed_n16,16,11238,1,\dfrac{13}{6},sympy:13/6,0.5,0,False,16,True
+332,fixed_n16,16,13304,3,2,sympy:2,0.125,0,False,16,True
+333,fixed_n16,16,14232,1,3,sympy:3,0.75,8,False,8,True
+334,fixed_n16,16,7628,1,-120,sympy:-120,1.0,0,False,16,True
+335,fixed_n16,16,11561,1,3,sympy:3,1.0,0,False,16,True
+336,fixed_n16,16,4341,1,26000,sympy:26000,1.0,0,False,16,True
+337,fixed_n16,16,8071,1,6,sympy:6,1.0,0,False,16,True
+338,fixed_n16,16,6036,1,4343,sympy:4343,1.0,0,False,16,True
+339,fixed_n16,16,9418,1,2k,sympy:2*k,0.625,0,False,16,True
+340,fixed_n16,16,16384,,,,,16,False,0,False
+341,fixed_n16,16,7731,1,-2,sympy:-2,1.0,0,False,16,True
+342,fixed_n16,16,5574,1,2,sympy:2,1.0,0,False,16,True
+343,fixed_n16,16,5883,1,58500,sympy:58500,1.0,0,False,16,True
+344,fixed_n16,16,6569,1,5,sympy:5,1.0,0,False,16,True
+345,fixed_n16,16,4491,1,1,sympy:1,1.0,0,False,16,True
+346,fixed_n16,16,7474,1,66,sympy:66,1.0,0,False,16,True
+347,fixed_n16,16,6491,1,6r^2 - 4r - 24,sympy:6*r**2 - 1*4*r - 24,1.0,0,False,16,True
+348,fixed_n16,16,7053,1,4495,sympy:4495,1.0,0,False,16,True
+349,fixed_n16,16,5573,1,5040,sympy:5040,0.3125,0,False,16,False
+350,fixed_n16,16,5288,1,4,sympy:4,1.0,0,False,16,True
+351,fixed_n16,16,10661,1,-\frac{1}{16},sympy:-1/16,0.6,1,False,15,False
+352,fixed_n16,16,15144,2,44,sympy:44,0.25,8,False,8,False
+353,fixed_n16,16,7797,1,480,sympy:480,1.0,0,False,16,True
+354,fixed_n16,16,7847,1,81,sympy:81,0.875,0,False,16,True
+355,fixed_n16,16,11729,1,120,sympy:120,0.4666666666666667,1,False,15,False
+356,fixed_n16,16,13065,1,"(-\sqrt{3}, \sqrt{3})","sympy:Interval.open(-sqrt(3), sqrt(3))",0.875,0,False,16,True
+357,fixed_n16,16,7700,2,4,sympy:4,0.4375,0,False,16,True
+358,fixed_n16,16,7877,2,\text{ellipse},sympy:E*E*i*l*l*p*s,0.125,0,False,16,True
+359,fixed_n16,16,13468,2,6,sympy:6,0.6923076923076923,3,False,13,True
+360,fixed_n16,16,6522,1,\frac{7}{4},sympy:7/4,0.75,0,False,16,True
+361,fixed_n16,16,11363,1,16\sqrt{3},sympy:16*sqrt(3),0.6,1,False,15,True
+362,fixed_n16,16,3047,1,\frac{1}{4},sympy:1/4,1.0,0,False,16,True
+363,fixed_n16,16,4565,1,2,sympy:2,1.0,0,False,16,True
+364,fixed_n16,16,10743,1,"(1, -16, -4, 43)","sympy:(1, -16, -4, 43)",1.0,0,False,16,True
+365,fixed_n16,16,12603,1,40,sympy:40,0.375,0,False,16,False
+366,fixed_n16,16,8051,1,4,sympy:4,0.875,0,False,16,True
+367,fixed_n16,16,4130,1,1,sympy:1,1.0,0,False,16,True
+368,fixed_n16,16,4554,1,31,sympy:31,1.0,0,False,16,True
+369,fixed_n16,16,5263,4,36,sympy:36,0.0625,0,False,16,False
+370,fixed_n16,16,6006,1,-41,sympy:-41,1.0,0,False,16,True
+371,fixed_n16,16,14407,2,4,sympy:4,0.18181818181818182,5,False,11,False
+372,fixed_n16,16,9220,4,40,sympy:40,0.0,0,True,16,False
+373,fixed_n16,16,6970,1,1+2i,sympy:2*i + 1,1.0,0,False,16,True
+374,fixed_n16,16,4217,1,4,sympy:4,1.0,0,False,16,True
+375,fixed_n16,16,8299,1,25,sympy:25,0.8125,0,False,16,True
+376,fixed_n16,16,14155,1,"(8, -2)","sympy:(8, -2)",0.8666666666666667,1,False,15,True
+377,fixed_n16,16,7789,1,6,sympy:6,0.875,0,False,16,True
+378,fixed_n16,16,9292,1,3,sympy:3,0.6,1,False,15,True
+379,fixed_n16,16,12094,2,12,sympy:12,0.0625,0,False,16,True
+380,fixed_n16,16,11463,4,"(0, 9) \cup (9, 36)","sympy:Union(Interval.open(0, 9), Interval.open(9, 36))",0.23076923076923078,3,False,13,True
+381,fixed_n16,16,15014,2,\frac{1}{2},sympy:1/2,0.3333333333333333,4,False,12,True
+382,fixed_n16,16,10623,1,\frac{20000}{\pi},sympy:20000/pi,0.75,0,False,16,True
+383,fixed_n16,16,11633,1,"[-2, 7]","sympy:Interval(-2, 7)",1.0,0,False,16,True
+384,fixed_n16,16,2798,1,15x - 80,sympy:15*x - 80,1.0,0,False,16,True
+385,fixed_n16,16,8162,1,22,sympy:22,0.4375,0,False,16,True
+386,fixed_n16,16,5651,1,11,sympy:11,1.0,0,False,16,True
+387,fixed_n16,16,5882,1,18,sympy:18,1.0,0,False,16,True
+388,fixed_n16,16,6741,3,5.5,sympy:5.50000000000000,0.5,0,False,16,True
+389,fixed_n16,16,8123,3,\frac{\sqrt{21}}{5},sympy:sqrt(21)/5,0.375,0,False,16,True
+390,fixed_n16,16,14458,3,12,sympy:12,0.46153846153846156,3,False,13,True
+391,fixed_n16,16,14273,1,0,sympy:0,0.8666666666666667,1,False,15,True
+392,fixed_n16,16,15177,3,10,sympy:10,0.16666666666666666,4,False,12,False
+393,fixed_n16,16,7147,1,\frac{3}{4},sympy:3/4,1.0,0,False,16,True
+394,fixed_n16,16,15023,1,-\frac{3}{8},sympy:-3/8,0.5,6,False,10,True
+395,fixed_n16,16,5163,1,4,sympy:4,1.0,0,False,16,True
+396,fixed_n16,16,7733,1,2,sympy:2,0.6875,0,False,16,True
+397,fixed_n16,16,5770,1,23,sympy:23,1.0,0,False,16,True
+398,fixed_n16,16,13367,1,39.68,sympy:39.6800000000000,0.23076923076923078,3,False,13,False
+399,fixed_n16,16,4776,1,326.5,sympy:326.500000000000,1.0,0,False,16,True
+400,fixed_n16,16,11805,3,7,sympy:7,0.13333333333333333,1,False,15,False
+401,fixed_n16,16,15369,2,3,sympy:3,0.5,8,False,8,False
+402,fixed_n16,16,6643,2,1 - 12i,sympy:-1*12*i + 1,0.875,0,False,16,True
+403,fixed_n16,16,9385,1,1,sympy:1,0.625,0,False,16,False
+404,fixed_n16,16,6292,1,3,sympy:3,1.0,0,False,16,True
+405,fixed_n16,16,6463,1,60,sympy:60,1.0,0,False,16,True
+406,fixed_n16,16,4557,1,0,sympy:0,1.0,0,False,16,True
+407,fixed_n16,16,4375,1,9,sympy:9,1.0,0,False,16,True
+408,fixed_n16,16,16212,14,\begin{pmatrix} \frac{1}{5} \\ -\frac{18}{5} \end{pmatrix},parsed:\begin{pmatrix} \frac{1}{5} \-\frac{18}{5} \end{pmatrix},1.0,15,False,1,False
+409,fixed_n16,16,12355,1,2\sqrt{5},sympy:2*sqrt(5),0.8571428571428571,2,False,14,True
+410,fixed_n16,16,6481,1,6,sympy:6,1.0,0,False,16,True
+411,fixed_n16,16,2948,1,60,sympy:60,1.0,0,False,16,True
+412,fixed_n16,16,15180,2,338.5,sympy:338.500000000000,0.16666666666666666,10,False,6,False
+413,fixed_n16,16,4793,1,5r^5,sympy:5*r**5,1.0,0,False,16,True
+414,fixed_n16,16,7980,1,10,sympy:10,1.0,0,False,16,True
+415,fixed_n16,16,11992,1,9,sympy:9,1.0,1,False,15,True
+416,fixed_n16,16,9876,1,\frac{1}{8},sympy:1/8,0.7333333333333333,1,False,15,True
+417,fixed_n16,16,7369,1,-2,sympy:-2,0.8125,0,False,16,True
+418,fixed_n16,16,7941,1,2\sqrt{5},sympy:2*sqrt(5),1.0,0,False,16,True
+419,fixed_n16,16,15363,1,\begin{pmatrix} -30 \\ -30 \\ 120 \end{pmatrix},sympy:-30,0.5,10,False,6,False
+420,fixed_n16,16,8593,1,\begin{pmatrix} \frac{16}{49} \\ \frac{48}{49} \\ \frac{24}{49} \end{pmatrix},"parsed:Matrix([[16/49], [f*r*a*c*97], [f*r*a*c*73]])",1.0,0,False,16,False
+421,fixed_n16,16,15013,2,27,sympy:27,0.2727272727272727,5,False,11,True
+422,fixed_n16,16,16150,3,2,sympy:2,0.0,14,True,2,False
+423,fixed_n16,16,13591,1,1440,sympy:1440,0.0625,0,False,16,True
+424,fixed_n16,16,7421,1,600,sympy:600,1.0,0,False,16,True
+425,fixed_n16,16,9727,3,\frac{3}{4}(a^2 + b^2 + c^2),sympy:3*(a**2 + b**2 + c**2)/4,0.13333333333333333,1,False,15,False
+426,fixed_n16,16,8053,1,6\sqrt{2},sympy:6*sqrt(2),0.875,0,False,16,True
+427,fixed_n16,16,6327,1,29,sympy:29,1.0,0,False,16,True
+428,fixed_n16,16,14650,2,64,sympy:64,0.8461538461538461,3,False,13,True
+429,fixed_n16,16,9580,1,50,sympy:50,0.875,0,False,16,True
+430,fixed_n16,16,3930,1,4.5,sympy:4.50000000000000,1.0,0,False,16,True
+431,fixed_n16,16,12566,3,"\left[\frac{\pi^2}{8}, \frac{5\pi^2}{4}\right]","sympy:Interval(pi**2/8, (5*pi**2)/4)",0.125,0,False,16,True
+432,fixed_n16,16,15683,2,0,sympy:0,0.625,8,False,8,False
+433,fixed_n16,16,9015,1,0.35625,sympy:0.356250000000000,1.0,0,False,16,True
+434,fixed_n16,16,9013,1,32,sympy:32,0.8125,0,False,16,True
+435,fixed_n16,16,10178,1,"(-\infty, 2) \cup (3, \infty)","sympy:Union(Interval.open(-oo, 2), Interval.open(3, oo))",1.0,0,False,16,True
+436,fixed_n16,16,16364,1,4,sympy:4,1.0,15,False,1,True
+437,fixed_n16,16,7231,1,3,sympy:3,1.0,0,False,16,True
+438,fixed_n16,16,4166,1,4,sympy:4,1.0,0,False,16,True
+439,fixed_n16,16,12591,1,x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1,sympy:x**8 + x**7 + x**6 + x**5 + x**4 + x**3 + x**2 + x + 1,1.0,3,False,13,True
+440,fixed_n16,16,6275,1,14,sympy:14,1.0,0,False,16,True
+441,fixed_n16,16,5529,1,550,sympy:550,1.0,0,False,16,True
+442,fixed_n16,16,4102,1,256,sympy:256,1.0,0,False,16,True
+443,fixed_n16,16,5351,1,45,sympy:45,1.0,0,False,16,True
+444,fixed_n16,16,11151,2,\frac{1}{4},sympy:1/4,0.42857142857142855,2,False,14,False
+445,fixed_n16,16,14963,4,16,sympy:16,0.1111111111111111,7,False,9,False
+446,fixed_n16,16,10594,1,8,sympy:8,0.875,0,False,16,True
+447,fixed_n16,16,6776,1,9,sympy:9,0.625,0,False,16,True
+448,fixed_n16,16,11719,1,44,sympy:44,1.0,0,False,16,True
+449,fixed_n16,16,4434,1,47,sympy:47,1.0,0,False,16,True
+450,fixed_n16,16,9487,1,64,sympy:64,1.0,0,False,16,True
+451,fixed_n16,16,7207,1,\frac{639}{40},sympy:639/40,0.875,0,False,16,True
+452,fixed_n16,16,6877,1,143,sympy:143,1.0,0,False,16,True
+453,fixed_n16,16,6774,1,10,sympy:10,1.0,0,False,16,True
+454,fixed_n16,16,16125,3,y = 4x + 1,"sympy:Eq(y, 4*x + 1)",1.0,12,False,4,False
+455,fixed_n16,16,6136,1,6,sympy:6,1.0,0,False,16,True
+456,fixed_n16,16,15607,1,"1, -2","sympy:{-2, 1}",1.0,5,False,11,True
+457,fixed_n16,16,3061,1,0,sympy:0,1.0,0,False,16,True
+458,fixed_n16,16,11824,1,41,sympy:41,0.7692307692307693,3,False,13,True
+459,fixed_n16,16,12274,1,18.90,sympy:18.9000000000000,0.6666666666666666,1,False,15,True
+460,fixed_n16,16,7723,3,105,sympy:105,0.1875,0,False,16,False
+461,fixed_n16,16,9612,1,12,sympy:12,1.0,0,False,16,True
+462,fixed_n16,16,8220,2,59,sympy:59,0.5,0,False,16,True
+463,fixed_n16,16,5984,1,2,sympy:2,1.0,0,False,16,True
+464,fixed_n16,16,12479,1,9,sympy:9,1.0,0,False,16,True
+465,fixed_n16,16,6034,1,121,sympy:121,1.0,0,False,16,True
+466,fixed_n16,16,11697,1,8\pi,sympy:8*pi,0.3125,0,False,16,True
+467,fixed_n16,16,4083,1,15,sympy:15,1.0,0,False,16,True
+468,fixed_n16,16,4005,1,8,sympy:8,1.0,0,False,16,True
+469,fixed_n16,16,4278,1,25,sympy:25,1.0,0,False,16,True
+470,fixed_n16,16,15041,5,27648,sympy:27648,0.3333333333333333,7,False,9,True
+471,fixed_n16,16,4250,1,84,sympy:84,1.0,0,False,16,True
+472,fixed_n16,16,6345,1,137\frac{1}{2},sympy:275/2,1.0,0,False,16,True
+473,fixed_n16,16,13016,1,7,sympy:7,1.0,1,False,15,True
+474,fixed_n16,16,10356,1,3,sympy:3,1.0,0,False,16,True
+475,fixed_n16,16,16119,2,139,sympy:139,0.0,13,True,3,False
+476,fixed_n16,16,5762,1,200,sympy:200,1.0,0,False,16,True
+477,fixed_n16,16,10121,1,2,sympy:2,0.625,0,False,16,True
+478,fixed_n16,16,8826,1,0,sympy:0,1.0,0,False,16,False
+479,fixed_n16,16,6614,1,2,sympy:2,0.875,0,False,16,True
+480,fixed_n16,16,8227,1,1,sympy:1,1.0,0,False,16,True
+481,fixed_n16,16,14010,4,\frac{64n^4 + 1}{5},sympy:(64*n**4 + 1)/5,0.0,5,True,11,False
+482,fixed_n16,16,9961,1,202,sympy:202,0.3125,0,False,16,True
+483,fixed_n16,16,16095,1,\frac{8}{15},sympy:8/15,0.3333333333333333,13,False,3,True
+484,fixed_n16,16,13695,1,10,sympy:10,1.0,1,False,15,True
+485,fixed_n16,16,14681,4,12,sympy:12,0.4,11,False,5,False
+486,fixed_n16,16,3506,1,216,sympy:216,1.0,0,False,16,True
+487,fixed_n16,16,6013,1,2,sympy:2,1.0,0,False,16,True
+488,fixed_n16,16,3530,1,36,sympy:36,1.0,0,False,16,True
+489,fixed_n16,16,8593,1,15,sympy:15,1.0,0,False,16,True
+490,fixed_n16,16,13587,7,0,sympy:0,0.09090909090909091,5,False,11,False
+491,fixed_n16,16,7272,3,16,sympy:16,0.14285714285714285,2,False,14,False
+492,fixed_n16,16,9023,1,y = -2x,"sympy:Eq(y, -1*2*x)",1.0,0,False,16,True
+493,fixed_n16,16,10779,1,20,sympy:20,0.8125,0,False,16,True
+494,fixed_n16,16,13614,9,1,sympy:1,0.16666666666666666,4,False,12,False
+495,fixed_n16,16,8300,1,"(2, 12) \cup (12, 102)","sympy:Union(Interval.open(2, 12), Interval.open(12, 102))",1.0,0,False,16,True
+496,fixed_n16,16,8836,1,\dfrac{5}{13},sympy:5/13,1.0,0,False,16,True
+497,fixed_n16,16,10713,7,2,sympy:2,0.3125,0,False,16,False
+498,fixed_n16,16,14758,1,1,sympy:1,0.38461538461538464,3,False,13,False
+499,fixed_n16,16,5193,1,106,sympy:106,1.0,0,False,16,True

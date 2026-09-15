@@ -1,0 +1,19 @@
+{
+  "status": "GENERATIONS_COMPLETE",
+  "started_at": "2026-09-15T05:07:50.018890+00:00",
+  "updated_at": "2026-09-15T07:16:10.103788+00:00",
+  "completed_generations": 8000,
+  "target_generations": 8000,
+  "peak_vram_mb": 5939.95068359375,
+  "model": "Qwen/Qwen2.5-Math-1.5B-Instruct",
+  "model_revision": "aafeb0fc6f22cbf0eaeed126eff8be45b0360a35",
+  "dataset": "HuggingFaceH4/MATH-500",
+  "dataset_revision": "6e4ed1a2a79af7d8630a6b768ec859cb5af4d3be",
+  "decoding": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "do_sample": true,
+    "max_new_tokens": 1024
+  },
+  "seed_policy": "seed=30260915+question_index*16+(sample_index-1)"
+}

@@ -1,0 +1,11 @@
+{
+  "matplotlib_version": "3.11.2",
+  "rendering_only": true,
+  "formats": [
+    "pdf",
+    "svg",
+    "png"
+  ],
+  "png_dpi": 400,
+  "intervals": "Preregistered 95% question-level percentile bootstrap; individual-method intervals are not paired-difference intervals."
+}

@@ -1,0 +1,7 @@
+method,scope,correct_count,accuracy,accuracy_ci_low,accuracy_ci_high,total_samples,mean_samples,median_samples,total_output_tokens,mean_output_tokens,sample_reduction_vs_n16_pct,token_reduction_vs_n16_pct,token_reduction_vs_n8_pct,invalid_extractions,ties,all_invalid_questions,invalid_extraction_rate,tie_rate,all_invalid_rate
+adaptive,prospective primary,387,0.774,0.738,0.81,1861,3.722,2.0,1174171,2348.342,76.7375,73.69044436731484,47.281698772704516,234,8,3,0.12573885008060182,0.016,0.006
+fixed_n1,fixed-budget baseline,360,0.72,0.68,0.758,500,1.0,1.0,278478,556.956,93.75,93.76016573950567,87.49680660723627,36,0,36,0.072,0.0,0.072
+fixed_n2,fixed-budget baseline,367,0.734,0.696,0.772,1000,2.0,2.0,556706,1113.412,87.5,87.5259332090048,75.00483779360692,76,85,15,0.076,0.17,0.03
+fixed_n4,fixed-budget baseline,381,0.762,0.726,0.798,2000,4.0,4.0,1117469,2234.938,75.0,74.96096154367547,49.827523117020725,156,55,5,0.078,0.11,0.01
+fixed_n8,fixed-budget baseline,382,0.764,0.728,0.8,4000,8.0,8.0,2227255,4454.51,50.0,50.094075453510456,0.0,310,34,4,0.0775,0.068,0.008
+fixed_n16,fixed-budget baseline,393,0.786,0.75,0.82,8000,16.0,16.0,4462907,8925.814,0.0,0.0,-100.3770111639664,637,20,3,0.079625,0.04,0.006

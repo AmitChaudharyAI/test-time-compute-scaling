@@ -1,0 +1,5 @@
+category,count,percentage
+both_correct,383,76.6
+adaptive_only,4,0.8
+fixed_only,10,2.0
+both_wrong,103,20.6

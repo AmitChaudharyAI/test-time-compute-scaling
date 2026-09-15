@@ -1,0 +1,3 @@
+panel,scope,adaptive_accuracy,fixed_n16_accuracy,mean_samples,token_reduction_vs_n16_pct
+historical offline,secondary descriptive separate panel,0.784,0.788,4.038,71.15517297692402
+fresh prospective,prospective panel,0.774,0.786,3.722,73.69044436731484

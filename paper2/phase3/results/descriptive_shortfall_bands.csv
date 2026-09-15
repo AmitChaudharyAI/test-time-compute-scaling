@@ -1,0 +1,4 @@
+band_pp,observed_difference_within_band,token_reduction_pct,interpretation
+0.5,False,73.69044436731484,"descriptive, not non-inferiority"
+1.0,False,73.69044436731484,"descriptive, not non-inferiority"
+2.0,True,73.69044436731484,"descriptive, not non-inferiority"

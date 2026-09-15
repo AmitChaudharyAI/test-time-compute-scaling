@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "records": 8000,
+  "unique_pairs": 8000,
+  "missing_pairs": 0,
+  "duplicate_pairs": 0,
+  "questions": 500,
+  "samples_per_question": 16,
+  "all_seeds_match_seed_audit": true,
+  "ordered_seed_sha256": "12e876aecfc5d8f2752e590f2e14263cc1f4f3ee4764276043843a344a87298a",
+  "historical_seed_overlap": 0,
+  "raw_sha256": "04691978336a0a64bc73a87316d4031764ab9c41d28e183afae6cc74b95e5d93",
+  "identical_text_excess_records": 38,
+  "full_experimental_output_tokens": 4462907,
+  "invalid_extractions": 637
+}

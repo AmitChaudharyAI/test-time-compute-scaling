@@ -53,3 +53,6 @@ dist/
 paper2/.deps/
 paper2/.frozen_analysis_deps/
 paper2/.deps/
+
+# Phase 3 temporary process lock
+/paper2/phase3/generation.lock
