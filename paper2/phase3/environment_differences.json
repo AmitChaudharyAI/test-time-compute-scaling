@@ -1,0 +1,45 @@
+{
+  "scope": "All version-pinned packages in the Paper 1 snapshot; scoring/generation core versions verified separately. Missing historical analysis/notebook packages are not required for generation.",
+  "differences": [
+    {
+      "package": "anyio",
+      "paper1": "4.14.2",
+      "phase3": "4.15.1"
+    },
+    {
+      "package": "cuda-pathfinder",
+      "paper1": "1.8.0",
+      "phase3": "1.8.1"
+    },
+    {
+      "package": "filelock",
+      "paper1": "3.32.4",
+      "phase3": "3.32.5"
+    },
+    {
+      "package": "ipython",
+      "paper1": "9.17.0",
+      "phase3": "9.17.1"
+    },
+    {
+      "package": "multidict",
+      "paper1": "6.7.1",
+      "phase3": "6.8.0"
+    },
+    {
+      "package": "platformdirs",
+      "paper1": "4.11.5",
+      "phase3": "4.11.7"
+    },
+    {
+      "package": "sentencepiece",
+      "paper1": "0.2.2",
+      "phase3": null
+    },
+    {
+      "package": "wcwidth",
+      "paper1": "0.8.2",
+      "phase3": "0.8.3"
+    }
+  ]
+}

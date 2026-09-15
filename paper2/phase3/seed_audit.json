@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "paper1": {
+    "formula": "20260902 + question_index * 16 + (sample_index - 1)",
+    "count": 8000,
+    "unique_count": 8000,
+    "minimum": 20260902,
+    "maximum": 20268901
+  },
+  "phase3": {
+    "formula": "30260915 + question_index * 16 + (sample_index - 1)",
+    "count": 8000,
+    "unique_count": 8000,
+    "minimum": 30260915,
+    "maximum": 30268914
+  },
+  "index_domains": {
+    "question_index": [
+      0,
+      499
+    ],
+    "sample_index": [
+      1,
+      16
+    ]
+  },
+  "intersection_size": 0,
+  "intersection_minimum": null,
+  "intersection_maximum": null,
+  "ordered_phase3_seed_list_sha256": "12e876aecfc5d8f2752e590f2e14263cc1f4f3ee4764276043843a344a87298a",
+  "fingerprint_serialization": "UTF-8 compact JSON integer array, separators comma and colon, no trailing newline; question_index ascending then sample_index ascending",
+  "frozen_policy_sha256": "d6a2835c17d943bc6f07bc50f745c76e175b74287666f806b13d0945fe5e290f",
+  "frozen_policy_matches_checkpoint": true,
+  "git_commit": "f6d3845386f39bc9f470416c36e1f74a7f74cdcd",
+  "inference_permitted": false,
+  "reason": "Authorized pre-inference seed correction; zero overlap.",
+  "rejected_seed_base": 20260915,
+  "rejected_intersection_size": 7987,
+  "prospective_generations_at_correction": 0
+}
